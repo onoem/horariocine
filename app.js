@@ -133,6 +133,31 @@ function renderMovies() {
     }
 
     filtered.forEach(movie => {
+        let sessionsHtml = '';
+        let st = null;
+
+        if (currentFilter === 'all') {
+            // Find the *first* showtime that has at least one future session
+            st = movie.showtimes.find(s => s.sessions.some(ses => !isSessionPast(s.day, ses.time)));
+        } else {
+            st = movie.showtimes.find(s => s.day === currentFilter);
+        }
+
+        if (st) {
+            const futureSessions = st.sessions.filter(s => !isSessionPast(st.day, s.time));
+            if (futureSessions.length > 0) {
+                sessionsHtml = `
+                    <div class="card-sessions">
+                        ${futureSessions.map(s => `
+                            <a href="${s.link || '#'}" class="card-session-btn" target="${s.link ? '_blank' : '_self'}" onclick="${s.link ? 'event.stopPropagation();' : 'return false;'}">
+                                ${s.time}
+                            </a>
+                        `).join('')}
+                    </div>
+                `;
+            }
+        }
+
         const card = document.createElement('div');
         card.className = 'movie-card';
         card.innerHTML = `
@@ -140,6 +165,7 @@ function renderMovies() {
             <div class="movie-info">
                 <div class="movie-title">${movie.title}</div>
                 <div class="movie-meta">${movie.duration || ''} ${movie.duration && movie.director ? '|' : ''} ${movie.director || ''}</div>
+                ${sessionsHtml}
             </div>
         `;
         card.addEventListener('click', () => openModal(movie));

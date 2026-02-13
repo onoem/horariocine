@@ -320,3 +320,26 @@ footer {
     color: var(--text-muted);
     font-size: 1.2rem;
 }
+
+.card-sessions {
+    margin-top: 0.8rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+}
+
+.card-session-btn {
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    text-decoration: none;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    transition: background 0.2s;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.card-session-btn:hover {
+    background: var(--primary);
+    border-color: var(--primary);
+}
