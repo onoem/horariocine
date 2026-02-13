@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+*.html
+!index.html
+# Avoid ignoring data.json if it's meant to be part of the repo
+# data.json is updated by actions
+# Actually, the requirement said "store it in a static file" in the repo.
+# So we should keep data.json but maybe ignore the raw .html files we downloaded.
+programacio.html
+koobin.html
+package-lock.json

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ca">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Screenbox Lleida - Horaris</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header id="header">
+        <div class="logo">Screenbox</div>
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Buscar películas...">
+        </div>
+    </header>
+
+    <main>
+        <div class="date-filter" id="date-filter">
+            <button class="date-btn active" data-date="all">Todas</button>
+            <!-- Dates will be injected here -->
+        </div>
+
+        <div class="movies-grid" id="movies-grid">
+            <!-- Movies will be injected here -->
+        </div>
+    </main>
+
+    <div class="modal" id="movie-modal">
+        <div class="modal-close" id="modal-close">&times;</div>
+        <div class="modal-content">
+            <div class="modal-image">
+                <img id="modal-img" src="" alt="">
+            </div>
+            <div class="modal-details">
+                <div class="modal-title" id="modal-title"></div>
+                <div class="modal-metadata">
+                    <span id="modal-duration"></span>
+                    <span id="modal-director"></span>
+                </div>
+                <div class="modal-synopsis" id="modal-synopsis"></div>
+                <div class="showtimes-container" id="modal-showtimes">
+                    <!-- Showtimes will be injected here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Screenbox Lleida. Datos extraídos de screenbox.cat</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
