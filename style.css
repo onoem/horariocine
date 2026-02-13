@@ -353,3 +353,29 @@ footer {
     text-transform: uppercase;
     letter-spacing: 0.5px;
 }
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        padding: 1rem;
+        gap: 1rem;
+        background: rgba(20, 20, 20, 0.95);
+        backdrop-filter: blur(10px);
+    }
+
+    .logo {
+        font-size: 1.5rem;
+    }
+
+    .search-container {
+        margin: 0;
+        width: 100%;
+        max-width: 100%;
+    }
+
+    main {
+        padding-top: 10rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}
