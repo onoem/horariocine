@@ -3,33 +3,38 @@ let currentFilter = 'all';
 let searchQuery = '';
 
 function isSessionPast(dayStr, timeStr) {
+    if (!dayStr || !timeStr) return false;
+
     const now = new Date();
 
-    // Extract day number from "Vie. 13"
+    // Extract day number from "Vie. 13" or "Ds. 14"
     const dayMatch = dayStr.match(/(\d+)/);
     if (!dayMatch) return false;
     const dayNum = parseInt(dayMatch[1]);
 
-    // Extract time from "10.15-ES" or "10:15"
-    const timeMatch = timeStr.match(/(\d{1,2})[\.:](\d{2})/);
+    // Extract time from strings like "10.15-ES", "10:15", "18.00-VOSE"
+    const timeMatch = timeStr.match(/(\d{1,2})[\.\:](\d{2})/);
     if (!timeMatch) return false;
     const hour = parseInt(timeMatch[1]);
     const minute = parseInt(timeMatch[2]);
 
-    // Construct a date for this session
-    // We assume the session is within a reasonable window of the current date
+    // Construct a date for this session in the current year/month
+    // Note: getMonth() returns 0-11
     let sessionDate = new Date(now.getFullYear(), now.getMonth(), dayNum, hour, minute);
 
-    // Handle month roll-over:
-    // If today is the 28th and the session is the 1st, it's likely next month.
-    // If today is the 1st and the session is the 28th, it's likely previous month.
-    const diffDays = (sessionDate - now) / (1000 * 60 * 60 * 24);
+    // Month rollover logic:
+    // We assume the schedule is for the near future (within ~20 days).
+    // if today is the 25th and the session is the 2nd, it's next month.
+    // if today is the 2nd and the session is the 25th, it's either current month or last month (but schedule is usually future).
+    const diffTime = sessionDate.getTime() - now.getTime();
+    const diffDays = diffTime / (1000 * 60 * 60 * 24);
 
     if (diffDays < -15) {
-        // Session date seems to be in the past but it's probably next month if day numbers are small
+        // If session seems to be more than 15 days in the past, it's likely next month
         sessionDate.setMonth(sessionDate.getMonth() + 1);
-    } else if (diffDays > 15) {
-        // Session date seems to be in the future but it's probably previous month if day numbers are large
+    } else if (diffDays > 20) {
+        // If session seems to be more than 20 days in the future, it might be from the previous month 
+        // (unlikely for a movie schedule, but keeps logic balanced)
         sessionDate.setMonth(sessionDate.getMonth() - 1);
     }
 
