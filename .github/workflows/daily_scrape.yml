@@ -23,6 +23,7 @@ jobs:
       - name: Download latest showtimes
         run: |
           curl -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" https://www.screenbox.cat/programacio -o programacio.html
+          curl -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" "https://screenbox.koobin.cat/?idioma=CA&act=1" -o koobin.html
 
       - name: Run scraping script
         run: node scrape.js
@@ -31,6 +32,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          git commit -m "Update movie schedules [skip ci]" || echo "No changes to commit"
+          git add data.json programacio.html koobin.html
+          git commit -m "Update movie schedules and source HTML [skip ci]" || echo "No changes to commit"
           git push
