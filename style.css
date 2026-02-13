@@ -310,3 +310,13 @@ footer {
     text-align: center;
     color: var(--text-muted);
 }
+
+.no-movies {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 3rem;
+    background: var(--surface);
+    border-radius: 12px;
+    color: var(--text-muted);
+    font-size: 1.2rem;
+}
