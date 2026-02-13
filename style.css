@@ -343,3 +343,13 @@ footer {
     background: var(--primary);
     border-color: var(--primary);
 }
+
+.card-day {
+    font-size: 0.85rem;
+    color: var(--primary);
+    font-weight: 700;
+    margin-top: 1rem;
+    margin-bottom: 0.3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}

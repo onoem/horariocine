@@ -146,7 +146,9 @@ function renderMovies() {
         if (st) {
             const futureSessions = st.sessions.filter(s => !isSessionPast(st.day, s.time));
             if (futureSessions.length > 0) {
+                const dayLabel = currentFilter === 'all' ? `<div class="card-day">${st.day}</div>` : '';
                 sessionsHtml = `
+                    ${dayLabel}
                     <div class="card-sessions">
                         ${futureSessions.map(s => `
                             <a href="${s.link || '#'}" class="card-session-btn" target="${s.link ? '_blank' : '_self'}" onclick="${s.link ? 'event.stopPropagation();' : 'return false;'}">
