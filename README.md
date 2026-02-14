@@ -1,18 +1,18 @@
-# HorarioCine Screenbox
+# HorarioCine
 
-Aplicación web moderna para consultar los horarios de las películas en Screenbox Lleida.
+Aplicación web moderna para consultar los horarios de las películas en cines locales.
 
 ## Características
 
 - **Actualización Diaria**: Los horarios se actualizan automáticamente cada día mediante GitHub Actions.
 - **Buscador**: Busca películas por título de forma instantánea.
 - **Filtro por Fecha**: Consulta qué películas se proyectan cada día de la semana.
-- **Compra de Entradas**: Enlaces directos a la plataforma de compra de Koobin para cada sesión.
+- **Compra de Entradas**: Enlaces directos a la plataforma de compra para cada sesión.
 - **Diseño Responsive**: Optimizado para móviles y escritorio con una estética premium.
 
 ## Cómo funciona
 
-1. El flujo de GitHub Actions descarga la programación de `screenbox.cat` diariamente.
+1. El flujo de GitHub Actions descarga la programación de fuentes externas diariamente.
 2. Un script en Node.js (`scrape.js`) extrae los títulos, imágenes, sinopsis y horarios.
 3. Los datos se guardan en `data.json`.
 4. La aplicación web (`index.html`) carga y muestra los datos dinámicamente.
