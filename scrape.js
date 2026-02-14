@@ -43,24 +43,6 @@ async function scrape() {
 
             let day = $cells.eq(0).text().trim(); // e.g. "Dv. 13"
 
-            // Translate day
-            const translations = {
-                'Dv.': 'Vie.',
-                'Ds.': 'Sáb.',
-                'Dg.': 'Dom.',
-                'Dll.': 'Lun.',
-                'Dt.': 'Mar.',
-                'Dc.': 'Mié.',
-                'Dj.': 'Jue.'
-            };
-
-            for (const [cat, esp] of Object.entries(translations)) {
-                if (day.startsWith(cat)) {
-                    day = day.replace(cat, esp);
-                    break;
-                }
-            }
-
             const sessions = [];
 
             $cells.slice(1).each((k, td) => {

@@ -128,7 +128,7 @@ function renderMovies() {
     });
 
     if (filtered.length === 0) {
-        grid.innerHTML = '<div class="no-movies">No hay sesiones disponibles para la búsqueda o fecha seleccionada.</div>';
+        grid.innerHTML = '<div class="no-movies">No hi ha sessions disponibles per a la cerca o data seleccionada.</div>';
         return;
     }
 
@@ -184,7 +184,7 @@ function openModal(movie) {
     document.getElementById('modal-synopsis').innerText = movie.synopsis;
 
     const showtimesContainer = document.getElementById('modal-showtimes');
-    showtimesContainer.innerHTML = '<h3>Horarios</h3>';
+    showtimesContainer.innerHTML = '<h3>Horaris</h3>';
 
     movie.showtimes.forEach(st => {
         const futureSessions = st.sessions.filter(s => !isSessionPast(st.day, s.time));
