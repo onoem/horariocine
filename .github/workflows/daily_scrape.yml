@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json programacio.html koobin.html
+          git add -f data.json programacio.html koobin.html
           git commit -m "Update movie schedules and source HTML [skip ci]" || echo "No changes to commit"
           git push
