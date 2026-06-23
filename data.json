@@ -1,7 +1,7 @@
 [
   {
     "title": "TOY STORY 5",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/toystory5_2026-1920w.jpg?Expires=1784583607&Signature=TEP4zlVYRQ-L6pUTuZGmjMjWUCP2jjoiO~jPYBKiAWwVML~-jPhoF7RV94AhkSvNkG1T6MUsLiNR1YWsYU63O3ui9mia4MqCKC7HmncujkqezvK2jUQHq4i0AFy3cSVwDlRBKgKlaFzDtv16aUMHWK8FLAHhGw0Vg8-sWmkkE3CS2QTjSVeoXIDa7ukWJrFsxWs11j1lhIJmuupnMMsHjGqp~nieXObnhTNQQ-mdAeTbaZz3k5VbIs~Xhcgt63C6bEyLbFFJeMSE6sx5Wz7CZ6rXRwPCGu7uhwzx4lD8ZaJH242JyxE5-iYquzn1UE79ODeeW4GUAIMgZkFjqAUpTw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/toystory5_2026-1920w.jpg?Expires=1784799806&Signature=AG0DTZn48J7nXv4YGcosDlV-ixNOPFhNKPA7j0lYeuhEYGGpEOqinYTQq0RjhxS5wYcOagXRGBwkEqDIlQ6Qo1YkRAYuwQfeArSyhStoHYrd-Zv~54qDZHtvRTN4xtkqgk3mNgnp5tDW5~KIaYvhzu8wJgRj9dD8xCpXi6JQz5oHPLg2HDO9ISSOCgOKKe7RGrgpSAS3pAkbqQsVIPG099nOhxKSbENSuZEzQkZPZ6mPH9UzeRihLsdiBy-Ssge~StwfjIvIO0kiDH72hXDiY8XRjf-6mUNBPMwpDibBN-HtocJP9uC7DKxFNe2ONtruCpP8q7AxmV9GQvMUDH5AtQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Andrew Stanton",
     "cast": "",
@@ -98,7 +98,7 @@
             "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86055"
           },
           {
-            "time": "22.35-VOSE",
+            "time": "22.55-VOSE",
             "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86073"
           }
         ]
@@ -178,7 +178,7 @@
   },
   {
     "title": "VIVA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/viva_2025-1920w.jpg?Expires=1784583607&Signature=Q43b0a5UR5zyRyxCxSJ8t2SqkLwqbjUKWQOONDpl89BkC58lJ-DgljA~R9wcTx6bS41phNl~lMlFPayMkBPg8vRj8b3x1cmw9yMl3QL1E4Ni4OQ8TW0j9jZRbILUU7MfmF2haJRwYRMdB8MMYTSYiIZsQRGzXE4SQ9Sokt5xpMHwB64KQcd9OR9ckXyZRlMl-1d~vtI-zKjupeoYzSinVFZ0rloPfHn8Aw4g40jDbFLNGN~hTzHPsyLj9zxKmqV9F7oXphG4YPds37praO-fA7Dw6YpZLPexYBaZHaB~B7mueRKdGESVVnJfPJorhR~K7dJ8N643Br2-9kVviqO4GQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/viva_2025-1920w.jpg?Expires=1784799806&Signature=GhJWq2GC-NHNW32OeViRZOSjHujKWjt5H-6KCeFLZPUg9mHwTfXPO6p86AIITsy9WsL8QP6R67izDXEnEQnbm9zF5pNC3sWatwFQftVwoMWhDjNyDoTxElGWhjLqniHJl~KMe8qGyxtPutNQjo6ng4eKXn9Ig~Kb-TsthZlA93evMvLbtCDqK7y-qraqxAdR9e1cq7Gc5XnzUdhMqLLh-G3z6TOpBE5PxfaX82~lPe3piV7y5bHvrWSYwtRn4uqAfJd2NKu8A9lFaOrbOesjxSIwqkWL9~GWCZslYAJSwzUEltfnMyxeNkmAums2TfxpxZ1Y2JLtVsE4Vd7Hxyo6rw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Aina Clotet",
     "cast": "Aina Clotet, Marc Soler, Naby Dakhli, Zaïra Pérez, Lloll Bertran, Guillermo Toledo, Xavi Daura, Laura Conejero, Josh Zuckerman",
@@ -259,6 +259,10 @@
             "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86148"
           },
           {
+            "time": "21.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86398"
+          },
+          {
             "time": "22.40",
             "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86160"
           }
@@ -319,7 +323,7 @@
   },
   {
     "title": "EL PLACER ES MÍO",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_placer_es_mio-cartel-13258-1920w.jpg?Expires=1784583607&Signature=PBf~ChMrCD6K59BNe4mZPF7uCKzQ5a~4-o1yH3mcZOStx0A1MyoT03E-IGRUzwc4qBOcZdi4cbzwb0iz~p1dmSfbHREf7A83xqKy-chpdhaj4T1MuHJ6BgzGPpz9SErjrFzHFPtfc-u6zVV-U~EwR6X-kcLi9QJdKVhh~2Z5Q3RdlvJunz87X9gk~ePJx3uIEoQwWfkjXMDuj2Mz5~nyILzrSt0LzvN0UTMA24eVbiXEKBT~IPIqzhC1pQf9AyAbVOZTg7D-2rFAFFKwUEZ6PoVhICNzxjc4k5z3sFteoFtCx~YeL08DQHiXtOOV5fLCHcxn7FLvOmck0SgMNfHkvQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_placer_es_mio-cartel-13258-1920w.jpg?Expires=1784799806&Signature=RW-8sx5ySaTSiilFI43uod2szv8A7g3-U7vplIYAujb7YzIaaNSWtUei-vmfNa3ifJC7qpGJXnLC4WTgbLMUZMtUkGNcftUyYG3gjV0rK5zjXZciEcj~CCLYmQwtps7XaZEPveKq9a51zNuDDuBfHoM9ID9FfItkvHZiVAX606X5Zf0U3K7hDrVaTW03k~LxVnfw1POKGYFICwt9TIRjh2VRfteLa46lQsmQVhUhjFkCLjigo0C0BKZnIqtEsVeXbk9mmf86PD19sxMRfxQY~2aRhksRGqTsBSrgDxL70sydPjaLYtPT8NGn14130Y9Gwf~TJiN-WVQ5sm6xt2SRMw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Reem Kherici",
     "cast": "Alexandra Lamy, François Cluzet, Reem Kherici, Mitty Hazanavicius, Kyan Khojandi, Delphine Baril, François-Xabier Demaison",
@@ -378,10 +382,6 @@
           {
             "time": "11.45-VOSE",
             "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86209"
-          },
-          {
-            "time": "21.10-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86184"
           }
         ]
       },
@@ -436,7 +436,7 @@
   },
   {
     "title": "DREAMS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/dreams-cartel-13030-1920w.jpg?Expires=1784583607&Signature=F9Tusx3uyPZNetdh1nHOpE9dUy0Kr2lcYVKkHjhyUX2IYtgMYkP3fQJEGNEYPYfYaEc4LK5oLc6-BUuNIuOPiypIUiNc1Dj4tTWrFQgVtq1LI6LEE9kyfg1PIUeOuFTsin6HBwWv-mh1k3vAl5GVyMDjcUo-n-6RruczMltqSZ~~LMxyy8X4stq0ggTH3275WBCeQ0n4K-eCgdW7AszH2giBc2OOQV1Xnl7LV8eh7LF2ePk4JCQCJgSPNAeJ6w23~Ygr4TzjhBb~0b9Rh2BlUsHBrhBw55D17RCA-fc6XJaeBbNyYs0vUbEvpxYMC19tBflOsyFk2ZeSS~wok5mBWg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/dreams-cartel-13030-1920w.jpg?Expires=1784799806&Signature=gcX3FhJFNYPvuBXNRirzTb2ID5tjgzDX0ng47k0zXLCONoeK2lDlCa6jmkss4ajmLhYYAEyOsYwibiVrpk7IxCFYJhab1ReuJNUeOo6yXa76l0a4KT8HRmWu2G3xYWnAljUqULZZb4i12BBXzahnCiaVlDuHnCmp2E1-YkTiH1kwaPLlUZ3RDTUYKV6yR2C7Wlum8aKo784Lzc1n3iLMUTLyHmwPozXzxJf2kBJ5MXQy4ySGumvRYm159d46vZl8iWW3bhhuiHJzLD3w~-ueWclU5YxGZip0fXB9lUhJO-uBeBHQjKl~OWDmvV1mhvTKH45WkzTIwU9Po-Y3Z1Rjvw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Michel Franco",
     "cast": "Jessica Chastain, Isaac Hernández, Rupert Friend, Marshall Bell",
@@ -541,7 +541,7 @@
   },
   {
     "title": "LA MEMÒRIA DE LES PAPALLONES",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/lamemoriadelespapallones_2025-1920w.jpg?Expires=1784583607&Signature=rTlmVqFvl0wdsHKmJDvYmOKwbF9bCTXjSnXh9dJGzYyPZ8S3vAlHk~sj361NdogSNKznvU6M70rgybJSQ~IpXnmcgNtvyxTeOhwnNGfRnIFt09rteYbVP8YR4kgoDPrgLvRAO89J84AtWOjsMla1NJx3hWeoivEfmK-8QqPrUT8OswAkbn9Q0juxrSLhUqu4SMlgM7Wiw8sNTZPdfxUA81WD38TPdqciqe~O0A0I-9roqu9WHnDTC9pzVFYzX-lO1xh0wLLEgTVfrewvlFK4hToFB2b10wlSsKZTgxVhDHVjq5RR1nJM2IDqYw6x47ImO7FdeMqxyPPVYA1HjllnbA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/lamemoriadelespapallones_2025-1920w.jpg?Expires=1784799806&Signature=iB5onD7A78~TA8wwf32AMap2IJwuc~Tds0MtwlOfThLd~4qzcdXfr7ak515B8AI9AtO-T5sD~S43kx87PHBWLve~Dh5NT0edWQn1Qzt7KEvTiNNP7dLjEgVHfIgV5BOiRtOMbCx7lzOY0s64DlK6JyDPYpVTs0OpPw7CprWV7NqKaBa-XUJB9r0MLEgMEZkFW4lAiTXm2K1aUb~H2wlyHZY163N8z-1VbLXfDZvuCac0YBiiF4gr78GsDoxvRS5jN-K5Z6ixBTYIj4FIQwwUBUEQ3bt~FYUvqbNbxz68AqvO3Fk1ZMMieiS1JuUYH7K6k0VW55Bn830MDrZgz5iShA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Marta Viña Berbís",
     "cast": "Núria Florensa, Iván Massagué, Íngrid Escobar, Jana Parella",
@@ -638,7 +638,7 @@
   },
   {
     "title": "BAJO EL MISMO SOL",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/bajo_el_mismo_sol-cartel-13264-1920w.jpg?Expires=1784583607&Signature=cRZjI42dRGQTAXoL1PjbLWIzbEXhGMaaWPgUpmWN49T8GfxRQqXjmQVCjBI1wFPF4YsmA-6UK3zL50fV8ORbzeyOdGMhsk3XiDs5sOt6mfl6XcLloZckaBJssifxOIVwNNDz5QkEaXArzsDTcXf-GOV6u3c7URVE66MwccaawKgo566Gg8DxV2Q1DMhcVeVifmAr7g9MRMZ4hCuclUSkMDazdm6oR0YSkSFICtHDGDj07XAmr2T58agofj2eK6A026oCF3MagXmkEKQrmuGHC9Dm6A13F4IrefKpWyZP38zO3EaGGkDybBD4O6m-i424YVIrEAIy5qdRnUMZ1y4JXw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/bajo_el_mismo_sol-cartel-13264-1920w.jpg?Expires=1784799806&Signature=QDY5yronPLWRE-mhBxhWINYclY-XOilyoMzRRUBoLYo8FJlfdwSjlVPIuaJJuGgM3E8Xhc-ovVPAy1Ik4N5jFFogFfP5rkE-RNmVDhWTR8pTFPnj1k38R-fD1gQjonLO1DoBTyMd3OPiW78sAwvkp8txhwShPyjUlGOva6ovFg0YZYKIQu86zNVUfB-HWjvhM5x0slzeSmMF9lbKgrHRnYCMD3vlHUQstS93Vnrw2nNhNGPxVoTabmt7CMp7ER5onODTOVHiJ-XZgwu8HyU2x0EmJNAe8YD8dqMNMWiWk7Nk47Kt7mjKz7PtdZHoTNzw9Mw-yGYFMwsqjaGlILCNUw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Ulises Porra",
     "cast": "David Castillo, Valentina Shen Wu, Jean Johnny, Toni Regueiro, Augustin Rousseau,  Cecile van Weile, Víctor Ramírez",
@@ -731,7 +731,7 @@
   },
   {
     "title": "15 PRUEBAS DE AMOR",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/15_pruebas_de_amor-cartel-13235-1920w.jpg?Expires=1784583607&Signature=qgzw8x8f8mrTPPy9m6ZcvMlQGHtMHDlonYn5ktApo~rEMuGz3r1BKkP4m7zs8yoQNJMJiXYw~PKNgOzHDv6Qp6HSaUdE4lQqLuWJh6KqfTKNDsgVxqLPY980dWv7z7cVXsAmm5LGFq49x3cguZJzkfjFp6bjiuL22K7VenZQqTAoiP7j4yBCPtVeYW2d17RrX1h6j1~9I79ncj2TTDWVdorXuxwPNYxGipcSSyYGFf9czUTqX-nCmsMNkik5dm9EPBz9mjUHAQkSLVP8K1nTTD6jBaJFzEon2Z-3Au8UuCBnTlu2eRwsVMJVBNrcirpd0L1fH85FJASFvP26eJzLDQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/15_pruebas_de_amor-cartel-13235-1920w.jpg?Expires=1784799806&Signature=pVM0VsGgT8itqd9f3wYlbHLBWTsY~NgF1W78xnuQ6PNSddykHRZ8HYaHmGKdsNo5SPwruLRttJIZapuZxdielwBB-sm9SGuRpXIMtLkIKYKq3Qtq02EVZ4W~v3Qvd4tK~HyzEkPxxFQVVNjFRq9isOZlzWvoUH4bSZoEYZ0CeraAoOpZeqaNxRkyFupSqeTPcsjbwsd0PJhO4yF1OSqSo46DRsf0xkK~lhWx-IJB7gdHvLrMZHFyd1S2SHRidDnSMb6zMp6S7t~X1QcI-YjlmdI42WxQetGKyma1M06xvHXwceqoquFVgpfwxpqzoCF~dBFBIJOSzqQnbpZ~PkqRuQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Alice Douard",
     "cast": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Emy Juretzko, Jeanne Herry",
@@ -804,7 +804,7 @@
   },
   {
     "title": "CASO 137",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/caso_137-cartel-13172-1920w.jpg?Expires=1784583607&Signature=eJ6qNRrnzWm8s3NejiPk3Cg0wKeNoN0RnE1ppr8HL1xvapT2RJGFK4SUYCvymOjUlwer7CKt0kIsZsqf0csIni2FCWqUaelZRIsU47vIh7dSCoYgdgs8D6OSduUAtFtQqt~98OLO0AmXGj2i3S7BYSLx0-pzYwoYyqnpKDKXa3~3L46u0qN37d7RbXkn4GptPCkbmplIRVsku3lLqvS59ZHNFt6Ar-Bk-S27uC42ije7mgEZ-u6WWrrgZpg1Fez1slQvwgsnXUQnD7nyJMPcUct3a-3KM1rmJHn4F7XStVttv9RScO9~SxwfIcXGXxJOu201TbkPEckPq8A0tmeVcA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/caso_137-cartel-13172-1920w.jpg?Expires=1784799806&Signature=L1m1Z3rOnyXE2peBhFwdC~W1RraSdBhfcYvfnM3BT2PntApcjb4NXT3LMJJjYSQltNPe6migJtx~S9lyC0Bf6en7~X9dG8gDzrr34y6hNRZUoYH9aVTSJg6fHCnF-o-Zr-77Vk~ZID48lz9fibKrdHke4uMom18tA5uNcrBTXVDU0A8SwbOCM9WwUHB3aNtudnyaX7ZRKG5IITeYplcn3GbXxRynlUvmkY8BWzcPCODkAhmtBDasdxj9p6Hoq5KXGOD8KF-A4y8zfTi21j6ma92w1lAbwQrEdA821YEZVZwEjkzYLjtB7wB-J3fV0HaKCAiNZOMBFnJe3B7qcQ6YgA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Dominik Moll",
     "cast": "Léa Drucker, Yoann Blanc, Antonia Buresi, Etienne Guillou-Kervern",
@@ -881,7 +881,7 @@
   },
   {
     "title": "LOS ILUSOS 13+13",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/los_ilusos_13-13-cartel-13253-1920w.jpg?Expires=1784583607&Signature=C2uEgUSd~ADH-oOcZi5fVeQHR6RhafB9HZdeCpICWem1PSJ8444X7MIs2x6YN6bQ7cbBn~TFPwC6R-BeDIWVACvipechgbLkS1M3rXc3sLyzs7C813399Hcs0vxTZD27rBS7dSrKbHdWJwjdgFbfSL5Sijko9iare3jcwQKKFxSaXDqQ0Sfe2BkSA4jv6ctBEwmVVj2vZ9i0kifkaLCfLEyOgGIgEAoWKc5xzpL2P~8HmtJ43zZ9PUudVGKW6eQhWbeSoaH2j1hszl7R5~U0b0k4kGzxbwE6lxIQE7Ctfpuj1Hq9PGVIhJ58nfi3w-Aa6ue5TIggHyLPgv2~Lgknag__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/los_ilusos_13-13-cartel-13253-1920w.jpg?Expires=1784799806&Signature=WbcWuxjHwEfI-ciTH20P9Iyca-TVlX85lWjZ8gwclHRRO861i3g8QtSTPlaz5FrF~OJaCFpDmsS8g45FXdHQG0gsdXhbFg7uv3YdoMKh5~5wY8sOaG9d3hBUaUyGZQEGDq3plScuf2NNd-LZihpI7B96DkRe7KdDKk1wDZdeAIYveLz4WxVcLZ-dZjhS2aNMCCMULcvIhGJjypPvCL6o2zIMBBG-MXHXUaedz6cR~WXcOJgSAM4QX3l98Fbz7QNDezHUuA~hry3KIipRAzmkyIB6QCzeXIhDg2FP~iGeLFYDQuuwsKoBMgCLNwK5tScUMNT0I5x7MWTd~LSM~oHQQA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Jonás Trueba",
     "cast": "Francesco Carril, Aura Garrido, Vito Sanz, Isabelle Stoffel, Mikele Urroz",
@@ -954,7 +954,7 @@
   },
   {
     "title": "LA QUINTA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_quinta-cartel-2025-1920w.jpg?Expires=1784583607&Signature=k1-NwOlwG9oMx5i8FGTJcfIqUY3Iwjilrb4G~c-yVnjChYrNUU4exFT8rqBkJdvXeVTAd9YK374fEn5V4W6DqKIfzXZwd1A539zLhQoT7Hr9B67fsKVFsvQrdI1kcvLsWALQoMRH8ImJcMA9WTo5RTZisud~4E0zJ-RQTR~nJHCsLL-UqNqyw3dVhmUXGmAGgb8ThUOsyqXI~S6-y~5zXyDQtyuY09ofJ5LBqi2QleW~qrw0URZGIIReUO72o-pDg7kRuNwcUnB~6xS1j2lo88R953Dh629cTk28P5GOpV852fa3j-ioCoUi9bU2UdYHmbj504qzsJW~hjg4YAeFHA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_quinta-cartel-2025-1920w.jpg?Expires=1784799806&Signature=abeUYdzjmYHKbywU8yAwGSTB~JrRjBb2aeHKmA9QIsS2AewFso7UBpGYjuxvwlKe2n~4YLj3Nk77d~~sz2DOVKuEE6AF-FgBGSitmErUbxOwFtVMlZE0dCMk2UCRx7eTwxtPpn9p~zbvyoODYsQsl8IbdMrRH1XV-9nx0XStfPb8X6CRgbaLA8055na9~hoLxgLac~JqdXKUegRMg2474ELibJihqbsReS3KPMl8n8Ku5HMC-EQk2oy6xRm06NBD6BVMpI~vRaDMGABpVDIdfUguTCPs0UMF110L7aPo4CRfqiYaYt4ickHll3KL5Hq3IepS7gvklYnq4KjYo~waMw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Silvina Schnicer",
     "cast": "Sebastián Arzeno, Emma Cetrángolo, Alejandro Gigena, Darío Levy, Milo Lis, Juliana Muras, Cecilia Rainero, Valentín Salaverry",
@@ -1027,7 +1027,7 @@
   },
   {
     "title": "LA MUERTE DE ROBIN HOOD",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_muerte_de_robin_hood-cartel-13261-624feb46-1920w.jpg?Expires=1784583607&Signature=Hzuo7V5ukXgevjJ1t5lC2AGgoaRywh4zQFgIzJqIt6njUdiLBMYcHOMSRmuHZ2hnqT4CmwUrkNiAajs5UnwTo79TdabFqX19ZATNg1NzzLJK0of4j5sVmHrM2ilyEiaVlJItFkYivIuY2HvOoH8sjQ-TKGbIYanihK8zXf3k2HuUaQGcyDtaKfvRZghCSUP6k4ggd1bMSSG7rPkIJag8Jcmb1MIT9g9567nLIopi8TL7ElFFEu521qEbzqbODTeZHo25EU6qYVot85lde6tsRCbQ1Sul-~R-k5MJnlGIKNPOlAjHOfi2~L78WBtLgtuLoJJxXKi09V97jSEHsWmGkw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_muerte_de_robin_hood-cartel-13261-624feb46-1920w.jpg?Expires=1784799806&Signature=m~G4unrZNQsmoEyVSMJ6lLuTrl6QLpqscDfpzhSXZ62KHykw5SvF5hLWIfIhTtRnV-51iUEG1irOtSkbBOqsOjNSNkqzEpz~U~utylEXfdBCdCknJzE9t9RRFC3-ofELBhrKtpi7Dw5CE6OB21giiGpt~19SR~aPHQqS8lxUeJJEWmykYYEPP3pVFs0tl82xetEueplLNHU~aMBjt-azyp2lvp5kZEsTYb4uhUST5ZAHya4TVsHMc8wS7vP2RSsyFZF9vNth9vyvL60Z~hfZDTQQm7EHUF95i67e2fc25w9RN1qGK-eyCGcMYfDCLex7OZd1oP8aYEfBFoFV0Oxgtw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Michael Sarnoski",
     "cast": "Hugh Jackman, Jodie Comer, Noah Jupe, Bill Skarsgard, Faith Delaney",
@@ -1046,7 +1046,7 @@
   },
   {
     "title": "LAWRENCE DE ARABIA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/lawrence_de_arabia-wilder-cartel-c93d36ef-1920w.jpg?Expires=1784583607&Signature=HSX-BIw4QD-nPdupqmsGeUrwR3VEpM5mOTvVMVRxoqdEDqj8ajFUAs851BBYlD7vW0GYUfQubHgVW3zRdgOhZlkpMkmF3PghaKkZX8-aRvRNXKsbOZw8hnN7LxkBtS7IpfpexJsvUg-TMdPSLEwzym327eAkOLkaYdslyQsNR89yS719WwBCjdHyRrkCOf9h1Cl6YCL0eZURZozp9TYhvzQ7pzlTjiniZVigwGc8ji6vT8Am3cHZagChj4EJqkxSfz0XzmIkENBjlqh1sNBE74SU7kejikm0pud2K0bxg7MG4f6-ezoiSoTZJTUJNsATYAhxEHoYgO7WWKgLXIxZzA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/lawrence_de_arabia-wilder-cartel-c93d36ef-1920w.jpg?Expires=1784799806&Signature=EbGSSNU9YOpYFBjaIm8Qn11eHp9rkicAsMzzFbZlUiCTTeD0ka7MOLZJ8MaTtU6M1Di9VB-8rhr7CdAgIsp-Z3E9cEPmrEihIHSsy~D4rP7kBB-Dh2qDp-y7WU90u4YDDVxNEcbgzYjHhoeoswIovgUWSMXM962lfjeBpNalKB6MfkuYOyCTmtZj8306huLaEgXvna0kNTOLk6PXlc9N4r8BfWS6iDnOk-fGMmxn42BAf2Hi8Iau1ScvOYpeI-ICgKe55cPb3iw39OYbIsW1VY5DJHdOikaPgidJIaRqOIj6EWxLH~C0QY29KVcwUm1~X3cf70j-MjVu0KxH3zrtUQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "David Lean",
     "cast": "Peter O'Toole, Omar Sharif, Alec Guinness, Anthony Quinn, Jack Hawkins, Claude Rains, Anthony Quayle",
@@ -1065,7 +1065,7 @@
   },
   {
     "title": "EL DÍA DE LA REVELACIÓN",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_dia_de_la_revelacion-cartel-13061-1920w.jpg?Expires=1784583607&Signature=U52eX6aqaZQT7VBGtRZE8Qvpg2MdaonIvfY~k01JabooVUtOqfygZdQiqspeC8HAqVmMpcnyQNs~P7E6BjWCQ851MR8PekaUg6HmAxXX3qeHsThPfw8Uq6A4QRIkbsOTGfxaxX3qdmNOHLHPORoQAyFEUN3iQko3Hx1MZegVED8vC-H--kiR7gGQrEYN8qc0nO~ZcIREDlmpXJS2qzLoN8YKv2fNNvJXCTBAICviVp9JqfXa2Ug5LLEyACJgarLlUJgtwfUxrbK9F8eFrb9YR~df8O4r-vVjKd8uWWzLTfROzCQ2005Kv6d6HYjY8y5yAeKFR~0r94xb7yPaGRjrzg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_dia_de_la_revelacion-cartel-13061-1920w.jpg?Expires=1784799806&Signature=frS3u7FLqWkkMqDjQQcoVWYwNhNbDwcABJnZK4doi3CqWTMpg2bvAMClgl76q0SE5uOqvnIn0QJqZsKr2XVDs2i02wwfv5JyvuHJS1VoFJqIhhdnfNkP73I4AF6pqrL-KrRPvNs7dESI3MVGRdl4SYsmyTYPEs6YPWu4HNff3K4bz3kR~gjISZoBhZjr45WWWcigqDzWGWf2e-X4OKTzZRWg8rGOhnQ-bt8aTVGwAMeAXuvFz46RMK3lYZU0vrWypwtTqLwFzn~ZauLS36IxnhWy~xSDw1HimxawdPqPUCyvPDwPctckzu8CEOOjxs1KXTsqIRUNb7X7VkZpCuuPEw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Steven Spielberg",
     "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Colman Domingo, Eve Hewson, Wyatt Russell, Elizabeth Marvel, Henry Lloyd-Hughes",
@@ -1186,7 +1186,7 @@
   },
   {
     "title": "PIONERAS: SOLO QUERÍAN JUGAR",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/pioneras_solo_querian_jugar-cartel-13123-1920w.jpg?Expires=1784583607&Signature=s2XiCTAH60zK~ZmgjAZX0ybsudIdBYT1LR5qBqeGx2g82C4it3lXv8i4v3HmQ0cmPBO91XSPfHLEz4gOP1e7AbcTQu2xjlE7BdpvFgKN1RFT1tBg5CgZZNmfTFbJQRSlMZQjwOr3S64YifdDwFq1eY9xyIAJIwx1Et2sXN3kcPClILB74I8XkhY7Z1WsXaJycdtO6VJcEWsTv9M9F9~IyGIhGlXx2xLKwKD6h6QVh80GTFBs2mVAPXP0KQMgr1NcbIEPkx6EvZX0WE45LuzY1lZRClzvpVaG8CQHNMGmp-HWPFANqNg43bfrY2WTll1q26TwouYabGQg-opnhJne0w__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/pioneras_solo_querian_jugar-cartel-13123-1920w.jpg?Expires=1784799806&Signature=WqVcy9DMMkuwsC7UpP0Uwox3VWe2d8HsPuk3HK7bV7R5zpkwZbBgnAr781UHnIb21ENQrYFZGbtMFidTB9XrXGI6CNZJRhvnCCSItUJ-Usv3Ds2vF1lRA3MDC7F7O9bNijSQ8nS1CqxSUpJCcbhu4h52Pa9WWZ849-s2GB0LymPJHKMuGWe1MKXSZJh9vzFDHJEWqsjDCeO1rXQo2igo8F~JV1NnXtULCgt~9YQuJv6JrJHRNhsl-rifuylWCQdSYiqIGQ6rny5P1Wc-Z5GeLuj~-MStZmANaayGoA-7eZWzvR2mLT-plqnz18pqUb3lPuUbGitq03WPTnHfMDRbBA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Marta Díaz de Lope Díaz",
     "cast": "Sofía de Iznájar, Daniel Ibañez, Aixa Villagrán, José Troncoso, Elena Irureta, Jordi Sánchez, Nora Otxoteko, Leire Aguilar, Miriam Rubio",
@@ -1299,7 +1299,7 @@
   },
   {
     "title": "LA LUZ",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_luz-cartel-13202-1920w.jpg?Expires=1784583607&Signature=JlpM628mEiLLVdy69hY9JyHyQr5vCgvHWmz0Zm10qMn5QLyPFzaMILpSH87OZ4W7vlhVKInuE6WcTRrmrXNt9my2OyvFsK9bz4~3Z7LaMAN1NAbEUSmEgz9VzBCeHWZ~1XU3qZ9IPCwGtwJyF9QbAwNy69hULzlZMpTkPlFXdl0hzYBvhflbSQxkxsEY5lDntly51LDI6qaK8MDTcFN0dvtJtBjCImaUzJNleHTGjMQgyZqPsrvBLg2mKjTooH2doQqXBsfjIm0xidBwF0qbaCAgcCrWmPcdo0JS1OQEQZmd89YXsEtacwAh7pgOwMn0BNMgt3F-KOxhLe6JOHrC~A__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_luz-cartel-13202-1920w.jpg?Expires=1784799806&Signature=HpI7-xVbOLKjObL-wXQ~6ZuOgGJ3ASscG9MKvg1WnslMlHKtHGxkSDcO~DycPwt97UhBaubaAoDBKhEvqVPrfJVtfWKH9~s77EsFRyRhbGHdfHkZ2o3P0EKsKfOVQz5WrmmnXzmAxqtcuDaQbioZTBD7LGJ2nxkK1p1HtyLoFk03bb~SgLvsagRrxlkadEC8IMsn5BAt6EvHFlaqlT0wwwCcrJEbQgftUSqlV79j0gGDrm5lE~hGBefHeurRbCCnHe8Z1ccS0tAW6K79n0L4tIk6vOckaDqOGeQqoKgokrvdwqgV8-BNsQJW7E-G0DZ5~IPz5528XNpry3DnXBqMUQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Fernando Franco",
     "cast": "Alberto San Juan, Pedro Casablanc, Miguel Rellán, Luis Callejo, María Galiana, Ramón Barea, Nacho Sánchez, Pablo Gómez-Pando",
@@ -1396,7 +1396,7 @@
   },
   {
     "title": "UN TALENTO ÚNICO",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/un_talento_unico-cartel-13226-1920w.jpg?Expires=1784583607&Signature=VrqhkgaGyT7JdvUvxI20hdDwHR3OQM9NvjAz8KMlUdfI57QPllQIhXRF9BWlWohTwLc0uxikv5J9oUeD35Fv8fy~T8QZ6q~h5i1jSsI6meWmbnEQYxBYXbav9a~Tv1Teabev0Dip1UkzBf3CROZ4H9J0oMY5BmsG4MY9O3cU7ChVCOD6xg~PHdcU~6LXd5I04dw2e9KDqwLQXOGS4fU2lzh7v4ph8Vt~anIDP-qkcM3v7zjU8ZY6mXTZWGHGDgH0A33G1Mm5hTUjxMFRQjYk9abEsTX8r2bK8lxF11-TUTMju-Kt-1biHkHC4HeSsHPG-OLa1dRcNo2pqr-XDOxwrQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/un_talento_unico-cartel-13226-1920w.jpg?Expires=1784799806&Signature=Kj8mYbff34o6LIx7bPl34m8Q6vD7MMFSxdObQh~OEsaSnRTaqw1TJkR4rx3k2pBCPai-UmnMQuIapBpVFUwipj7yHW8XdRoRbVoEEql918jcD03VNWZt0xDxX~eOtlszjBBlB0RVFnupzD8sQ8b-lx-KyISu8Vc2hRXfcG5NRcy8fSv8NpdBOfNBdtZaeJ3E7Sw0vLbiUlEJNu2MliuHwo5tLAHquA-X3ldjdYua9-LHlAgL0ZH0I6Yg7WYQ3fDgZzfssy88UhjcDP4Vcn1Q6bwu~IKmfWnpApzz1sOPccrX~b5u~9bA44GTT-2kiBojTdaD1t-NxUyqqzvVwt1ZMw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Daniel Roher",
     "cast": "Leo Woodall, Havana Rose Liu, Dustin Hoffman, Lior Raz, Tovah Feldshuh",
@@ -1469,7 +1469,7 @@
   },
   {
     "title": "ELEONORA DUSE, LA DIVINA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/eleonora_duse_la_divina-cartel-13250-1920w.jpg?Expires=1784583607&Signature=JolY5q3a6HG7jfqrhR7qHCJFGYDB4lAWcEomOg7wg4VVqDbFSB3PE3uiuJeirg3o3ZInrtMcDK2bZtzfI4wZMgcnz~Oi8JMzW5~aL3aF1K5BnjJ4QxFSpuYoHvl2Ih9f-RT5yrd3eL8NAbuAdTrdE3U9UMDjaPZAWHhKeKQYDjJ1xqagVvR2OXoPCjD4JJiP767QuQHsn-JJ~xVqQYueSyAe4toCQ59QcjuLzrryz3mNOqGHxTGojBHvvykLS8JMHOBpYab~QpuNIdk-BHLB~Z3snGBTXgsxbO6dsr2PV7ot-sdkqGgZQ-ijdnBBr7Up1WumqQcMHP9zw3AEqkmJ7A__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/eleonora_duse_la_divina-cartel-13250-1920w.jpg?Expires=1784799806&Signature=FsIv0oE7yJvDdp8wIJzt7C6us-IcyLjQ2yVzpscEZ4OPH3zjCmQIYWGwI8ShlupWCwrvmOv2oVdnR9icct4v2bjw3IboZCwvJ-rYiQyJOraTvdGOi5Vz5ny0iJ5fJdDrHL4JfHwk5HqY~O9peES~UgmlRTfe~YT5dgg8XJrpuMFb5oEGwKuGKpMwFqqiA4LC~8UEusHEf0VV36nk5xPF2TsvymfIq3C9J0LaHfJQicgtV3IUtLAFVNpvIEJivXomRwUV7xjLOkQFOQTFVubI3mRek9KlYDpSaTXhNPvJjs5gHpqDSi9~HJwWHakYa8vkt9xvoXEoQRojoD5NB6IoUw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Pietro Marcello",
     "cast": "Valeria Bruni Tedeschi, Noémie Merlant, Fanni Wrochna, Fausto Russo Alesi",
@@ -1566,7 +1566,7 @@
   },
   {
     "title": "IVÁN & HADOUM",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/ivan_-_hadoum-cartel-13221-1920w.jpg?Expires=1784583607&Signature=b-rmHrsHnoSXvFP93I6opxj7Eab5N6OvLhlXkoL~iYwjiLwps1DS2Bgxlmh0BHMwQdvws0tA1pkhzgrNwdIW31YbYJ~ecSzTFJBcZnZBQ5xoOfePnnsaXVkkLy5mDpC2EeWTcofUAr~Ad7tmr17MLtvi5wCtiuoCnbQ7edGMvFMUWjdFFJdodbZ6JyQv2NvZ9vekbhSl-f-MG~Pz6~7pijC3QK1HBSJ0oxPEaGLRB3CqRrNhwc1vzFc2vii6IEKXKntHdSaeM6ZVAALhRxcpWYpCz-odSrrCD4MvYBs19tZfitDioMf4FxHxvDMQWNyr5E4Sffr5icu2P9C2HcWeDA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/ivan_-_hadoum-cartel-13221-1920w.jpg?Expires=1784799806&Signature=gTqdayTra~TD1p60Zf8HIy~RLXiIQIjABVqGhE3G4aT7ufqVyQ7DRgdiPXd0qZXjlDfewOOsLvXojUkO6dLVeaOAaeCILPLGtH-LAzRF-MLgHnWBemdVXKzpLpXCSDBTY-QNaT~rNpHMyQmVaqDmuJKmJmO1x0IawSob3YC9vWeyeOYBTbWpthBNEGzOq2fuvsYY4wKy59mAbEkxBQgiK1nd6MH5kiNgI4pJQ9TFj7sNb1-FooUPaN4bOAA1K4kZ1ZASGLUABu1AHMKCE8CVlT7-R6-inHMckFWcgy0adGECzVGjIiINf0r2pwMnS5dXia0NKT9Y-1SIsU2ehU-Lqw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Ian de la Rosa",
     "cast": "Herminia Loh, Silver, Esperanza Guardado, Úrsula Díaz Manzano, Cisco Lara",
@@ -1630,7 +1630,7 @@
   },
   {
     "title": "MALLORCA CONFIDENCIAL",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/mallorca_confidencial-cartel-13041-1920w.jpg?Expires=1784583607&Signature=mqyY2kNezLZRv1EDItOn61ZSo200d1E8t1jfa6mq8ZGFTbWIO7UqOyDsXQv85JalpLuc8RYR0j6mQCELeTv6wxYkJGswAIro~hPSpwUNJGNGx~2mNcm0lAfrXOwZBAVJE546IPcQDBSt3HUgfAZi5r7siuGNQUxPaLprXNoMF4EJYeDn9CLbx0E~M9YW34jvNP1ZsLwNaSHiuEqrPZr-XGPUI1Z8thMaM-TZxnZC-7VGlRJn8pS2o5TpQxajyMV65P--jg675sfAox8y-wZqmKHDukJ72VcQbMNZXFnR7UJgfS4erCbuosumX~dVQFqmVLsCAKsgWoMLIvpOhO17-w__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/mallorca_confidencial-cartel-13041-1920w.jpg?Expires=1784799806&Signature=HB7a-aUhWeg4bQPexT3cATBD1NIDg7LuIFddOVXIGyr6Q-UxBfmtrfodbNPQUswixHaOt~iu66QLWzmbCSPM~LgalOcEWCvUnGTovU8y4LEeymVK3YyvKo74rEg2pvLSVYgwtNe1HDSz36bi37UaUftIgT7q8CYagsxNCCEwy1aIJSqhd9X6UPiN1fjK4YD-T6jFKg2eZxjC4u0ughZP~aDQddbj35aK~CLqjVuJqPsqCGyiaAx7ZJFzwN5wHheRc96YIzxlmFHKJHZq1Kr1RSZc0r8GjnomFTzZNxahatmO2rq~tuYXE9QQ6kfcDTvkuFkj~ROzh3-dGkwCUTD7-A__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "David Illundain",
     "cast": "Lolita Flores, Asia Ortega, Jordi Sánchez, Amin Hamada, Moreno Borja",
@@ -1703,7 +1703,7 @@
   },
   {
     "title": "SOLOMAMMA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/solomamma-cartel-13236-1920w.jpg?Expires=1784583607&Signature=s-2kzMUBEl-1YROTKvsTUyrP0q9iA42EYWq47b2lZGLLGIRHzZOsnZM7EKVo3~HTTiDN9J9v3sBDuWPRDR1n4OlVOgDygiyI00urLtX3Y7anLc3ipngZmzqoly5sPHDc0bhMGedHLQrjf35qPyv4qvUY9a2qwqEcRhBxWo0110-Y5gFJVxc-IoGlX1Ertw9F4E58jmcuGe-ZclQfaQm1YJNcOzLVrs2Yfn37A2D7dL4OEPIAE1UVj9GcOIcTV~couXveoJ7rZ6lSicZFCzSUl6uiIamiJdVstzqPw7loaJsybMa1Rob3JJGHYbKnK0JfQDwoWSzpM-qfOiL9qCfS0w__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/solomamma-cartel-13236-1920w.jpg?Expires=1784799806&Signature=RTZxnTMh0RuOcu-t~TTMiyUzZtTvoCp4z~EgItsqic04235UoKOjWaB5xq9TmhsXgwKYLy9KDbP3Iwr28cyuB8MT1wn8hepYJaiIXO4UBMAiW1BkGJ-ZVHH4lhoA~t62ObasPl~VOpjmO7mXOTJ3tl0DOvGkvg6Oh~22-1c2Pr6eHfxnQVHybEhMwsnLl7fQJlHDdMIrHYZDPA6Ft-J8I-vvlizQzD2dJTHGns34OtL-I39FbNxcAvXMtHrLkAIYCbUngvfe6CEFAccmyRmzSI7kUj9ZasKslP9YBAuzhgmDP-ElDfkhzGpb-Xj2Ri3BYvK7nzfexEv1PCmmnVhXDA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Janicke Askevold",
     "cast": "Lisa Loven Kongsli, Herbert Nordrum, Nasrin Khusrawi, Rolf Kristian Larsen",
@@ -1776,7 +1776,7 @@
   },
   {
     "title": "BACKROOMS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/backrooms-cartel-13138-1920w.jpg?Expires=1784583607&Signature=M~tX7OPyLh9LWLAiAUF~SF9qEmow2BfRE7~ZjyVxV-mbbh3SkDqwTd7g7oyifpJsdS3cWau5h5OwCgMLALaRdxCDxeY-x43cCKgvH9habQEuEhug56-nIDnVbyDXl3N4x7mMR9Ed7XknvDIQrREbPw9t3GGpL9kera7-9Y4UBqOI3tqVafLSNL2nJhD1Ii5obpOWIviTqh85SpIOZr01R7n9UMAAL32J9IsEtReGGbenCzj1dM07pRxvtboAak9reVLcZnVrvuoqRJKr1pZaMToJlvaLrAASZ87ldD96GAMKZeeIX-cYaCRXYeDxA1Xhpb4gjLHmFYyNLsY4urYeoA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/backrooms-cartel-13138-1920w.jpg?Expires=1784799806&Signature=ICvwc~bmolCh-JT7KHLIeNzMicmWg-ZwkjwRjr-Bra~ofQ~Rww-Piy320ftdcU6yTFzLzWC~mNLbIEoMj1WLmnproF0Q8y0yUP21-A~OJnyBvbs7NvlQ6j-NYSNODLzXAIosBBYVBsECfYi~CK5p5ls7fprOfFOMEIsg1qJR5DUBe6Psg9A6GGHc~PmM2bM~WuTJtVXKRchdMvY~QJSqGGMkunxO1SBrL4F2JHvQqLy-Od~NeSS67iJrGpSYdpDGDz2ONPYTHS5I3M6VjxD20cGQiToXT5iRWD5jStAcmxHcwMZvwC6Ii8hqyhnBPjj5cNx8pxmG8nn7fAD4~atPNA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Kane Parsons",
     "cast": "Renate Reinsve, Chiwetel Ejiofor, Finn Bennett, Lukita Maxwell, Mark Duplass",
@@ -1849,7 +1849,7 @@
   },
   {
     "title": "HE-MAN Y LOS MASTERS DEL UNIVERSO",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/he_man_y_los_masters_del_universo-cartel-13231-1920w.jpg?Expires=1784583607&Signature=E8Kzd8jHKQSdYoDA55PbHX5Bt7KgMnWaPeYIVXI6doqXPDO~119tNJ1GsZ8oIB0R5Iv951dAxHvuCb0XXADJTVgumSRThQ04LKah-~91lmLpr9uN5QW2yR6DcK-WBwKf9C08T2638ydiQJmNUw3WCztSUV7CeDq~qBf3rQREJltnnrlaIPagnt3eSnDGwJkluzNWEV1aNmzc2hDk-H8pAGY8e-VFVVwT52kJsg10e2CRfbqpy6T0jwyUv-yzsGkaYG9PGq8YQXvpGWaQgrAs1Wz3UYg7NngLbCiQ~Vmuz~5gYTEZw~0pBJyuHciPhqESc~b7QuzijP~n1Y8sg5NGNw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/he_man_y_los_masters_del_universo-cartel-13231-1920w.jpg?Expires=1784799806&Signature=Ub6F8BxvIkVvUEBZ6Pa2QqLi67t3omgEv60Grt05TvWuUS~m3Pp298HYSo3jggqX5vp4jXfiaJjjx0zwWCnmXtJXhBv36vs2aL9AzAR177ZqBgAY7FoyBfpmOcKUhLM8pu~gBno35Onro~fb8zRHcb-h6eVyjqHDQQdcwH71KOFNBN2aCpHJrKVT-sWTzU9tj3aFrSDd-p26vZXW6B8qJLLkYxOPCWswt15Jocu-68Mcm8CxHqnnFxk-XqRgudGAyQfXey20rI2HFL7NzkKMSYo7~Poh5PJGQSBjWC6FbAD~p~if3S~oNQEf4laolJ9ZD0Ebi5X5yjoG~2INAqMeyQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Travis Knight",
     "cast": "Nicholas Galitzine, Camila Mendes, Alison Brie, James Purefoy, Idris Elba, Morena Baccarin, Charlotte Riley, Sasheer Zamata, Jared Leto, Kristen Wiig",
@@ -1913,7 +1913,7 @@
   },
   {
     "title": "TODOS LOS COLORES",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/todos_los_colores-cartel-13058-1920w.jpg?Expires=1784583607&Signature=rKEKKT4rSrzL7RUflybzoynXfbBM6YJkSVn~Zt00Fl6LcY6cHKAUSqBE0HggifXmBx67XWcN1YE22kIzNZbg18sIFCHfuh1CsgUTyXjfIZ~fRemfA8EsWmKnF882tGWLyIlq3hH5GKwrm8LJhSJRlWzKacvYxvyimzk6a1Wfv~MSZRyHU3Ux~rUbZA8LAhVM8JvRPmSD060rnNT5dB1goSVtswQet2H0zpMP0EU1prUnsksrOVa~Gv0JrjiWZlmAcyHNekApiI5Pg7wYjmrdO~LqhMA4y77J9Po5BmWAkqpBeCvR7GUve1j7wjwr~cII-xSpde0igw6xYtH-JEMuug__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/todos_los_colores-cartel-13058-1920w.jpg?Expires=1784799806&Signature=Ek-HaZ84XcDvObZXbMCArIoLXbt2hN7pRmWZSBOKk1zcQWyNR6-u1sPrZUFPaOkAFCIvvP-YOHRPXnVvUXk6y~Av62vDk2X3wALLFqWI3Pf40EUYsTGKHqG8Qhm-LIFiSYX43ltnWgQ6h36h8gc9mm3Pw40ozJRHUVzt3Y0kdXCXkKe0645KhtI1iTOO08lrbsBBniF-YUjHhcEBv9NOgvDqqH0Gft99xC5BqCufe1y5zfgbl7ZWsa8bnpxfdZwliBRhFzzyC-AuBbMzmPry19UtHYOEGAVPzw~JCz3e26XbZLT89hXgRciKly10gY7hhf2YfDyzi0fqfqqarxQXag__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Beatriz de Silva",
     "cast": "Mafalda Carbonell, Claudia Mora, Silvia Abril, Eva Moral, Carlota Jiménez",
@@ -1986,7 +1986,7 @@
   },
   {
     "title": "JOIKA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/joika-cartel-13211-1920w.jpg?Expires=1784583607&Signature=cX48wNUiqCXsk1GZBntUAwDFL36fz2Xz0KQvtg8fG0vOIYlvN-AwEO8VVQ-Ly89kaNFqKjftCjHKBOeh7fxY6Y42AIvtTXU14hUj5VXfP9XIN7lLVeVfen4wHs4SxCYfJVloWQ1~ilsdYjrbR5vRgyX-gCOwW2yTacLbjt-~JcnmJNbhtlfJQ09XjyAABheRwNdjSMvxYae9s9sxbAGIs0yniqVqjMJTDFPy6A7tf6Yb9J6DcPW1W~kZzqrTATMOoaM8vzpXT4rsVcOVjEXddJDwiAQtCkYSCatNFtuPcLV--OvZ7ZShIc8NCdRla0Ns0t9VGrWYBA0IN4cWNxs7fA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/joika-cartel-13211-1920w.jpg?Expires=1784799806&Signature=BsMtY2Hy0qQYmDW3Yd1pKdSKrl7vLhaEGbKAPD40fHEGbIxymQFr9qlDMgcFgYmLW0jX2sq1SxdlFCC3plBJgl-Rm7xGPpsKPcvW8PWaT8b2OEvYR7f6m7TbTQvtExQZ9vIjY-~xzSPYLq8mdrOVCwQg4S2DFdmaywDUk6KnFcYVtLT3d5njglbIx52CdqdtOIrjWxV9jojWHEjG9ZFA4CtlOltYd8oBgC43128EiJvUHP~SjdUrHj8gViNX5HZXY~Y~D3y-LVXUL7kaFbP3MOln~~YIrEVAEP10ImWB3vXXMdRbo8psImDqr6ISPnqsB1vLPuuNkR6aWwr38FCOng__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "James Napier Robertson",
     "cast": "Talia Ryder, Diane Kruger, Tomasz Kot, Karolina Gruszka, Oleg Ivenko",
@@ -2059,7 +2059,7 @@
   },
   {
     "title": "UNA PISTOLA, UNA BALA Y UN OSO PANDA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/una_pistola_una_bala_y_un_oso_panda-cartel-13257-1920w.jpg?Expires=1784583607&Signature=UVFJG5W4cjiSYfRmbkLu6R-b1sTqI46VgtN88pOfuvOFed5JcxMGApAVdMEOUQkfYDgv~kQda~KppiHnE8jaHTSNpQhrJ1zF7XbvoY3TZCadmEl~zGUWb1ow0uJ7mURALi27x~pCsYwrlde9JwVN2utT9csUgMgtnG5pcA4VdmCr2XJjgd9SaSnVYupRpH23XtKXSM7ZMnc42CbSIcMQ8rgjcqfdw6PnKiKOO4EgoewivhYCFiQwxE4JWLYCsPs6GKSqLvpEcJ0ld5LwP7W9qNbKb9hLD6O4~dZHg33zfBIxRfVC~W9MILB5n-ti6wJpwXVIokNKy-eLNBy8HyHrQA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/una_pistola_una_bala_y_un_oso_panda-cartel-13257-1920w.jpg?Expires=1784799806&Signature=Azka33trozoxfyJxVcqNYHe4NYAEc7U70wraWzRimucndxfVcJDUfBuNQnLX488bHZK9dty7DkXwMBR8gzXwRv2PPc7wNxgwE7TWzRRKzoz4wgjwxEez-FsS2RVHF4t-LDulVeJxzpmVQj6cR8BQp~X-BMxpzJcU7tq0aJ-dEtV3gBRFArQhWNwBzZoliIZBB4GglzS~enjc6fqQHQ-B8NQ9oCYp4J51Xc3Awl~ZM6dSPpbdPCH2tP5FMKNpU-ihbABYe5YMz3o63Z7ohC3fXrCY4jSStaMjP1Co~MtWtlFXc~gQg1XPPKQ84F6wwrNP6AJJXkwdd8AHf04L-QlOEQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Oriol Cardús",
     "cast": "Alain Hernández, José Troncoso, Teresa Ferrer, Mar Ulldemolins, Petra Martínez, Patricia Conde, Carles Martínez, Dafnis Balduz",
@@ -2132,7 +2132,7 @@
   },
   {
     "title": "CORREDORA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/2026+-+Corredora+-+tt36665220+-+Catal%C3%A1n-1920w.jpg?Expires=1784583607&Signature=ceewxKgbg6107pv6NsFk-YeVSOAq0Uh9xjNHXNDBVQS~kVelpIYwXf72F1Efv0kQ0ca2OBwAS9bf8zQGDfQorpTF~beWE-nknDIL~6j-OskeeIjngHI5YuKE6rkPZ~Uy8qzaVgJx~0htCR~ZKmDbMwKRHach3LLq-gk~LvBI2PP9fb5WqirWVap8OZt2xqdPfUkC-6gV495oP3UEn7jzLhUuqWFvCw3PPkXc~3pyr3Acv8RRUEC2DxdaygE9z~OW-fE~xvOFXfJyDAbYmDPOBQ2EolxfxMo1BmmpXZEQ8xoYtMOpJ9lC6E~6U7z7pq7BDFy5Tm0vS8N5Znp2Ih5EGA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/2026+-+Corredora+-+tt36665220+-+Catal%C3%A1n-1920w.jpg?Expires=1784799806&Signature=jhus-l~yEgVDF-ugLMRcWYFIXIv~iE5Fpw8YjTswG0XiorXpyZ6TG4rjCf6vWeoF~XK2aCjHiuQQVu5QSFnhzHAPlNL5Mh3XVnS1uUITpU-0CaRkl~iJzoQXUxMOUxqs4jgtzZts6yPyCmcHe0HhlGNuxE~qWWI5EiSt-yudM3xQkBF7URSso4TrgFY0G1nvr4bYnBa~EpOUoB5Ph9gSgK68abO4Z-VfiqKr1n30s0LpMJ~3rUJCMaGzJIEiWttsX~c9~XrfbU1tDBm7tTgZIthrSgN5-51TEs-Z7Zn-NKBA3lR-lhFY90WNRH5EMEwaiPScwvb-KkKmavJAlnix~w__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Laura García Alonso",
     "cast": "Alba Sáez, Marina Salas, Àlex Brendemühl, Marta Bessa, Claudia Gallego",
@@ -2196,7 +2196,7 @@
   },
   {
     "title": "EL DRAMA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_drama_web_5522-1920w.jpg?Expires=1784583607&Signature=HFWgSxH35PymuIhghaifokv3S2LUBjLVl-VJvFjjHzB4UMkBwftY4T91BYsupzrc5XPeVCDg43FKP55x9meZwG4oDE-PdGYk8htJkzFK11dbuQQgedsGiWbvEVAVpwO2jVTWWY4KsRMvlsXlmu1VSKQCeNUBuBsWZP5bgRSZh3M5OXfaT~IAQaf6l5EEXj3VSqekpEezF4R9u0tl7Q6bmGT9k4asNNj6RCDOwAhZwxlkLWnsBiw6mh2gG0kK3tgTB92zVhIqjQxRjzf9b2jmrWsCvjKtHmHrXpYJJzrM9HYXuCTWciTHw7p1DHLKBkv7O8qtjvPJMDHFsZaBOwbj~w__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_drama_web_5522-1920w.jpg?Expires=1784799806&Signature=Y1iF3oNZi6cVmBM7mdiPWrM27sxC83KCl1TQRYsMAgpK63B4uTaE6q97vExiljzDIiFpN~v4tWWY8ixNNjBJCYKdfmeGDWO7FzS7abD4oW3Ot5YQ4UmJHCImTaxOFqIAbfdP4J8Q82mc8AsneKVdTmpgNo5jYcdEg~aGE0hpNTcACZ1SigxTKKYUmHhLR3uV2-Xu6Jn6rRizKsD3uRxqz791Sh1SUEdEuqABf39qSLhr03vHFX2sAa0p-JDNulnTVxw3bZlOJlpgM94fLqAJl91swu1iP0~wWLUtJ7VpwMsG~Uy7aa~GN904ZVsCRnBD1q4lj8nepBd~VM5IvyfJfg__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Kristoffer Borgli",
     "cast": "Zendaya, Robert Pattinson, Alana Haim, Mamoudou Athie, YaYa Gosslein",
@@ -2251,7 +2251,7 @@
   },
   {
     "title": "PIZZA MOVIES",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/pizza_movies-cartel-13197-1920w.jpg?Expires=1784583607&Signature=OH6CqeX8jC1SxBZv78gZzF98syVddAExeg~iJHKxAChU6MoEa3ge0OPdSOaJi1Iwa3nWgIvw1ldgq4G8LPXQr7lkxCk97dg2VAgGXJ5jjY9a-3jIcmwKcH1LiH0H9g2M-Mnzo9lhVr37~-CqkqAasIA8nXZFrEwPw0J2Nb2ln8UWaEZFl9Lu0Vnao7zlAJHFPSVZL7lNglFkgGyQh3MOq~1n9oYAuBzZ5fedtp61CZ1Om07IzjlrnrI5JeCqerrJ1CK~4b-jAV0lCxBUkoCrqJ1SNkRe6sOcF78IrO9ELKRtXnEAUXBeXjoQ3ms4ri~lMOQUqDT50ZtLBjHy38MNIQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/pizza_movies-cartel-13197-1920w.jpg?Expires=1784799806&Signature=TCdHZA4amxdTXwOtXbNUFtc1MgmqUhAMd5KZdoc31V09pSZ~~5VSkWF4~ySMJsP7XXPtGm2I~R4OO3QSWy-INHkHICpl~nZdDuJoJyiAOGXvuC2CmLjtlh4GxHy-3gyczNPeLPvJHusNS~r4O5J0Uk0y8BjRINyPH3Sckl1WVyUWufOMzjLaOUcS0TqicgsVoKzIB62YGyb2VvHfFwCmtaEdRD8xVeV6zojPHeVuMfW~EF1yGepvFGN2LseENcuObz2GpjQoVRweyfia06nAsyxhgRHGoW7UqEmkrWAAFW~iV4CJwsNmOnhvXD6Fxnz1QPyTnW7U8AnPy9DU8WD2-g__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Carlo Padial",
     "cast": "Berto Romero, Judit Martín, Bruna Cusí, Joaquín Reyes, Leon Martínez, Raúl Arévalo, Tamar Novas, Melina Matthews, Josep Seguí, Miguel Noguera",
@@ -2328,7 +2328,7 @@
   },
   {
     "title": "YO NO MORIRÉ DE AMOR",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/yo_no_morire_de_amor-cartel-1920w.jpg?Expires=1784583607&Signature=eMj0nBwVULJJRr-NTQbhFvSaHboFeMHsxXNpfSCgQODfFyYnUxWRdLGmocUGdJfqJswIRX5CTQ91-rUoVdvAlpFBOdnZItyH6WfFMx6cz~pnLPfG8S-ygKwnpDYbyGEE-0pr~E0aBiM3cCRqt4YBxJTmSaNhq8PLseriTRMoADSihGC46Lir2qQ0VLeNNBFOslj4Su8Gza2sxvGCN~A7AMtg83bW3kDQ2Je2FM4ZTUMUKjpfcQcHDKx4V1Kg9WAtS-9nwSseEWs6dRHmGjU0s72NKvLv3yBTtaT06WBtfhgI47osctLg24mlvGBbr09GB23pZcQIAN2Ck7uBrSoBRA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/yo_no_morire_de_amor-cartel-1920w.jpg?Expires=1784799806&Signature=l4i~gMPxh~mwQVfvRYF-vhaxs4P3xwT-ckhl1mbg2RtrvC9yfU4uIwMuzc9wIzavxQ~wJAkCWJmDHGogUZ0iMOkpqFygCPwS6PiBwOY--0tvLWEn38yyiZQZE4ZqWIRjAW3myAAmYHhzqHA2NlDEt3QBgRpUTkfTJ-5BPy~gSYoEupeh5ly1XY6ZdHgkqlHDTSWSDLKsBbN6PMTtFER2Y5TFAG6UX-zCCTr1l6tzD3SUZooztYJD4Q6HZGFHH29cwnuzk9kyUyyAXRMtbelyrxCSI940gHFRZEVQbNcvzWi1xJiIjcmbN~vs8pvmPC1UDjK8T9HLULxikK4qZstr3A__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Marta Matute",
     "cast": "Júlia Mascort, Sonia Almarcha, Tomás del Estal, Laura Weissmahr",
@@ -2401,7 +2401,7 @@
   },
   {
     "title": "INCONTROLABLE (I SWEAR)",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/incontrolable_i_swear-222352773-large-1920w.jpg?Expires=1784583607&Signature=qzWy4PNios4srNDtpc1gR3OCN7VZXoqGF6aQ1EednTmbcY5cGeeuVtD-m65MSnpnSUURik6r1xOgU~y2oB6eggZJwd9iwtNL8gLT~UDQCplj2v07iErH4maCq1P7Qi7XUAtZ4teG0kF50jEut9gmEJ81Wr5eY9MemYlLQPejbxIiVF8jdmGsIMMK7CD8a7deycUxmHg9UJKTYUlYWp0vJAUVGYfshp1XVmT~PFZ-nbpC2QdvemhNHU-7yj2MJBr2yLvErZRAPK0jiBkxRQeL-T9NL8ga0Fl9BeXJVpqLdToFVWyjmaeCLi-uTdqd4IM38~DMpJ5NHqewB6xaeHJkTQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/incontrolable_i_swear-222352773-large-1920w.jpg?Expires=1784799806&Signature=aM5Twm4INmxhtwhlKx4hoRDPguD7xAMVv8DEf30GCtWuP5uIQKTydldmW0mtuCTV~04RvTfGwHFapd339EBCQcrCNLOnPEORmqyDgrhq-PAlTzzaifbrQheDvHWyy30MQQguj~YOi4wU42zWS7932gFM9517p~06rPWRM3WVrWLiHbLGwRt87zolGGiFSIpGRNHObZ4OWq3bmqT4txH5BIQpw~c6hG4U-0IegFMRKKpf5OrtCosx6d8rQJmWfuNi9JKJwhEDdoyhZuuADN4DTJycbHSAcSethBVUvb-ZHNQ0uAGQRGaus6-yHYGR~nH3HuZSujccWuihgSAV64-6bg__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Kirk Jones",
     "cast": "Robert Aramayo, Maxine Peake, Peter Mullan, Shirley Henderson",
@@ -2474,7 +2474,7 @@
   },
   {
     "title": "ASESINATO EN LA 3ª PLANTA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/asesinato_en_la_3a_planta-cartel-13207-1920w.jpg?Expires=1784583607&Signature=LBbXDPPz7vgr8Zj8LMG02pUTP2UEHvKhgx71v08wQkirjyiO79OIjeasFn7axMtv-Ets2o78gCUGhCi2IOHYvGIuDEpMmJREl~ljI8PJQ-c80NQZ5v-YTqa9TqKeCswyIzuobDfEBSqnACnZ2tKiROa4m25TK6W1vraK7TNI~GAe85JYLr8hMCRVtk3SxZKFBksCeo8rSGDhI9pvVCEwS6Q9XwVcQFYJB2wzUQm~xXhBv6F1H6XjMTJP1VJ~Kd14XLSkp9iXZZ24bOkJhk-nGtTvuap~YbSx~vYqhhuT1CT56bWru8G~En9UmMNL-spaejS-eqRwwsz1~xDGa4vQpg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/asesinato_en_la_3a_planta-cartel-13207-1920w.jpg?Expires=1784799806&Signature=ZgABYQi9JbDzLTdb4goBZPZQkcqW-nKk1ctLYpbFQDkmyCgt0~Cin~tocXref7U6lI5pGxtxu~R157FxIusQF2GcgHh4uvG9kWHSYEg7UFv5ZVPfHkDQJKz1-MKFDDfEujlTloIeWib1hnxgS5zmLajNVz8ILDkOvgU91c6cLuE84VqMuYnTQogB1fNadvnS8oSs1bwb9n8ptKpYRKahACIj8~DIbd4zrz24S4ykIwwl8Shff27srpCPHmsZp4h61wMHvdjxoLAR19TWJ0Rfm3SYZGAMYE5HYhhcwWcSEiYhyuzP-sSdUAjbqnp-ESvUs3eJDSo5wydG6JGKTFyZcw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Rémi Bezançon",
     "cast": "Gilles Lellouche, Laetitia Casta, Guillaume Gallienne, Isabel Aimé Gonzalez Sola, Jenna Knafo, Matthias Jacquin, Bénédicte Choisnet",
@@ -2547,7 +2547,7 @@
   },
   {
     "title": "LAS OVEJAS DETECTIVES",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/las_ovejas_detectives-cartel-13116-1920w.jpg?Expires=1784583607&Signature=b6uoG7AjR~XmV3~zF3TwOaaUKyNq9H8chv7bdBFJeWGNXMkZePj8~Dct6hRKS2DKHTIgQAEt7B8jq0grvFkMfRuk2ZgLsoEklKI~3KJPWcNhmtqoAxEaFNJSYQdAAJq8IzJcVFRsGBwGfRD5058za1aG8kyIjEW91YtIMDWsnuL7nspW8e0HZK9xawl3XBLh6I-cpBQBtXY5y7EGIPbQNhopRd2X-efwDXtPPyGIVbmTwD9dL2a6nTRXU17TxGXKRR2wOAaJxrJUj1WrUwY2bgccyiu~QTml1UZWACdEhzKV9XZMFygeKaXco8-tbXUM8l7Z1rEa2AsFzmfq6rrwBQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/las_ovejas_detectives-cartel-13116-1920w.jpg?Expires=1784799806&Signature=c9whPLxpZi8v3RFq~GsY2LaDvhuXygoLhfj21m1KM1tDAp3Pj8NwR1UWzFevBY8WBToP4kiAIWk44u2RVL7~Wkyio47V9GuE3KRZsToAqQC6oX2QwW2es~QG~UGSh~TkXc3jYn9SuZq2Y-7FbS4oYRTh3epNXXf2S8eULB~Vi-BDvtGQH8CbIdTbgTvKAwgUfUUhhEKySmhzr~cOYTHwUrMl6L~sErTXEkwOvb0qH4h~0WL-nitnRAbxYoNylEp3iKi-EXMWffykw0f1dPoodprfSmB0rc0z2bjYkhI4VtYyojWv7onyKMaV~SQsT7AsijYDu2kNCVqvxs~0kMOkug__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Kyle Balda",
     "cast": "Hugh Jackman, Emma Thompson, Nicholas Braun, Nicholas Galitzine, Molly Gordon, Hong Chau, Tosin Cole",
