@@ -1,1088 +1,608 @@
 [
   {
-    "title": "OBSESSION",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/obsession-cartel-13222-1920w.jpg?Expires=1785545038&Signature=NidTTt-sIXL95F~3QKcF9TsGkWXNb6Q3ObnEl62TX53uZwu6mtV4b7kpl0gQGb1K5oTTrx66025TaAVxq-rgkMfeDnJmqVpzd5jb1RKFGs5pptCOMvVrFjxgy082nFQm3RvFc4nogvr0J0~nkjIUiF6IHEZs0DoNKAHPwxnI6guVInHYiXjEAmkzG1osnmJugx14dMEM762aN5aqSc4njYe30JhSiifwInn94qgVksppON7qJ~5DmtffDAvUyXMXIACevNMWDPZ-B0N9GFekvtgI4OU43xUGf9NNpiII1ecNvuadeML8R4XnBQpCBmwSDnzv8QCL3Qj6S1QbIH45Iw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Curry Barker",
-    "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-    "synopsis": "L'anhel romàntic desesperat d'un noi pel seu amor platònic de tota la vida desencadena un sinistre encanteri: Niki es torna irracionalment obsessiva fins a convertir-se en l'ombra de Bear. Una fantasia aparentment inofensiva que es convertirà en un pertorbador malson. Potent metàfora sobre la cosificació de les relacions romàntiques i dels límits als quals estem disposats a arribar moguts pel desig de ser corresposts.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "11.40-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86451"
-          },
-          {
-            "time": "17.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86452"
-          },
-          {
-            "time": "20.35-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86448"
-          },
-          {
-            "time": "22.20-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86468"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "11.40-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86764"
-          },
-          {
-            "time": "17.00-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86469"
-          },
-          {
-            "time": "20.40-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86779"
-          },
-          {
-            "time": "22.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86454"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86455"
-          },
-          {
-            "time": "17.00-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86781"
-          },
-          {
-            "time": "20.40-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86457"
-          },
-          {
-            "time": "22.30-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86470"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "11.40-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86458"
-          },
-          {
-            "time": "16.55-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86459"
-          },
-          {
-            "time": "18.40-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86466"
-          },
-          {
-            "time": "22.40-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86460"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86449"
-          },
-          {
-            "time": "17.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86461"
-          },
-          {
-            "time": "20.40-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86462"
-          },
-          {
-            "time": "22.30-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86471"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "11.50-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86472"
-          },
-          {
-            "time": "17.05-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86463"
-          },
-          {
-            "time": "21.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86464"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "10.15-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86465"
-          },
-          {
-            "time": "18.50-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86450"
-          },
-          {
-            "time": "22.30-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86467"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "SUPERGIRL",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/supergirl-cartel-13145-1920w.jpg?Expires=1785545038&Signature=UIJbx0lrRCE2IHffmiXqHrdAySlCP6SSUMxIbEhIbq0bhaqe~hmMPGGuaOIkIfpUdEuDVk3tW4Utfps0vRddq5i-A8gK7ePYKDCqkdhD0V3Sfk89HZklHFwy-xK8Tb~LosZOMvE9qrMqTHuAggJ-yhZd19sczvh86GPj5L2sBvGOCrGl0K2asC1Rn39IaG5oMpnUtBH44fYFcGWZRxXqPA6rBYjRRf3qv6-Zw9ZL6O8pzndH-Pt3AxGABLZoMSzz9Safl1rv4TBX3s7Usaa-8X3Buqnok~lHsTbYtSPOdq0bkPJ7nKNg4vPPjQwasPnWscpMcQUlnUNF-wK4mfQZ8w__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Craig Gillespie",
-    "cast": "Milly Alcock, Eve Ridley, Jason Momoa, Matthias Schoenaerts, David Krumholtz, Emily Beecham, David Corenswet, Wil Coban",
-    "synopsis": "Kara Zor-El no és l'heroïna típica. Criada en un fragment de Krypton on va veure morir els seus éssers estimats, s'embarca en un viatge de venjança interestel·lar amb una companya poc habitual.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "11.55-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86488"
-          },
-          {
-            "time": "18.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86473"
-          },
-          {
-            "time": "22.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86474"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "11.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86475"
-          },
-          {
-            "time": "17.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86476"
-          },
-          {
-            "time": "20.30-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86489"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86477"
-          },
-          {
-            "time": "17.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86478"
-          },
-          {
-            "time": "20.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86479"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86480"
-          },
-          {
-            "time": "20.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86481"
-          },
-          {
-            "time": "22.20-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86490"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "11.50-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86482"
-          },
-          {
-            "time": "17.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86483"
-          },
-          {
-            "time": "20.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86484"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86485"
-          },
-          {
-            "time": "19.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86486"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "11.50-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86491"
-          },
-          {
-            "time": "20.40-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86487"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "LETRAS ROBADAS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/letras_robadas-cartel-13280-1920w.jpg?Expires=1785545038&Signature=Do4-qzFIIEibDUxYQgcDmYzhqQv0aTv4Bejtx~4TAeJsisi0Jszl3sYR4CdtVnglhrw9-3XoA6jqP9wcdcwQD6zcBvWicn0vfvY1AklWdK99RTtCE3ub8oG0VvOHN3-8PABl-OdDVZbEt634CkTpz6toIFUeiwBDYfJRrczdwBtwkI8kiMwKGAcr9wjcZmLCuOVofT4e8oMkWppS782hDHsksQjsUh77OPJGpQov4PjFFprNnc~bavGc1VpHExN2ATOV7IL~15-EwpflN7PjpJchGB9g-CF3jIBWFb1xqhCY5ozQSFzHpHJQr5TOSH8R8FgAQrhTmPaumwkgxwSHcA__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "John Carney",
-    "cast": "Paul Rudd, Nick Jonas, Jack Reynor, Havana Rose Liu, Peter McDonald",
-    "synopsis": "Rick és un cantant i compositor que es guanya la vida com pot actuant en bodes amb el seu grup. Danny, en canvi, és una superestrella del pop en plena expansió. Després de conèixer-se per casualitat, Danny llança un nou single que es converteix en tot un èxit mundial, però Rick l'acusa d'haver-li robat aquesta cançó.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86563"
-          },
-          {
-            "time": "15.35-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86578"
-          },
-          {
-            "time": "20.40-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86564"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86565"
-          },
-          {
-            "time": "18.50-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86570"
-          },
-          {
-            "time": "22.20-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86571"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "11.50-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86566"
-          },
-          {
-            "time": "18.50-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86572"
-          },
-          {
-            "time": "22.20-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86573"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86567"
-          },
-          {
-            "time": "17.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86574"
-          },
-          {
-            "time": "21.00-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86579"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "11.50-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86580"
-          },
-          {
-            "time": "18.50-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86575"
-          },
-          {
-            "time": "22.20-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86576"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "13.40-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86581"
-          },
-          {
-            "time": "20.50-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86577"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "13.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86568"
-          },
-          {
-            "time": "22.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86569"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "VIATGE AL PAÍS DELS BLANCS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/viajealpaisdelosblancos_2026-1920w.jpg?Expires=1785545038&Signature=WaJQze8NQ53Alh3WhMvXWecz~9TBXeEPuD88FrH8ZRxD750UtSz2YBpUtqxJEswF7CygOwz~SG-S7fZjfIdMlIGiYraBh09pGXKHapLAApuaGqTC9NA37lg1Fnk3tfp32f5Mdk86lNn0qDQg~tLZatZhEHkP67EoYMlyhEUBs~eLETO-hR3mx1-xbbsZczz5KixZoaSd~PUnsMwthEMpox2Oi6zbNY5SikzktA0xdszbFEmjw4yoIjaAqcF3rt0shTzTDe68lNbaN-4ZEzsukMdxO21G70jWEFJsOB5KFeiRAu~neoGD05xiVvI7rd0xnDKIgIKC2oMB9yMttjEzWw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Dani Sancho",
-    "cast": "Emma Vilarasau, Benkamin Kakraba, Víctor Say, Ousman Umar, Jordi Bosch, Diana Gómez",
-    "synopsis": "Basada en la història real d’Ousman Umar, un jove ghanès que abandona el seu poble atret per la idea del «país dels blancs», un lloc llunyà que alimenta la seva curiositat. Després d’una travessia plena d’obstacles, arriba a Barcelona i descobreix que la vida allà no és com s’imaginava. Fins que coneix la Montse, que l’acull a la seva família i li ofereix, a més d’amor i suport, la possibilitat d’un futur. L’Ousman no només l’aprofita, sinó que la transforma en quelcom molt més gran.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86510"
-          },
-          {
-            "time": "15.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86501"
-          },
-          {
-            "time": "18.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86495"
-          },
-          {
-            "time": "22.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86511"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86502"
-          },
-          {
-            "time": "15.10",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86492"
-          },
-          {
-            "time": "18.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86512"
-          },
-          {
-            "time": "20.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86513"
-          },
-          {
-            "time": "22.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86503"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "11.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86493"
-          },
-          {
-            "time": "15.05",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86496"
-          },
-          {
-            "time": "18.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86497"
-          },
-          {
-            "time": "22.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86504"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "11.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86494"
-          },
-          {
-            "time": "15.05",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86498"
-          },
-          {
-            "time": "18.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86514"
-          },
-          {
-            "time": "22.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86515"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86499"
-          },
-          {
-            "time": "15.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86516"
-          },
-          {
-            "time": "18.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86500"
-          },
-          {
-            "time": "22.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86517"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86505"
-          },
-          {
-            "time": "18.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86518"
-          },
-          {
-            "time": "20.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86506"
-          },
-          {
-            "time": "22.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86507"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86508"
-          },
-          {
-            "time": "15.35",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86509"
-          },
-          {
-            "time": "18.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86519"
-          },
-          {
-            "time": "22.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86520"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "LOS ÚLTIMOS DÍAS DE MARÍA ANTONIETA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/los_ultimos_dias_de_maria_antonieta-cartel-13204-0006a993-1920w.jpg?Expires=1785545038&Signature=R2AFcTNV5C0Rgc3qL2pxYeU1RkJzeGBhzgRzFelJEDD9r8b3iDtEPc7O2yG~b0bUHKuqcAE49s5jPxJEWGIkLmtuj8-u1GUE1~7UF1KghF0NJ-liYjhjNovXvVjMQfbNM9R7VzRPSA-0I6yg714CQ74ujk4M9ccB2XjDmXf3nN963nFglY~t-JOUwwhNcfG7qTJlnwU33cubHBCxPAw7a~LfMZj0tQ43Rtrxj~wtfP-CVXJXQySPkyooIfSHXNBL8wJoaxyQYByiec7Q3hYsH0ecOy3hLv3NsG1onATLdqmHJUZhLMVY8AiheGdTfBpQUbc1P-3PV0-hAQCvIrC1LQ__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Gianluca Jodice",
-    "cast": "Guillaume Canet, Mélanie Laurent, Aurore Broutin, Fabrizio Rongione",
-    "synopsis": "París, 1792. La revolució del poble francès ha triomfat i el rei Lluís XVI, al costat de la seva esposa María Antonieta i els seus fills, són arrestats i empresonats en la Tour du Temple, un sinistre castell de París, a l'espera del seu judici. Lluny de l'esplendor, els privilegis i les riqueses, la família es troba aïllada i vulnerable per primera vegada en les seves vides. Aquests seran els turbulents últims dies de tots dos monarques abans de la seva històrica execució en la guillotina.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86612"
-          },
-          {
-            "time": "20.25-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86600"
-          },
-          {
-            "time": "22.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86614"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86613"
-          },
-          {
-            "time": "15.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86603"
-          },
-          {
-            "time": "20.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86604"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "11.35-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86618"
-          },
-          {
-            "time": "16.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86605"
-          },
-          {
-            "time": "19.15-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86610"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86615"
-          },
-          {
-            "time": "16.40-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86601"
-          },
-          {
-            "time": "20.40-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86606"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86607"
-          },
-          {
-            "time": "15.40-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86611"
-          },
-          {
-            "time": "20.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86608"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "11.50-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86599"
-          },
-          {
-            "time": "20.40-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86602"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86616"
-          },
-          {
-            "time": "15.20-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86617"
-          },
-          {
-            "time": "20.50-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86609"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "MORIR NO SIEMPRE SALE BIEN",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/morir_no_siempre_sale_bien-cartel-13281-71440b11-1920w.jpg?Expires=1785545038&Signature=MR2zZgqCfo2iJhaX1nQUphiLPEUEisTM3TLWDflYuN6T8dnZEEnhmw8Fh2B8tRKFeB~5J13cpNT9X0rCbHxkvOsPTX8oTCpYfNYC34xiH8ebg-8iwVbYB0maot377UeTXkcRrx9kMOzJuQLLZUD1AyeOkbOjGLPMX6xTbXFNrsBRy1BXn5pwvQ1MlVBcqGFu3b6Z9hR57UTcnx58uGrZgVZv1Qfk-BVNRbw9aKTjSEXDnx7DSX5fZPI1YFslxKuOPLfPA5zdIADZdzkJuTp2B97Jz26doaLwi4149-q1rHXPO2QHFXDtlcfc1re1hxYsL5VsF~f3lN9iyQfgui5N0g__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Claudia Pinto Emperador",
-    "cast": "Ana Wagener, Tamara Casellas, Juan Carlos Vellido, Paula Muñoz, Raúl Prieto, Daniel Pérez Prada, Carmen Arrufat, Pau Durà, Jorge Motos",
-    "synopsis": "El marit i el germà de Rosario s'han quedat sense feina després d'un acomiadament improcedent. Per a pagar els seus deutes decideixen segrestar el cadàver del seu cap i demanar un rescat. Però Inés, l'adinerada dona del mort, i els seus fills tenen altres plans. Malgrat pertànyer a mons totalment diferents, totes dues famílies es veuran obligades a intercanviar molt més que un cos. Perquè… qui va dir que la felicitat era gratis? i quin preu estem disposats a pagar per ella?",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "11.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86629"
-          },
-          {
-            "time": "19.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86620"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "11.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86627"
-          },
-          {
-            "time": "18.55",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86621"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86630"
-          },
-          {
-            "time": "20.55",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86622"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86623"
-          },
-          {
-            "time": "20.55",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86631"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "15.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86632"
-          },
-          {
-            "time": "18.55",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86624"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "12.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86625"
-          },
-          {
-            "time": "20.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86633"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "12.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86626"
-          },
-          {
-            "time": "20.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86619"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "PÁLIDA LUZ EN LAS COLINAS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/palida_luz_en_las_colinas-cartel-13277-35eb9295-1920w.jpg?Expires=1785545038&Signature=o1O7dTQ-zOjSd0hRJjJxO9u0BP77kIRYrhrS2zu1uhSKKHp1tiB803fZTfCpyKuxNBjV4cGKyfsaEiUmFKlPbMClqQkZHMyHFLF5zOcisbwfdSjsz7PsW0-IPUsHdZ-SXRvswEBOL0Fx2yVJvFOmmtPqUc0Y-MVPz~JK2Ze2AEH3KiveAPMXpdOsjTN~VNoK2yNEfnXyNi2aYh3GoKjgY9p7bgleVtgIVhmO7LTYiHIO~oPOu910QQn8~AXeU9ZdailMdc2g78izPvW1TvYSrhoSPgt5cpYqshjtZkQSwy6JsMZk~eRfyNHLmNL9vihAQpXja5JpkS6C0pL9lGMpLw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Kei Ishikawa",
-    "cast": "Suzu Hirose, Fumi Nikaido, Yoh Yoshida, Camilla Aiko, Kohei Matsushita",
-    "synopsis": "Anglaterra, 1982. Etsuko rememora al costat de la seva filla Nikki la seva joventut a Nagasaki, evocant un passat de relacions i decisions que van marcar per sempre la seva vida i la de les seves filles. No obstant això, com més s'internen en aquesta memòria, més clar resulta que aquests records tanquen secrets capaços d'alterar la vida d'ambdues.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86703"
-          },
-          {
-            "time": "18.40-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86707"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "11.45-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86708"
-          },
-          {
-            "time": "18.50-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86718"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86697"
-          },
-          {
-            "time": "20.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86719"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "11.40-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86706"
-          },
-          {
-            "time": "18.55-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86720"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86721"
-          },
-          {
-            "time": "20.25-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86722"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "10.15-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86723"
-          },
-          {
-            "time": "18.25-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86704"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "11.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86724"
-          },
-          {
-            "time": "18.50-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86709"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "LA MUJER SIN NOMBRE",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_mujer_sin_nombre-cartel-13300-9af6fd56-1920w.jpg?Expires=1785545038&Signature=fOaN~V7AkscbcZTuWPyagUlAB48I3Vay8K7LSGtlS-QsSnAK8w4eED4FBsEnT2gWWBwcItpFVad-ar9M7Br0AmpZ4rB5p~w07VqthN5YEQNpI3sJUoQkiwhPB1yYb0l8DTjunTlt4AAMcL5sGxBRkv9HLh92rYtaRn6rN6BCJ87ufjQ6fXCRbeeCYPiGTgWtTYJIZNEil7KsBAvRU8jkw-C1UwW8wEKKxq4wFRZaZAmBt2YmjhRlrN0V8CDLfGlZ-nlfL9VT0hmhARmfy8XBeiBdDkDbVmyoBqGvi2MN5~p~0SxirUB4ogj-qXEbR6bn8hflPIFjBTa7VO~UmbRQBg__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Haifaa Al-Mansour",
-    "cast": "Mila Al Zahrani, Shafi Al Harthi, Abdullah Al-Qahtani, Aziz Gharbawi, Outhoub Sharar, Adwa Alasiri",
-    "synopsis": "El cos sense vida d'una adolescent és descobert en el desert. Quan ningú la reclama per por de la vergonya que pugui suposar per a la seva família, una investigadora novençana apassionada dels crims reals anomenada Noelle s'involucra obsessivament. Malgrat el desig dels seus superiors de tancar el cas i de la resistència d'una societat on les dones han après a amagar-se per a garantir la seva seguretat, Noelle està decidida a identificar el cos i descobrir la veritat.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "17.00-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86648"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "20.55-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86644"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "18.55-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86645"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "19.05-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86643"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "17.15-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86642"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "15.35-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86646"
-          },
-          {
-            "time": "22.20-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86649"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "17.10-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86647"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "NINO",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/70x100_POSTER_NINO-scaled-e1780986909114-718x1024-55d876cf-1920w.jpg?Expires=1785545038&Signature=As4N~IezrWaoEkx0qwMTyM2~p-MclRTgusRnMed7dkLGo~TOmkICqTej3ya1i5IfrkmtMJ0FRq7BrUgo4tvWV2S08H-uKfw6R592uv1zEnOVqqbyUcP7px1-yAoInF~PgiTTS0BylQF0coc8VkJD9e07wfvNAKcUj5el9ZzTkNX85dtIgQc8F7OsiI9~orrDkRdYKkVpli34wUxuvaPxRCz2mM-Yk7boFfo99ZPUbiK7~v3iNCmSg1l2ExtPw-4pvaln472YHKWHC6rX17fM-z00myepmgMGdzni8OxS3pLdbDe73jcG3igSB8jVUqio0YJi4~FYaiDqljXsVhx~RA__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Pauline Loquès",
-    "cast": "Théodore Pellerin, William Lebghil, Salomé Dewaels, Jeanne Balibar, Camille Rutherford, Mathieu Amalric, Balthazar Billaud, Estelle Meyer",
-    "synopsis": "En tres dies, Nino haurà d'enfrontar-se a una gran prova. Fins llavors, el jove explora els carrers de París per a reconnectar amb el món i amb si mateix.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "20.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86757"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "17.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86762"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "22.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86758"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "17.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86759"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "22.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86760"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "17.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86761"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "17.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86763"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "MINIONS & MONSTERS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/2026+-+Minions+-+Monsters+-+tt32890033+-+Espa%C3%B1ol+2-1920w.jpg?Expires=1785545038&Signature=F6fYy30HePHEW7FcFFcP-PQ6o1MbeYVW7I-Y3Ty32SFIayHgysETSrfQp6wHMKOy8ZzAQkjcP6WAsZXbf8iykKPqGz7fc0nFjU3SPbx~rbln9VSHfCEVSs6IpkhmsVEIYS28aF~kG62rVt7iKat~DfFtPQGSM-iQdZtmzVICYt5MZ3wgQLMROOZTYoFS7pG7LDWT-3WPcaYGRcMzHtbbXUYgjWGIPUc99wbfyf0aJI6jMDn-7GRe5OxBaca6ZNKXRgAqsy2nbWlafHgTqOHuMM0l0DzMDOobb0peoxOnEzFWDErA4JWoKnJKpcc6l59~bnY3R2XH3SztYyMJEnsO1g__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/2026+-+Minions+-+Monsters+-+tt32890033+-+Espa%C3%B1ol+2-1920w.jpg?Expires=1785662139&Signature=B5Vd7r5ERjqsuu15QCw87RK3a46ia6hdLkeq~wXbRx1rzN4UDXsGyAFisXbr-yioNXyPUhtKdGpBd07muP9WQ5LODlnqWlrhNFDaq3UOeeSSibr8NAVZaAcR7WSS35xAo1ZistoQsgUqtQvnbPD7TbU8UJlduTbEyuUZCmHiuQv0Kqyfq1Des2aoM5W1AR6oH2eMwCdavPulXBSjrpjGYH~OnlPWGpnKDi7O0jJAa~keU0CKEFH-S-De0m3Y~ZFRFtmmc-mQAXq2W-nzNdyHUBXvbVYi5Fg-rb0GVBImB6S0C6nriZPSZ32NiNf~B~-B~ImAuScIvr5TchwVrtYTaA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Pierre Coffin",
     "cast": "",
     "synopsis": "Els Minions emprenen un viatge per trobar criatures aterridores i fer-les aparèixer a la seva pel·lícula de monstres.",
     "showtimes": [
       {
-        "day": "Dc. 1",
+        "day": "Dv. 3",
         "sessions": [
           {
             "time": "10.15-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86652"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86844"
           },
           {
-            "time": "15.30-CAT",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86655"
+            "time": "15.40-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86857"
           },
           {
-            "time": "17.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86656"
+            "time": "17.15-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86859"
           },
           {
-            "time": "19.15-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86658"
+            "time": "18.50-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86858"
           },
           {
-            "time": "20.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86659"
+            "time": "20.55-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86864"
           }
         ]
       },
       {
-        "day": "Dj. 2",
+        "day": "Ds. 4",
         "sessions": [
           {
-            "time": "12.05-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86653"
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86865"
           },
           {
-            "time": "15.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86651"
+            "time": "15.40-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86860"
           },
           {
-            "time": "17.05-CAT",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86654"
+            "time": "17.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86845"
           },
           {
-            "time": "18.40-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86650"
+            "time": "19.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86871"
           },
           {
             "time": "20.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86657"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86872"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "12.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86846"
+          },
+          {
+            "time": "15.35-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86855"
+          },
+          {
+            "time": "17.10-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86861"
+          },
+          {
+            "time": "18.45-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86856"
+          },
+          {
+            "time": "20.55-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86866"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86847"
+          },
+          {
+            "time": "15.40-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86853"
+          },
+          {
+            "time": "17.15-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86862"
+          },
+          {
+            "time": "18.50-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86854"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "15.40-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86884"
+          },
+          {
+            "time": "17.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86867"
+          },
+          {
+            "time": "18.50-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86868"
+          },
+          {
+            "time": "20.45-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86848"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "12.05-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86852"
+          },
+          {
+            "time": "15.40-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86851"
+          },
+          {
+            "time": "17.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86849"
+          },
+          {
+            "time": "19.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86869"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "10.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86850"
+          },
+          {
+            "time": "15.50-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86863"
+          },
+          {
+            "time": "18.05-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86870"
+          },
+          {
+            "time": "19.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86873"
+          },
+          {
+            "time": "20.55-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86874"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LA MUERTE DE ROBIN HOOD",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_muerte_de_robin_hood-cartel-13261-624feb46-1920w.jpg?Expires=1785662139&Signature=Wtf6ZvSFui3~HnUqJJBTfIgGq717LFrNJ6jnaBsmTyf9hQijd~0iHypWYFmqAwYSOERU9d1Jpjeydx3g4ng9hoQL60hMlYlBRYmx8qisbyIeE7ur1JQGEZn1tYFRWLrFD9fjICnyLiwVlsoGyrqW7AC9f85bOsG0D4dh36R6HiWqE2k46wZsEhi-Ih97cJ2mbuy~ZTWTTzG2oQuiiKqrrp9KmQFGl3BXBXg4PKz4q38AVg1TI6nVx4Vs~Pf7tfafDVA23DZ1SWF1EHe3OuKT3iRV1WLs-mIJnHx2FV1jht6zP45WleZcxXEZiBuzeL6kM~uiiiwFEk3um~OVxTy8vw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Michael Sarnoski",
+    "cast": "Hugh Jackman, Jodie Comer, Noah Jupe, Bill Skarsgard, Faith Delaney",
+    "synopsis": "Robin Hood intenta bregar amb els seus dimonis després d'una llarga vida de crims i assassinats. Quan en una sagnant batalla resulta ferit de gravetat, és enviat a un misteriós castell perquè curin les seves ferides. Allí coneixerà a una dona que li oferirà una última oportunitat de redempció.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "10.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86837"
+          },
+          {
+            "time": "18.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86839"
+          },
+          {
+            "time": "22.10-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86823"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86838"
+          },
+          {
+            "time": "19.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86840"
+          },
+          {
+            "time": "22.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86824"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86825"
+          },
+          {
+            "time": "20.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86830"
+          },
+          {
+            "time": "22.20-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86835"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "11.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86843"
+          },
+          {
+            "time": "20.25-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86826"
+          },
+          {
+            "time": "22.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86831"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "10.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86827"
+          },
+          {
+            "time": "18.55-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86841"
+          },
+          {
+            "time": "22.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86832"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "11.45-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86842"
+          },
+          {
+            "time": "20.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86836"
+          },
+          {
+            "time": "22.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86828"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "11.45-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86829"
+          },
+          {
+            "time": "17.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86833"
+          },
+          {
+            "time": "22.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86834"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "HERMANOS",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/hermanos-cartel-13115-1920w.jpg?Expires=1785662139&Signature=D5RKf8Znjb-BEUVDq24SR2qpZCQA6GWBCDHGoYXApj6bWc4M4m-FRW3~ULONNci8dVVV3qGhierKvO1idX9JSkvLAQlla~AKrQiH5dSwaxMu-X1ahUFbMEj9cpd3OxxLS7eUM3VG050X2fmcAC2FSTe2FM7KYcYBn5nZNzA84Jny8s99Pf-nO5oUbGVMbf-80akp4l8vz9kk~cYDqNWi~H9pruDfVXEuMjpnAqUJUxKdzgUOUGPU2H-n5dDClIf5iZU1zTHX3LOEO9b0awXWVYvqi0zx3NIMG5DObje6gLYb29~la-fAR3Mohm3GTmLkvnzudrc48xpZGzGh1eieXw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Carol Rodríguez Colás, Marina Rodríguez Colás",
+    "cast": "Badr Oubahassou, Pau Márquez, Omar Mills, Mar Blanch, Farah Hamed, María Molins, Adrián de Nuñez, Carlos Noriega",
+    "synopsis": "Ayman, un adolescent d'origen marroquí, és convidat per Sara, d'origen català, a la seva festa de 16 aniversari en la mateixa casa on la mare de Ayman treballa com a empleada domèstica. Acompanyat d'Eric i Rober, els seus amics de tota la vida, iniciaran un viatge ple de confrontacions i decepcions tant amb la societat com amb ells mateixos, posant a prova la seva amistat.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "10.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86921"
+          },
+          {
+            "time": "18.35",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86919"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "10.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86922"
+          },
+          {
+            "time": "19.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86929"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "12.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86930"
+          },
+          {
+            "time": "18.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86923"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "10.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86916"
+          },
+          {
+            "time": "17.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86931"
+          },
+          {
+            "time": "20.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86924"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "11.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86917"
+          },
+          {
+            "time": "17.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86925"
+          },
+          {
+            "time": "20.55",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86926"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "15.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86918"
+          },
+          {
+            "time": "19.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86932"
+          },
+          {
+            "time": "22.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86933"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "11.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86927"
+          },
+          {
+            "time": "15.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86920"
+          },
+          {
+            "time": "21.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86928"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "COSAS QUE NO OLVIDARÉ",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/cosas_que_no_olvidare-cartel-13266-1920w.jpg?Expires=1785662139&Signature=p6Q2CXf~XQF-qYgsMe6t5bvnmuFR~ikrJimOl9YK5kcykMxSWtZvylBJriRT5HYeLEVgfAx0UOiNirHE4IPkmX~2TCtlzfZx3mkNHVOcafKRIUDkfoRzbSoYCDJny3nMnNkcQN7~j1ovOZ~OBMuQvOU7KePYivdgd6rgzUVI2f5zwBzmxym56Wh6IbFIQs-a0f1LonKCfSvtW6pMeySlsglyPJenUSE~e6t4JW6aq3LImRw9XX8pY1toVPnaGIHZZlbgv4VtFUOlNIa3UvmGgirFubxrQqYA1JgPp~hHmy~pAL76cxpFamNHlCdjcnUa55tYGqYBDZNU~jCAGVm6pw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Alessandro Aronadio",
+    "cast": "Edoardo Leo, Javier Francesco Leoni, Teresa Saponangelo, Eleonora Giovanardi, Giorgio Montanini, Daniele Parisi",
+    "synopsis": "Paolo té 40 anys i està començant a perdre la memòria. Hi ha coses que ha oblidat per complet i altres que acabaran per esvair-se. Davant aquesta certesa, decideix viure el moment i estar el més a prop possible del que més vol: el seu fill d'onze anys i la seva dona, Michela. Al mateix temps, intenta reconstruir la relació amb el seu germà, amb qui porta massa temps sense parlar.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86966"
+          },
+          {
+            "time": "18.25-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86981"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86967"
+          },
+          {
+            "time": "15.35-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86980"
+          },
+          {
+            "time": "20.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86968"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "11.50-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86973"
+          },
+          {
+            "time": "18.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86974"
+          },
+          {
+            "time": "22.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86979"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "10.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86976"
+          },
+          {
+            "time": "18.45-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86975"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86977"
+          },
+          {
+            "time": "18.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86970"
+          },
+          {
+            "time": "22.20-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87124"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "10.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86972"
+          },
+          {
+            "time": "15.20-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86978"
+          },
+          {
+            "time": "20.20-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86982"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86971"
+          },
+          {
+            "time": "18.45-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86969"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "AKIRA (Reestrena 4K)",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/Akira-cartel-1920w.webp?Expires=1785662139&Signature=J~R3Rl~ZG15-WSYZWyqFxGi-HgMNf2Mr-O71Mc7uWTMra-kgYkmXiCb9fHHGwlue5yfn~RP5XpcvdOx0VRtZN3-E~NQOFO5mZoI6k4xVBS9FRKPzMe6029sMAgRT1ikm4~897UWot9qVirsClOGzQhnh9Ie8Xz1cS~LKu3kRmTf~rCP1JamgO3eaGeRsUeR4bKPOEqxCuMIdbEc1RPBey3zb7S41NzwG77SpIkhzUS3yXFiiT5y~T2~lSle6oed9ZkqTwzkfpA5H9K7k3UCLHVrP1eSE8rCwJb~akKPwNKHC0~DLqH6N95T6WqZp7ahk-oykoNskruDlJd0HzVN46w__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Katsuhiro Otomo",
+    "cast": "Animació",
+    "synopsis": "Any 2019. Neo-Tòquio és una ciutat construïda sobre les ruïnes de l'antiga capital japonesa destruïda després de la Tercera Guerra Mundial. El Japó és un país a la vora del col·lapse que pateix contínues crisis polítiques. En secret, un equip de científics ha reprès per ordre de l'exèrcit un experiment per a trobar a individus que puguin controlar l'arma definitiva: una força denominada \"l'energia absoluta\". Però els habitants de Neo-Tòquio tenen altres coses de les quals preocupar-se. Un d'ells és Kaneda, un jove quadriller líder d'una banda de motoristes. Durant una baralla, el seu millor amic, Tetsuo, pateix un estrany accident i acaba ingressat en unes instal·lacions militars. Allí els científics descobriran que és el posseïdor de l'energia absoluta. Però Tetsuo, que no es resigna a convertir-se en un conillet d'índies, molt aviat es convertirà en l'amenaça més gran que el món ha conegut.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "22.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86992"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "20.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86993"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "22.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86994"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "15.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87000"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "22.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87003"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "17.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87004"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "22.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87005"
           }
         ]
       }
@@ -1090,1357 +610,690 @@
   },
   {
     "title": "NORMAL",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/normal-cartel-13245-f05677ac-1920w.jpg?Expires=1785545038&Signature=V5NUkx-1IP6cOpOWdQpT0kSg93FBq084WicHHNURWBkifOAXzsO25SJOPlno5Lq9-aD9FwR5vDhF~czcz7N8ii7whDA2PTvVmLIkDcYumjlY1OyKid6eMt1RO8fnCZ2ya4q1hKbpqt9VcuhVR5FXwYKXMPeROL1E1bgnnVq9lFbF~ZmjaZk6wIja1KGahY9Df2j9YdFDvYpY2YY5BWQO-ujrrowxyWcUdds8AmuG9-I6nyD14CmNMTjnlDmNQf8o59YeIUsyMWke1p49VrxVXqrpyw4LLcwYCkdpyAMtnL4bAE0B0FgGKFq3mWwuyzacvkrXvXSLW6afSOqrHdcg0w__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/normal-cartel-13245-f05677ac-1920w.jpg?Expires=1785662139&Signature=EvEHWIBc4WlRt3ll9uJQut8UZf0NAw19QT5fJ5sgz-pasEcj8G36S9QazzFqqaET1tccgEk2wSMTf5jNvV1yRWYK2OgCnshABXnmsKiYLFkvHRg6PTZkqZqC-IlmivlrshLAUx3HEfl4AyXCsdUb4R1WQRso2-HOgGQvyXgW3xUcpxIG8kEsxbs3t8Mp-oYXLzxyH~IxYIaC0S8Xt1Kamamwr6delA2kmZDXwFydIMlCBVJ5yGrXJvSikSAUXc2RxFf4vaxZXh8lR800rfQ~qbh5sZ7OLoxAd0~pS8ZCqhF11Ig6LSlLF1cBpRqy~E5tmPbx3PVQSTjW-8kxJTBkxQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Ben Wheatley",
     "cast": "Bob Odenkirk, Lena Headey, Jessica McLeod, Henry Winkler, Brendan Fletcher, Summer H. Howell, Sydney Sabiston",
     "synopsis": "Després de la prematura mort del xèrif de Normal, un petit i tranquil poble assentat sobre un misteri explosiu, Ulises ocupa el seu lloc com a xèrif en funcions. Quan una parella de forasters atraca el banc de la ciutat, sense adonar-se, descobreixen el secret de l'èxit de Normal. Tots els seus habitants estan disposats a fer el necessari, i no es detindran davant res per a mantenir fora de perill els sinistres secrets de la ciutat i protegir el seu peculiar mode de vida. Ulises, que fins ara únicament s'havia preocupat de fugir dels dimonis del seu passat, haurà de prendre una decisió i lluitar per sobreviure mentrestant secret.",
     "showtimes": [
       {
-        "day": "Dc. 1",
+        "day": "Dv. 3",
         "sessions": [
           {
-            "time": "11.50-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86692"
+            "time": "11.45-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87042"
           },
           {
             "time": "22.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86696"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87043"
           }
         ]
       },
       {
-        "day": "Dj. 2",
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "13.55-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87061"
+          },
+          {
+            "time": "21.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87074"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "16.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87044"
+          },
+          {
+            "time": "22.20-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87075"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
         "sessions": [
           {
             "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86693"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87076"
           },
           {
-            "time": "15.20-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86695"
+            "time": "22.20-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87049"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "13.50-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87078"
+          },
+          {
+            "time": "21.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87077"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "14.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87046"
+          },
+          {
+            "time": "22.35-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87050"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "14.10-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87045"
+          },
+          {
+            "time": "22.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87048"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "AMOR APOCALIPSIS",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/amor_apocalipsis-cartel-13282-1920w.jpg?Expires=1785662139&Signature=PFe1r1xzDJPKuK65XnsbCehSOvbxTGtenbMZneDzu05ksmSfV5dr-ai4OBLnbRNdMKoJgQ0XwnImMg0gn1HX5tdBKmvLdOBAiNXtjeJZx2Vm9of6TpBZBSfeFnv9AyPsx7Cg4aE1sl2i03wt7wSDBgg~URjWXea1EEnFoEi-N7Dxpx9Mqb82qhuxPoh~XM8sSjo9yg6WV0Sc3tStJ4bL1WUeeBeXLcP~rZ1LRRZgp5E257CacUYLrBodHtVcwucoUEJ-5v9W6tkD84Ngi~jkRjNbc1iNzCRf6o7Ls~V6lQMuxPwlniDJYVa2axHu74ysIXdqzSzuIRhFxqrii41IFw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Anne Émond",
+    "cast": "Patrick Hivon, Piper Perabo, Gilles Renaud, Connor Jessup, Élizabeth Mageren, Eric K. Boulianne, Gord Rand, Leona Son",
+    "synopsis": "Adam, de 45 anys, és un bondadós amo d'una gossera. Per a combatre la seva ansietat ecològica, Adam encarrega un llum solar terapèutic. A través de la línia d'assistència tècnica del proveïdor del llum, coneix a Tina, una dona amb una veu que calma totes les seves preocupacions. Aquesta trobada inesperada ho canvia tot: la terra tremola i els cors esclaten...",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87016"
           },
           {
             "time": "19.15-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86694"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87017"
           }
         ]
-      }
-    ]
-  },
-  {
-    "title": "CALL ME BY YOUR NAME",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/call_me_by_your_name_wilder-cartel-1920w.jpg?Expires=1785545038&Signature=NOqYXZ~39fk5a6Jf8GCUFlUFAYhsEg0bLAWkjve6WbndskI1idWeMtsjJwWRbNc2XrP291v5oDBXx4I3nKcJXFFVKzzr8EToROEgs5Q4Z4pSh6Ar27oa5IJTcQpi5xkQcCX3KlwKnX0wccA0yqfIeWqf85Pw-rfRgbQ85aPMVyZySYo5tiDrvM4MZq~h~CXrP1omkm~l60nNMizioXbyecHKAOuj0J8L0MP9GJhrMClo2WtvF8oD64eVqvrjKwFQqSs5zSjB5VlYU3P9d0zPTLli6N3KOs2YZu3Wuvil8JbM8HG~oAKjQgZrLZU434Xwiz6JrkmT7lbJjQDBT90t8g__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Luca Guadagnino",
-    "cast": "Timothée Chalamet, Armie Hammer, Michael Stuhlbarg, Amira Casar, Esther Garrel, Victoire Du Bois, Elena Bucci, Marco Sgrosso",
-    "synopsis": "Elio Perlman, un jove de 17 anys, passa el càlid i assolellat estiu de 1983 a la casa de camp dels seus pares en el nord d'Itàlia. Es passa el temps dropejant, escoltant música, llegint llibres i nedant fins que un dia el nou ajudant americà del seu pare arriba a la gran vila. Oliver és encantador i, com Elio, té arrels jueves; també és jove, segur de si mateix i atractiu. Al principi, Elio es mostra fred i distant cap al jove, però aviat tots dos comencen a sortir junts d'excursió i, conforme l'estiu avança, l'atracció mútua de la parella es fa més intensa.",
-    "showtimes": [
+      },
       {
-        "day": "Dj. 2",
+        "day": "Ds. 4",
         "sessions": [
           {
-            "time": "20.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86679"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "VIVA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/viva_2025-1920w.jpg?Expires=1785545038&Signature=rCLmVpWTmOrWngLWc6zQQfUCdD1qTrdiTU3Q9CArkr3XmmM3XjUbWX6JOyZTPCrwov1BZ~~Va~nEsrl6yjr617X51dags8MPKxI3S2SaMZoJJ6E~YizKI~pK1TJdSpOtWPMosrGCT6mKCg8qtEm74KdJVKSgWsy-oLWSUWDGrrrcQP9Fc9nPGAbwR9-KEDIZ278pDuCIXMgUFvbodpxVeB-eQrbYYlTmEBZtHyVG04GkE4vgxci~AGsA~05JVy2jN7QO0ISMm2FPeuVV34qpP1f2oN~KM~Ks1J3GBKPK3vGSWCsJo1ncZxbi0MmdV46pWIJAN7u8ogdvWI0eMtTOvQ__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Aina Clotet",
-    "cast": "Aina Clotet, Marc Soler, Naby Dakhli, Zaïra Pérez, Lloll Bertran, Guillermo Toledo, Xavi Daura, Laura Conejero, Josh Zuckerman",
-    "synopsis": "Després de superar un càncer de pit, la Nora experimenta la necessitat de tornar a sentir-se viva i entra en una espiral frenètica d’activitat. Això la du a embrancar-se en reptes professionals que la superen, a dinamitar el projecte de família amb la seva parella de tota la vida i a iniciar una nova relació amb un home més jove.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86531"
+            "time": "13.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87018"
           },
           {
-            "time": "15.10",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86527"
+            "time": "22.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87019"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "11.45-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87020"
           },
           {
-            "time": "18.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86534"
+            "time": "19.10-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87021"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "13.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87024"
           },
           {
-            "time": "22.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86521"
+            "time": "20.35-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87022"
           }
         ]
       },
       {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "10.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86535"
-          },
-          {
-            "time": "15.05",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86528"
-          },
-          {
-            "time": "18.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86529"
-          },
-          {
-            "time": "22.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86536"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86522"
-          },
-          {
-            "time": "18.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86537"
-          },
-          {
-            "time": "20.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86538"
-          },
-          {
-            "time": "22.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86539"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "10.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86540"
-          },
-          {
-            "time": "16.10 (Cinefòrum Óscar)",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86532"
-          },
-          {
-            "time": "20.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86541"
-          },
-          {
-            "time": "22.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86523"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "10.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86542"
-          },
-          {
-            "time": "15.05",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86530"
-          },
-          {
-            "time": "18.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86533"
-          },
-          {
-            "time": "22.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86524"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86543"
-          },
-          {
-            "time": "15.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86544"
-          },
-          {
-            "time": "19.00 (Cinefòrum amb la directora i actriu AINA CLOTET)",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86415"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86545"
-          },
-          {
-            "time": "16.35",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86546"
-          },
-          {
-            "time": "19.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86525"
-          },
-          {
-            "time": "22.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86526"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "TOY STORY 5",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/toystory5_2026-1920w.jpg?Expires=1785545038&Signature=YMBvrXaG4D9FptBd3EG0J~4SfF23FSMmpVX-kRzrGbDmxa-Gw~AKIkFmlH3a0U8VEp5EVo~7dX66XGuZDgzEYY3yrkmbZGcYNa4KsnK10UgK3q6JIzVteqf0Pf-9~VdXELbkTn2VLcc~s3LDvK4NC31X8A5acLt51GSHvj-SwYo59nwmSOo9DaJ80q7Z9tJ188MQIMlqI79kQNhjWaDZJFvC1N8lZcLKytyNDMD1wRD96whwu0ZvRmkahegM~nOKa2Xq8S8R6Qv7anLmL1d82C8GdYb~ef1qgkO~kdy58mDoAXx3Vvsno-ThjzoB2bBLYA7KrHFBLdWNl9tL20tP2A__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Andrew Stanton",
-    "cast": "",
-    "synopsis": "Un grup de joguines s’enfronta a un nou repte quan la tecnologia moderna amenaça les formes tradicionals de jugar. La convivència amb els dispositius electrònics provoca conflictes inesperats i les joguines han d'intentar adaptar-se a un món en què les pantalles dominen l’atenció infantil.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "16.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86582"
-          },
-          {
-            "time": "18.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86589"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86594"
-          },
-          {
-            "time": "16.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86583"
-          },
-          {
-            "time": "18.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86590"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "16.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86584"
-          },
-          {
-            "time": "18.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86591"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "13.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86595"
-          },
-          {
-            "time": "19.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86585"
-          },
-          {
-            "time": "20.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86592"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "16.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86586"
-          },
-          {
-            "time": "19.55",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86593"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "11.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86596"
-          },
-          {
-            "time": "15.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86597"
-          },
-          {
-            "time": "17.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86598"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "15.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86587"
-          },
-          {
-            "time": "17.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86588"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "EL DÍA DE LA REVELACIÓN",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_dia_de_la_revelacion-cartel-13061-1920w.jpg?Expires=1785545038&Signature=NVmMe1HNph7oQlxYOQsXlpk2teYcBVt0PTvxdFwXlDPMWvTZhWCefSWVdnz2R5nD~iZ8cGc-DOOAWvkaXLdsZW4-Sx~xjnqpIFPSGhYjyeO9xqg2NBAEXooEXnugrmb4yYlRex99xTjOOoizq7JXnrTtV~PDATSajst3qDmAulIgWonidxubywSTHYsfO94NmlLAAaJLSJlhGFG4kH-SGEkREsGPm3KRLgLMR~dlAxlidH~lPpjTOb9ueg7u0m4agaBSULi8LtS-rY639nWcMiw0hO2mHAc0FCPRzEMxQ4hJG2F8wE7AKlGSJbOcBhRP60fwVUiD4QYLcBtB1fp4ww__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Steven Spielberg",
-    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Colman Domingo, Eve Hewson, Wyatt Russell, Elizabeth Marvel, Henry Lloyd-Hughes",
-    "synopsis": "En un futur no gaire llunyà, la humanitat està a punt de descobrir la veritat sobre l'existència d'extraterrestres, un secret que ha estat ocult durant diverses dècades. Mentre milions de persones es preparen per rebre la revelació, algunes velles creences es veuen qüestionades, i la manera com entenem l'univers comença a canviar.Entre conspiracions, avenços en la tecnologia i trobades inesperades, la revelació promet canviar vides, relacions i la pròpia percepció del nostre lloc a l'univers per sempre.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "12.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86547"
-          },
-          {
-            "time": "19.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86548"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "http://"
-          },
-          {
-            "time": "19.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86550"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "12.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86551"
-          },
-          {
-            "time": "19.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86552"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86553"
-          },
-          {
-            "time": "22.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86554"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "13.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86555"
-          },
-          {
-            "time": "21.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86556"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "13.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86557"
-          },
-          {
-            "time": "22.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86558"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "13.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86559"
-          },
-          {
-            "time": "22.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86560"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "LA LUZ",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_luz-cartel-13202-1920w.jpg?Expires=1785545038&Signature=q17cROiofKTzCJQGW0141bjPpL4qKZ4bonq4BW64hqxfxiK3rfbC18aTmKCdJEWtzp2E14PQzzUHHc-XOXq4Y3DkxwMQ8pxR-MQqdc1Nq8GgMAFJEEiPhUz2smLoo2dRxFx3VflPUaNDg8zbVP2LS2ezOodci0F76rLcZCOCkk8mzfiY0hKvkncOcBpd2GwGH430yJDEap8HZ6TJF8gkjFQhFJTXf0pC1PTXiRz4VECCec1lVX3dIU7e8hjET72XnfnqgP29aVVlnDbT1HtLB0r8k7rhTH9STUVHeMNIet0oL6MhdWTbtrAg-gBi79n82kCQ0ht7~acg~rYURiTJng__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Fernando Franco",
-    "cast": "Alberto San Juan, Pedro Casablanc, Miguel Rellán, Luis Callejo, María Galiana, Ramón Barea, Nacho Sánchez, Pablo Gómez-Pando",
-    "synopsis": "Manuel, un sacerdot molt benvolgut en la seva parròquia, està a punt de penjar els hàbits i començar una nova vida. No obstant això, quan la seva passat amenaça amb sortir a la llum, es veurà obligat a afrontar el pes de les seves pròpies accions. Comença, així, un viatge sense retorn en el qual desafiarà obertament a la institució que el va protegir.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "22.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86635"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "22.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86636"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86637"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "12.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86638"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "11.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86639"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "15.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86640"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "16.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86641"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "EL PLACER ES MÍO",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_placer_es_mio-cartel-13258-1920w.jpg?Expires=1785545038&Signature=aMEqXeCGfyQoU8TZ~W68NVug~kzEXjS-aQlW~8d4~61XM-GBBGNWKoETcJwTXAVwEkhbDg9bBEDchjQgYIxG2wsUZ8kuHZQDOZC-RJBPUiOBBueasGCKJMEpbtaiIvcDhFVjBkR~3ySewkOTMIsQjjAo8f0kk15eCj6HO-~qBLks5IKG7Q87d7uJsLYkCYZhAxYTA2fX7ejaDmkyETnArIiyTXsqLQ6~AM5Z6TYrkayCQFJlsmYga629OTcwz4ml5SZ4rJu504Fvb-lCI6cFLVf47reIlQdxFz6wtzdoD4hsskxedvZuPgGfPLbxbEroONIL4y7JRQeNJg5tLVdlvw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Reem Kherici",
-    "cast": "Alexandra Lamy, François Cluzet, Reem Kherici, Mitty Hazanavicius, Kyan Khojandi, Delphine Baril, François-Xabier Demaison",
-    "synopsis": "Fanny i Tom porten 20 anys feliçment casats. No obstant això, un dia surt a la llum un secret revelador: Fanny mai ha tingut un orgasme. Tom, enginyer de professió, decideix posar-se a la feina per a crear l'invent que revolucioni el plaer femení. Tot un desafiament. La parella s'embarcarà llavors en una aventura que transformarà la seva relació per sempre.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "17.15",
-            "link": null
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "13.35",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86688"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "15.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86689"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "15.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86690"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "15.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86691"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "LA MEMÒRIA DE LES PAPALLONES",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/lamemoriadelespapallones_2025-1920w.jpg?Expires=1785545038&Signature=huQ2zexsZM2kMLzr3bzIs37RoqVmFJNu04goBUC409BHmm2zBmhohjO3VedWBXaK9QbtIgXYmjpeyIA8cCyU~I~x02gQDnMuByUhL-qHX7eWbGCgpmJNQZLo8kTs7sI1UJkBxFxE0G-XwsAFkMcTkMM9YzfsmOPG08NjklsD1G7y9PhknDsmoD5JOtDPjpDyMbnaDVfFhE0t4u03tbsEyPzqvzqxZJz~-fR8DAK3w4QG6VFlZ8K2jUZUleBIqFj1HDZ7yo1~355dOLqgSsy93urxzg1TEYrwZImbHR~hg11jhHDDkyTnL5pQhsfFJRbvhpx6tm6MCo4T6rwPc6GHEQ__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Marta Viña Berbís",
-    "cast": "Núria Florensa, Iván Massagué, Íngrid Escobar, Jana Parella",
-    "synopsis": "La Maria, una dona adoptada que va tenir una infància difícil, aprèn a digerir les seves experiències i la realitat d’haver estat adoptada a través dels ulls de l’Anne, la seva filla adoptiva. L’Anne està passant pel mateix procés d’integració a una família que també inclou en Manel (pare) i la Gala (filla biològica).",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "15.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86698"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "17.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86699"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "15.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86700"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "21.10",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86701"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "15.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86705"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "11.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86702"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "PIONERAS: SOLO QUERÍAN JUGAR",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/pioneras_solo_querian_jugar-cartel-13123-1920w.jpg?Expires=1785545038&Signature=Fa9Ck1cDS7hK902JAp3qKBroqOgL5qS7lvuiPpSMdCVNooFmvkYCoQprYYrw-9x5gUARjBXL3mmWK6JzH4WKxz756j2g6TOyg5WJ64lFBhzk9AUHXRAMuLekNAVG-GQnxlZB92mN6vfnkYtC75kqLk79dbWCF63QhnwkN32p1FwGNiChKidOenCA55YtnGTZIUgqt-SWBMzA5mahPVY22NDWQC7gmVuGTWMrbb7hEoAP-nmyd1wLKjuopqsYPWkg0tcExAa1LYTfoJlIDQ7amH8A7ZyqNhwPUH~GlCU~oqaaG2pMvKwV6AcC~EN0sYLwIAZmjvl6GyZw2L1ceiud7A__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Marta Díaz de Lope Díaz",
-    "cast": "Sofía de Iznájar, Daniel Ibañez, Aixa Villagrán, José Troncoso, Elena Irureta, Jordi Sánchez, Nora Otxoteko, Leire Aguilar, Miriam Rubio",
-    "synopsis": "A l'Espanya de principis dels anys 70, amb el franquisme encara fermament arrelat en la societat, un grup de noies molt joves decideix jugar al futbol en un país que no contempla el seu lloc en l'esport. En el camí troben a un aliat inesperat: un promotor esportiu tan audaç com visionari. Junts, i contra tot pronòstic, desafiaran al sistema i posaran la primera pedra d'una lluita que canviarà per sempre la història del futbol femení a Espanya.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "16.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86734"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "15.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86735"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "11.55",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86731"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "15.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86732"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "12.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86736"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "18.55",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86737"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "13.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86733"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "BACKROOMS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/backrooms-cartel-13138-1920w.jpg?Expires=1785545038&Signature=crsQ~OigPqMvFVVlTvacsUwczqaDt83~Jh0K6~H76s~nZi6UTlGbWSWzGa3vQq7RVhRUg7evSWjYiFn98Km3Vg-B46lqXGyee56yRJ0cFQeHIDzEjJAq6udcYC0aHhrkjv71iSAIbb~ptShXWTBUjZMAWQu~UPXohK9iRxRZ5B6LXkKJ5bOF8k31quIYuDxj6m-~ZN32Xk2Dmpd7RZ89PBPSVCVvRwbZTShThr8sPgDkSjs8Ooh7ZFImRymAaNDBiLutnprghERTuBNgIndOtkOFwPT9EDE7XB0jtPObwQKYvKRlDiSvMpC54YgfriIz6qktAPZz4yPbNDa1daiMUw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Kane Parsons",
-    "cast": "Renate Reinsve, Chiwetel Ejiofor, Finn Bennett, Lukita Maxwell, Mark Duplass",
-    "synopsis": "Una estranya porta apareix en el soterrani d'una botiga de mobles. Quan el pacient d'una terapeuta desapareix en una dimensió més enllà de la realitat, ella haurà d'endinsar-se en allò desconegut per a intentar rescatar-ho.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "13.45-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86668"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "14.20-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86671"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "14.25-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86667"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "13.40-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86669"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "13.35-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86670"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
+        "day": "Dt. 7",
         "sessions": [
           {
             "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86672"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87023"
+          },
+          {
+            "time": "20.25-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87025"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87006"
+          },
+          {
+            "time": "20.45-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87007"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "15.20-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87008"
           }
         ]
       }
     ]
   },
   {
-    "title": "DREAMS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/dreams-cartel-13030-1920w.jpg?Expires=1785545038&Signature=WjvFNf7c~6gjXxnO3J9Iv3dOARUGVFLHvVeNWt9MMSo6SpfxSjEF31HLYkGnx1doPqY0E3hhd~VOl5p2XlRYNf09PpzLJX4yPntBzvC4xCApY9yvLhaJ9eik1exV7XLFZ3gCcUVnxyuB~NR1bdNLSIMKS8ULglCi5sXL4KAHBxIKgHVt1zokcyI1WTPs9O8nzG69xPoDulQmjgrmXOCf-wd4TtjnQ23qUUT7dDo4QuiYdYkK7wlad0yPUN~n-UbL-UeYh7hBlJ0Ri2MJYf6zzHfZ2bE8xokuiWos-rfSRofuC-MGBf1Lvd0vrEiJGK~jmvWbRXJ80kxRKO6F7iYJFA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "title": "LOS MÚSICOS",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/los_musicos-cartel-13302-1920w.jpg?Expires=1785662139&Signature=nLl8LbleSIQlyJoQPw6sQJPa6onMlYPlbkKNCztT2H26xfooi10jrga5DTHjrUz6Sue6hTOX1qz4Wa5QZeSxvyRPS~6FVfsY-KSldndaL0rMbD9O9rpruq6v-xr2nNru6OrHqQkayh3JtZUaeVZx6v-YvX~INlzVmjXDIzNI8AxX6gjd~imgV6vzmQn59CRtkK9~4f7uqyjKareDtvz3u-5BvAATx8tDe-S6P0iBlEbSSd4TlI-daT9dJzGrW2h7yGjI8n1X00T24-u4Tn8aWQijh~03P765x0sUBct9NNx4HZIZphjvTaXkreWehlR52b4-fC2pSeVQyx1A-sLv~Q__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
-    "director": "Michel Franco",
-    "cast": "Jessica Chastain, Isaac Hernández, Rupert Friend, Marshall Bell",
-    "synopsis": "El romanç floreix entre una acabalada dama de l'alta societat i un jove ballarí de ballet mexicà. Creient que el seu amant li donarà suport, ell travessa la frontera per a perseguir els seus somnis a San Francisco. Però quan l'ambició i l'amor xoquen amb la dura realitat, ell ha d'enfrontar-se a la veritable naturalesa de la seva relació.",
+    "director": "Grégory Magne",
+    "cast": "Valérie Donzelli, Frédéric Pierrot, Mathieu Spinosi, Emma Ravier",
+    "synopsis": "Astrid Thompson finalment aconsegueix fer realitat el somni del seu pare: reunir quatre Stradivarius per a un concert únic esperat pels amants de la música de tot el món. Però Lise, George, Peter i Apolline, els quatre virtuosos reclutats per a l'ocasió, no poden tocar junts. Les crisis d'ego se succeeixen al ritme dels assajos. Sense una solució, Astrid decideix anar a buscar a l'únic que, als seus ulls, encara pot salvar l'esdeveniment: Charlie Beaumont, el compositor de la banda sonora.",
     "showtimes": [
       {
-        "day": "Dv. 26",
+        "day": "Dv. 3",
         "sessions": [
           {
-            "time": "15.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86750"
+            "time": "16.50-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87051"
           }
         ]
       },
       {
-        "day": "Ds. 27",
+        "day": "Ds. 4",
         "sessions": [
           {
-            "time": "13.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86755"
+            "time": "17.05-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87052"
+          },
+          {
+            "time": "22.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87053"
           }
         ]
       },
       {
-        "day": "Dg. 28",
+        "day": "Dg. 5",
         "sessions": [
           {
-            "time": "15.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86751"
+            "time": "17.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87054"
+          },
+          {
+            "time": "22.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87062"
           }
         ]
       },
       {
-        "day": "Dll. 29",
+        "day": "Dll. 6",
         "sessions": [
           {
-            "time": "22.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86752"
+            "time": "11.50-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87055"
+          },
+          {
+            "time": "17.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87056"
           }
         ]
       },
       {
-        "day": "Dt. 30",
+        "day": "Dt. 7",
         "sessions": [
           {
-            "time": "13.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86756"
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87057"
+          },
+          {
+            "time": "22.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87058"
           }
         ]
       },
       {
-        "day": "Dc. 1",
+        "day": "Dc. 8",
         "sessions": [
           {
-            "time": "12.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86753"
+            "time": "19.55-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87059"
           }
         ]
       },
       {
-        "day": "Dj. 2",
+        "day": "Dj. 9",
         "sessions": [
           {
-            "time": "22.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86754"
+            "time": "17.00-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87063"
+          },
+          {
+            "time": "22.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87060"
           }
         ]
       }
     ]
   },
   {
-    "title": "CASO 137",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/caso_137-cartel-13172-1920w.jpg?Expires=1785545038&Signature=NXF4srMW~Ifi31Rm7JboXa9FX75nKMlLCfbEFRpSDMUMpWuVJ9PHtjJ-3I0f~eORJ3k5hYqXRwqaMkrMzpRG5x89vurRCL8AmYuIsZ17fpmvx3Uq6~jd2hT41CreRry0K-kzsDdlAvYDEO041Y0zLtTKRe5ulxKBUFeLi4zIJuVVKM-dIeNYIYx7TkKm-KlcvNNKBvxs9uyNbEpz5tT~A4fXuTaSsmvmTBHmUZVGDwTqHZSjXiqRpo4qKXfqBCvw0RRsTQBygWznvF7oHzF9JRwsy6uLpM30iikwVDJKaced6ItsB8rpDBBmuiLs3YsEjvKGDOeLPKS6GlkdSNt~yA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "title": "9 LUNAS",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/9_lunas-cartel-13210-1920w.jpg?Expires=1785662139&Signature=RWMIhcW0pRDlLRIrKaGtRmDX7AHJnxnEKASSfH1htmIdUlNxlBdEJFCWiiAK-iEyRtfNCkIcdxjm3iqFSaKli-WRWztFu5KzK16xLKrN8SNzlkFX5RAXd2RgORD7BRu~W~sIC97Ou457tXtJcIVC3kqXUjq8u44XJ-e-P3GNM-UyHNlpHnjso9AE6ufp3eRN-DEhWhLPBaP~~uVH2nh60kkBrKhnilnHzshiaA0GnnOZA6MUNg6lS1-jfyJevynMtwYJOLvM8k8CJJALliDAslI0jSfdHKORPpDJVkn1LybuJKDVH2c~eEERgGWkPYM9HpJEww-TsKoo4almhiMtdw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
-    "director": "Dominik Moll",
-    "cast": "Léa Drucker, Yoann Blanc, Antonia Buresi, Etienne Guillou-Kervern",
-    "synopsis": "Stéphanie, agent de policia d'Assumptes Interns, és assignada a un cas relacionat amb un jove greument ferit durant una tibant i caòtica manifestació a París. Si bé no troba proves de violència policial il·legítima, el cas adquireix un caire personal en descobrir que la víctima és de la seva ciutat natal i transformarà el cas 137 en alguna cosa més que un simple número.",
+    "director": "Patricia Ortega",
+    "cast": "Zack Gómez-Rolls, Jorge Sanz, María León, Sara Sálamo, Kiti Mánver",
+    "synopsis": "Ángel és un jove i atractiu entrenador personal al qual li somriu la vida. Després d'un any sabàtic, acaba de ser contractat pel millor gimnàs de la ciutat, i tot sembla anar sobre rodes. Però el seu món fa un tomb quan comença a sentir-se malament, acudeix a l'hospital i rep una notícia inesperada: està embarassat. I és que, en realitat, Ángel és un home trans al qual només li faltava un últim pas per a completar la seva transició i ara haurà d'enfrontar-se a una decisió que posarà a prova la seva identitat, els seus somnis i la forma en què entén la seva pròpia masculinitat.",
     "showtimes": [
       {
-        "day": "Dv. 26",
+        "day": "Dv. 3",
         "sessions": [
           {
-            "time": "20.35",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86710"
+            "time": "12.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87086"
+          },
+          {
+            "time": "16.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87093"
           }
         ]
       },
       {
-        "day": "Ds. 27",
+        "day": "Ds. 4",
         "sessions": [
           {
-            "time": "15.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86711"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
+            "time": "11.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87087"
+          },
           {
             "time": "17.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86712"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87094"
           }
         ]
       },
       {
-        "day": "Dll. 29",
+        "day": "Dg. 5",
         "sessions": [
           {
-            "time": "15.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86713"
+            "time": "10.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87088"
+          },
+          {
+            "time": "20.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87095"
           }
         ]
       },
       {
-        "day": "Dt. 30",
+        "day": "Dll. 6",
         "sessions": [
+          {
+            "time": "11.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87096"
+          },
+          {
+            "time": "15.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87097"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "15.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87089"
+          },
+          {
+            "time": "20.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87090"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "10.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87098"
+          },
           {
             "time": "18.35",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86714"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87099"
           }
         ]
       },
       {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86777"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86778"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "15 PRUEBAS DE AMOR",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/15_pruebas_de_amor-cartel-13235-1920w.jpg?Expires=1785545038&Signature=CoQ9ELIjkxiIJ2BBJnGNMj7QhbUoS37~H8iCoCGy0aB8bdVVHUpqaQavQqSnnEOaUpAT3jGeEAikK0shDXrnIpAI5O9BVfmlpp-lgpkCIDTjg0pccZ4sdJrF5hET0QbWJ96CHqmpgLhl0kaxu85iR3GXNPCSe-NQqbiPwnlS~9ILoZium2fAcO1hAUlKRtp13myTTdMQFiI2D1tGwCuhKLIyGCO9cj7AMuVjtWBdxBB0Ou8tkxMLTvYfrZkXTqO7B8wQ~GEsID3jH8FM19fbFbJ90Az~CZnEWtB3O9Icy7IJDPHPGmQuNyd558-J-1QkGt2C1fpZY07GtJLWJ00pTw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Alice Douard",
-    "cast": "Ella Rumpf, Monia Chokri, Noémie Lvovsky, Emy Juretzko, Jeanne Herry",
-    "synopsis": "Céline espera el seu primer fill. Però no és ella qui està embarassada. En tres mesos, la seva esposa Nadia donarà a llum a la seva filla. Sota la mirada dels seus amics, de la seva mare i de la llei, Céline cerca el seu lloc i el seu sentit de la legitimitat, mentre lluita contra un sistema que li posa traves per a aconseguir l'única cosa que desitja, ser la mare de la seva pròpia filla.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
+        "day": "Dj. 9",
         "sessions": [
           {
             "time": "11.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86744"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87091"
+          },
+          {
+            "time": "17.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87092"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "title": "LADY NAZCA",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/ladynazca_2025-1920w.jpg?Expires=1785662139&Signature=Imf~en7vdnzcSQV0NPWWSAqCC9Sc5cZUJLwzFuYzzBlGBskomqwvRqgmoHLmXJiv2xlKSOJZU0AJu0kwXGV1Yql3DnJ0m6BN5LYS8tFoxItZ1h3WS2mFZbnOJoS9xoZh0nOHzvLMKP5R7eqeDqR~IFUr39c4awQx~VsIa2pqBaf~VWQ7WNUBTnZ~JcbJWQwI~f7DD8CNyNniXz8LO3j3YcYPeB5JkhSCrnBoo-O5gmQ0JkljnYw-zV88SCwVEt8xOAwrVYBymA9QEG8sC7R~JQNmkOngF1k1Q1iie3fgRPL~Sw~JNZg7Q5hT1JtCm1cg9d8sC9fNOZJpekn-xabXlg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Damien Dorsaz",
+    "cast": "Devrim Lingnau, Guillaume Gallienne, Olivia Ross, Marina Pumachapi",
+    "synopsis": "Perú, 1936. La Maria, una jove mestra alemanya instal·lada a Lima, intenta trobar el seu lloc lluny de casa. La seva vida canvia quan coneix en Paul d'Harcourt, un arqueòleg francès que la introdueix en un món desconegut i fascinant: el desert de Nazca. Allà, sota la immensitat de la pampa peruana, la Maria descobreix unes misterioses figures mil·lenàries traçades a terra.",
+    "showtimes": [
       {
-        "day": "Ds. 27",
+        "day": "Dv. 3",
         "sessions": [
           {
-            "time": "12.05",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86745"
+            "time": "10.00-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87112"
+          },
+          {
+            "time": "20.20-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87125"
           }
         ]
       },
       {
-        "day": "Dll. 29",
+        "day": "Ds. 4",
         "sessions": [
           {
-            "time": "13.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86746"
+            "time": "10.00-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87113"
+          },
+          {
+            "time": "17.35-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87114"
           }
         ]
       },
       {
-        "day": "Dt. 30",
+        "day": "Dg. 5",
         "sessions": [
           {
-            "time": "12.05",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86747"
+            "time": "10.00-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87119"
+          },
+          {
+            "time": "17.00-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87120"
           }
         ]
       },
       {
-        "day": "Dc. 1",
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "10.00-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87121"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "10.00-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87122"
+          },
+          {
+            "time": "19.15-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87123"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "11.50-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87118"
+          },
+          {
+            "time": "20.40-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87115"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "15.35-CAT",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87116"
+          },
+          {
+            "time": "22.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87126"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MAGALLANES",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/magallanes-cartel-13298-1920w.jpg?Expires=1785662139&Signature=AleYajXNnF4WaQLL3qQfGP8aC-k1PBNnNBIVLbBJpB1-clj5SGO3qUtNKhQfHeU8Pi1PXMv5NZZjVwBnhybqq4STu3081e6OVRjmbVWB7LCFhGv6ty5dtESLDnIfIKdpFq0pPdfo9SPMkuU8HFze~MzKda3NcPnXdtou3KbiNW7X8Hmz2swCqwyGdmDnnqKNy-A7GScD6INRS93SBjKMC966Dzg0b1K-JVV7jbjJgfcFmdH025rcqwVyqg2m-6fjVqTQTsbaTzG7AtqzmMpzc8DZeYFi3bgGS0ItTIcr~ik1eq2~EocvRFnM81l7egy2AUiaQKR0H1OxzYXr2061uw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Lav Diaz",
+    "cast": "Gael García Bernal, Darío Yazbek Bernal, Ángela Ramos, Rafael Morais, Tomás Alves, Ronnie Lazaro, Paulo Calatré, Rafael Siguion-Reyna, Sasa Cabalquinto",
+    "synopsis": "Magallanes és un navegant portuguès que es rebel·la contra el poder del Rei, que no dona suport als seus somnis de descobrir el món al començament del segle XVI. Convenç a la Corona espanyola perquè doni suport a la seva audaç expedició a les llegendàries terres d'Orient. Els seus somnis són el primer. El viatge és més esgotador de l'esperat, amb fam i motins que porten a la tripulació al límit de les seves forces. En arribar a les illes de l'arxipèlag malai, Magallanes canvia d'opinió. S'obsessiona amb la conquesta i la conversió, la qual cosa desencadena violents aixecaments que escapen al seu control. Aquest no és el mite de Magallanes, sinó la veritat del seu viatge.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "15.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87068"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
         "sessions": [
           {
             "time": "22.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86748"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87070"
           }
         ]
       },
       {
-        "day": "Dj. 2",
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "15.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87069"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "21.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87066"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "15.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87071"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "12.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87067"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "16.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87072"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "DÍA DE CAZA",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/dia_de_caza-cartel-12691-1920w.jpg?Expires=1785662139&Signature=fa2K~qOZpXNVfs6LhokjBaA8BkA3cxsUrq9WvYKUU6pWXUn9wsAdUG07fCZjmsvz~ph1HTQTHapKtidnNyQp4oXEEpdwnyIvH8EDWAhsFY3qKrnrLlL-bd8wrzLi-i~e~jFPVuICe9RXkYBi6LT57F7yydGrECkOMjV9F6QOfJCJhhl~v1BEPmBl31uy2Hd9ESTdNwe4-rEZXZR~s~aX47y~nWe7SX7JoG09Ddt1B38etj3nB-JI35ci8ns4REXPf58WoFJUUEl~hneIuaBHLRgWCi6nUZ7ZN2hIkhc8m0KK6PY1oTJhCj0Y7gkZ9~ORRVIh-5XxXepSeQf4tYUCzA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Pedro Aguilera",
+    "cast": "Carmen Machi, Rossy De Palma, Blanca Portillo, Zoé Arnao, Joel Soria",
+    "synopsis": "Estiu 2024. Blanca, Rosa i Carmen són tres amigues de mitjana edat que després de molt de temps sense coincidir totes juntes, queden juntament amb Alicia, la jove i taciturna neboda de Rosa, per a anar a caçar conills a un vedat de caça que Blanca va heretar del seu oncle José. Entre riures comparteixen els complicats moments pels quals estan passant en les seves vides. La relació amb els fills, separacions, infidelitats, la menopausa, problemes amb l'alcohol, importants projectes professionals… La calor, insuportable, asfixiant, i les converses sobre temes del passat van pujant de to fins a acabar enfrontant a les dones. Impossible no recordar que gairebé 60 anys enrere, un altre dia de caça, en aquella mateixa finca, va acabar en tragèdia...",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
         "sessions": [
           {
             "time": "15.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86749"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "LOS ILUSOS 13+13",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/los_ilusos_13-13-cartel-13253-1920w.jpg?Expires=1785545038&Signature=R9Y-kCEwcEIXvkOQd~Q-wF-dSIwETBdR3O5VSWvU8AqzshablncVvBGWt2~CVpnvFdZVH54tB0lBlDJDelR9QI97K-N79OAjZNrUzub3bj-N27-OQy~vLIGMNmUC5vEfOGH9~uYf0-iceAjtURi7ZuI1wWn8cFKjMyqHZ-s67eqvSkpi~U8xjfGzG1SC6G0gjLR5n6tK0JKiPYkrERVBZiuvklaezJkQrMpWi6Hodfg9MO~e3u~fBylULICUUCdKuOOP7coTdzd2q2gflWZrlKDBFrZPDZ7Msl-QBaxVCHRu5yIHm~TafHqjRBZ0EjF1QdKzTS9lHWFZke~YbjeLQQ__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Jonás Trueba",
-    "cast": "Francesco Carril, Aura Garrido, Vito Sanz, Isabelle Stoffel, Mikele Urroz",
-    "synopsis": "Nova versió de 'Los ilusos' (2013). Incorpora el color original rodat en el seu moment, fins ara inèdit, i planteja un diàleg entre tots dos materials.En paraules de Jonás Trueba: 'L'equació \"13+13\" en el nou títol respon a la data d'estrena, en 2013, de la versió anterior en blanc i negre, més els tretze anys transcorreguts, fins a 2026, per a aquesta nova versió en color. Vam tenir la temptació d'enfrontar totes dues versions, però finalment hem decideixo que podien conviure i sumar, i el resultat és una pel·lícula que ens sembla més justa'.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "13.35",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86673"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86996"
           }
         ]
       },
       {
-        "day": "Ds. 27",
+        "day": "Ds. 4",
         "sessions": [
           {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86674"
+            "time": "18.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86997"
           }
         ]
       },
       {
-        "day": "Dg. 28",
+        "day": "Dg. 5",
         "sessions": [
           {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86675"
+            "time": "15.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86998"
           }
         ]
       },
       {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86676"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86677"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "13.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86775"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "MALLORCA CONFIDENCIAL",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/mallorca_confidencial-cartel-13041-1920w.jpg?Expires=1785545038&Signature=bZvMGXLCGcFmfu5vAFwPC3p5KOxsjrM4lF7jHk89NWpaORJXvjvtyL~1C6enbQo6VtjBgiQDNrr08BXnZW-pyqDEkf1PmnnE0mHdimFmzA8AujiU-3rnVdekDiyeY5ankRXkhzoVm2XdnJKu1qWHadek~DO9V6WHDFQaR2Fus7SfH7beMUV7ZAArCwtm1IApkF0btU6SXG-~K57w7XX0pNymDMVOCHd3oTVU4xQWgVFaKaWBZ0FweiFUMnYyz8muKmdaoND7ilUkDU6oboDOC9jXRmaiyeqDakD4K9yG-PH5BUqHI5SNVGJRYCJC1KKnxaPEeJZUL8s2e3JitVG2Bw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "David Illundain",
-    "cast": "Lolita Flores, Asia Ortega, Jordi Sánchez, Amin Hamada, Moreno Borja",
-    "synopsis": "Mallorca, 2007. Chusa és la poderosa matriarca de Son Canal, un poblat epicentre del narcotràfic a l'illa. Un projecte immobiliari amenaça la seva poder i el seu imperi. La seva neboda, Nela, acabada de sortir de presó, descobreix un fosc secret de Chusa que posa en perill la seva lleialtat. A mesura que la violència s'intensifica, Nela només té dues opcions: la fidelitat o la llibertat.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "17.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86767"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
+        "day": "Dll. 6",
         "sessions": [
           {
             "time": "22.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86765"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87001"
           }
         ]
       },
       {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "17.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86768"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "17.35",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86769"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "17.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86770"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "16.55",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86771"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "20.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86766"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "CORREDORA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/2026+-+Corredora+-+tt36665220+-+Catal%C3%A1n-1920w.jpg?Expires=1785545038&Signature=kWq~CXRxpHI7iYVJIY3TERKqkMQOGoOllQGWqz7WfVXl63UY-WU12tf1SiKX4IODnIh9NrL2XEypKeQTsFfG9Cy6JV5c~1mJ-6uI8EVYbNvL42vKWcZBBTSgRT76fEG10LBLEabCNnqR2ofOubCVrGHC0LMfaaq-bwapMpGNX4SALMbZUVPKYkJzJ0Kc~xhXX7qzx6~t0ElPqvg6lHFPj6RuvTxKcgGOFMom8hY~Tub1LyHjZMjZZbQV-0R7wWhvDDsqzD-NKP0RPtqKzSEza4H~sjX5CtkT-DKpbZ9bKw5v1ppsy-hB0DQpaYgy4w8CvkOnaEdo7JOcFWKXQR~TQw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Laura García Alonso",
-    "cast": "Alba Sáez, Marina Salas, Àlex Brendemühl, Marta Bessa, Claudia Gallego",
-    "synopsis": "La Cris, una corredora d’elit, pateix un brot psicòtic que l’obliga a allunyar-se de l’alta competició. No tothom al seu voltant podrà o sabrà com ajudar-la, però la Natalia, la seva germana, serà el seu refugi per acceptar la seva condició i redefinir el seu ritme de vida.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "13.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86742"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
+        "day": "Dt. 7",
         "sessions": [
           {
             "time": "17.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86738"
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87002"
           }
         ]
       },
       {
-        "day": "Dll. 29",
+        "day": "Dc. 8",
         "sessions": [
           {
-            "time": "12.05",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86743"
+            "time": "13.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86995"
           }
         ]
       },
       {
-        "day": "Dt. 30",
+        "day": "Dj. 9",
         "sessions": [
           {
-            "time": "17.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86739"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "13.55",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86739"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "13.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86741"
+            "time": "19.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86999"
           }
         ]
       }
     ]
   },
   {
-    "title": "INCONTROLABLE (I SWEAR)",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/incontrolable_i_swear-222352773-large-1920w.jpg?Expires=1785545038&Signature=rmx8pcE~alDZDnrq8Sb0rUUuiBV~pGQEpZjHb86Y7IlGxqb~ohX8qA0A4bUdI58jC7BPCxBBDOR-fnStQgb5QcYUm7uoZ1Bk1HmLGuRxUmLg66ldXABrOkqjgLNM5KbCEjE6s2KV1asqULWpyM~52v2P4iVgqBcCcm0Z-1r-fXb1BCdaoKP6i~NRO2J2oARUAe9HwcwAtJ2NiEoZpeHAtGqGJd1VR92qSgEzt71gZUIIr1obMsDdhq63AhS9iGLtMSTuunk8AtpsQxusQ9YqntdVBeF9phN3hbHRwzGhu7fynKTG6yhgvZCfdEGHYrHjSmUkeKb1XEOZuon-Uct1Pw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "title": "L'EFFET AQUATIQUE",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/leffetaquatique_2016-1920w.jpg?Expires=1785662139&Signature=KCFm64lq6H7hxikYhMZkc6t2JUIilS86ryhkLNCx8YL2cZmc28ZGtXROt2LxWEBHzzvZJeqCa0ZF~loHjiaCqbjHBEaFsZ7qb2l~KgBywutcW248ITJHsHl16b2M~ZJ8o0iP770bW-J9JMJleSfIVbfCFY2aJ97BMPsvKAvVs6KcziwStD1A7zKOUC90mr6NHe1FykZrbKsVYoRqWqtOOAw4Hder5~-1PJcKhvfeDQ3I29DKp4-~QpMGMvEBXRCQ3eSSFbS3LHLeiO5Uod3mmAr2wwAqSk6U28AKagFnJQ6~Ot~8swOypvpmkAGxD0ImYNrJUgliPAD~P8~JaTtmhA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
-    "director": "Kirk Jones",
-    "cast": "Robert Aramayo, Maxine Peake, Peter Mullan, Shirley Henderson",
-    "synopsis": "La història real de John Davidson. Diagnosticat amb Tourette als 15 anys, assenyalat com a boig pels seus companys, va lluitar amb una condició que pocs havien presenciat. Ja adult, va fer campanya en favor de la síndrome de Tourette.",
+    "director": "Sólveig Anspach",
+    "cast": "Florence Loiret-Caille, Samir Guesmi, Philippe Rebot, Olivia Côte",
+    "synopsis": "En Samir, un home que treballa com a operador de grua a Montreuil, s'enamora de l'Agathe. Com que ella és instructora de natació, en Samir, que ja és un bon nedador, decideix apuntar-se a les seves classes per poder-s'hi apropar i intentar seduir-la. Però la seva mentida no dura massa i l'Agathe odia els mentiders!",
     "showtimes": [
       {
-        "day": "Dv. 26",
+        "day": "Dv. 3",
         "sessions": [
           {
-            "time": "13.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86682"
+            "time": "15.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86799"
           }
         ]
       },
       {
-        "day": "Ds. 27",
+        "day": "Dc. 8",
         "sessions": [
           {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86683"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "13.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86684"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "13.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86685"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "13.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86686"
+            "time": "16.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86800"
           }
         ]
       }
     ]
   },
   {
-    "title": "PIZZA MOVIES",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/pizza_movies-cartel-13197-1920w.jpg?Expires=1785545038&Signature=qzi6DlJUH9ZlLim9IzHNejM7Hz5cYG~bZXrcF~KBlou3NNNI0HDt~4qusaCP2WX~-bAetiyoKIAj~eaN96rAU~iqjn61rbZZ~yVxRd0DWsLaIeSN7gBLpJsM7HC2kwNqeMctqoQMMa8ReVl9~FhiCywZo2LK-arlQVXhryuCZSNkLG6b1GgJLqY8-6V7k3T4FCk5yVZGI5RoWWpqhZ2nEgvaiK110aQlQZnqrkHBsZ8d1TPjTFuh2QSMoZLUYeVEX841TehTjeKaG0By5e1koRKDYpxys0vmf~sxvTGMBewj-WStVes0BjUjCNl358yRUCdONwAnEvymjfYuakuKzw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "title": "LAS CORRIENTES",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/las_corrientes-cartel-13292-1920w.jpg?Expires=1785662139&Signature=MrQzCFQ95hI~LC7BihCgsjbfdquGRzVvEozxx38SPPNa-uXpsI0WYZejwRMEFj1qXOtPO8VWAUDC1ftoV8SSsTK97BXnV1NL4CQ0GAIFebOkujVB8vFi5GWwKLir877p~vNF9owgFFCqgjuyyMsUZ1Gr3SMa4BQYYJeIRFhTQbumIEfvSzZoJCaCEV1ERQSxdd0RJ7DzqQtxWFaj46ZIM0yIaZHjX1vLCH2nXw2YukTxkQaWroaOa8LMYJkFBFLR1QSRKOij2xwxtKWTQGpdq1MdWDET5dvPO5vAQvqFa~h1xlqSNRfXchkHJLTibUVft9uS7OTBfoLH9sX45YD6BA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
-    "director": "Carlo Padial",
-    "cast": "Berto Romero, Judit Martín, Bruna Cusí, Joaquín Reyes, Leon Martínez, Raúl Arévalo, Tamar Novas, Melina Matthews, Josep Seguí, Miguel Noguera",
-    "synopsis": "Una periodista cultural i crítica de cinema en crisi convenç al seu marit de deixar-lo tot i muntar un negoci, però no un qualsevol: una pizzeria amb temàtica de cinema.",
+    "director": "Milagros Mumenthaler",
+    "cast": "Isabel Aimé González Sola, Esteban Bigliardi, Jazmin Carballo, Claudia Sánchez, Ernestina Gatti, Sara Bessio",
+    "synopsis": "En el cim de la seva carrera, Lina, una estilista argentina de 34 anys, es deixa portar per un impuls sobtat després d'un lliurament de premis a Suïssa. De retorn a Buenos Aires, no diu res, però alguna cosa ha canviat en ella; alguna cosa que, silenciós i invisible, desentranya subtilment un passat que creia haver deixat enrere.",
     "showtimes": [
       {
-        "day": "Dv. 26",
+        "day": "Dc. 8",
         "sessions": [
           {
-            "time": "12.05",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86730"
+            "time": "16.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87129"
           }
         ]
       },
       {
-        "day": "Ds. 27",
+        "day": "Dj. 9",
         "sessions": [
           {
-            "time": "13.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86725"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "13.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86729"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "13.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86726"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "13.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86727"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "17.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86728"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "LAS OVEJAS DETECTIVES",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/las_ovejas_detectives-cartel-13116-1920w.jpg?Expires=1785545038&Signature=bruM94mwJdT2oNzIObXpa9Z8S5SiMTLEEPqshGxPxvdsOyQrhy042mcz5fDeAYKYfHmn1UuzOm6BXGpISON4j3A6lteLDw0h-UkWZjsHuzyxkmdoknQx6vjjzW-3WZVF3wbn0N9vrExB-lxB8fvzyFF-DX2GYwv38Yn9Uo7S6djaxFkcPLA5sj-eXGGYeN4X~E8eRzJf2MNSoQ4nJ8GSlSSR384lxc9CoLnuU3VXgpOg1FJ1EV6tsU9TwS~9Pmcwt8qcwAiA3Y4l6ZTFo7fG3vLfk0MmoGUHDL3vrmpOchq-lcLASgy~KY43ku4CwQgjPwyL8JmHjZmXHBBKNRlg4A__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Kyle Balda",
-    "cast": "Hugh Jackman, Emma Thompson, Nicholas Braun, Nicholas Galitzine, Molly Gordon, Hong Chau, Tosin Cole",
-    "synopsis": "Cada nit, un pastor llegeix en veu alta un assassinat misteriós, fingint que les seves ovelles poden entendre-ho. Quan ho troben mort, les ovelles s'adonen de seguida que ha estat un assassinat i creuen saber com resoldre'l.",
-    "showtimes": [
-      {
-        "day": "Dv. 26",
-        "sessions": [
-          {
-            "time": "14.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86660"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 27",
-        "sessions": [
-          {
-            "time": "12.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86661"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 28",
-        "sessions": [
-          {
-            "time": "22.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86662"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 29",
-        "sessions": [
-          {
-            "time": "14.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86663"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 30",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86664"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 1",
-        "sessions": [
-          {
-            "time": "10.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86665"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 2",
-        "sessions": [
-          {
-            "time": "11.30",
-            "link": null
+            "time": "20.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87130"
           }
         ]
       }
@@ -2448,7 +1301,7 @@
   },
   {
     "title": "SIGMA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/sigma_cartel-1920w.jpg?Expires=1785545038&Signature=RzNu7x3RGz5NK0xD7Mh7SW2jaL97U8TMhgG4xFP06I6BUjBfCiWPe95FXGiumO6X93~xKJ4TUxZ~BlEH3-Q6wglF~oFzfkwfX-5L05c-ZdU4EsVjosuCgInUUgidJWhPF5P43qT3-19u8Lw5BgPa0LwJ2-htNwbrTEfLZkYH~Bb0lqKBDnxOYt~0UNsNRKe7cRugEdrHtkwo98fwkf4xfUJ3BRJIaOL-FNE89oBmCp-60G1GIUmBxzno-u4kcHqXlKQG4WjOKuaZXCYC~eHYJo8oUBOeD5rDyxmFdiVXvUSp2TVMK7YCbV7QrkOIOQHnWPGzKcfZMC9EDvfQtIMgnw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/sigma_cartel-1920w.jpg?Expires=1785662139&Signature=m6pSx9rPOvDTZHqM8JHxjYgw8DDZ0U0f2~P8NlMUcTFVJOIenh8EdapAlrWVAIhh0qZoOaOe9savfLzDb6xxzV3LMBQLT4v165oyMHumHoXNOcn6D3cHrbX0V7lUt4ACZMm4Jq7ok2FeO4Xr3xi~ncAP2Z7eXITZUhZfjAkb0ArzxkNbgAD8Car7q6aRcX2lUFI3059Orjdws19XeagIxI0vkwIEsGRBdhd4H61WyVMz-mQo27Dhf1tux5Bsm2TgZ0tsLl1PF-V56kxPkfZ7mMxaN2ZZvJw~0ZDSm4p3j1PCvyPXqG27nXTBhNQXaA2EvyPJFcp2ID7CvaMSRGU-TQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Daniel Benmayor",
     "cast": "Alicia Armenteros, Mia Sala-Patau, Óscar Casas, Luis Zahera, María Caballero, Andrea Duro, Nicolas Giraud, Clarice Alves",
@@ -2459,7 +1312,1231 @@
         "sessions": [
           {
             "time": "18.15 - Cinefòrum amb el director DANIEL BENMAYOR i l'actriu ALICIA ARMENTEROS",
-            "link": null
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86797"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CUENTOS DE TOKIO",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/cuentos-de-tokio_cartel-1920w.jpg?Expires=1785662139&Signature=Qjhr9KLFrK3rVI66719qvr8ZeLhK1juOaAy2xbWDi4BYIpQ4vo-WyA~-qRjqvYXGJImTJF6YMfGg6ScbG9rL7mV8PMmSLnRvdE8-sj8sxFI~~bGIcbHBjoTV8QeTpfiwI1QEucyGTfFTTx~E3JE9yqxTm8BCqsny2OAl0wAs0roAI3R~Iuppyoyq68azhkhLcsveEwWiUZNc0Mbgk8b2UEJQCqniXPFYtdiAWEC1LLFkp6edr5Bh4OqwfPwYHor~JbDDg42XUg-MR4Qull6h4xNVVRIcFZCu4-nokd0-7-EeHXCLrP42fCjtEKLRBHNGfQCUTdpcIHvVfHUeAhztCQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Yasujiro Ozu",
+    "cast": "Setsuko Hara, Chishu Ryu, Chieko Higashiyama, So Yamamura, Haruko Sigimura, Kuniko Miyake",
+    "synopsis": "Una parella d'ancians viatja a Tòquio per a visitar als seus fills, però cap d'ells té temps per a atendre'ls, per la qual cosa decideixen enviar-los a un balneari. Quan tornen, la mare passa una nit a la casa d'una nora, vídua d'un dels seus fills. A diferència dels seus cunyats, Noriko mostra afecte pels seus sogres i conforta a l'anciana.",
+    "showtimes": [
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "18.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87035"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LA PRINCESA PROMETIDA",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la-princesa-prometida-wilder_cartel-1920w.jpg?Expires=1785662139&Signature=nE4IpboQ0pIe5UfLjLUDf6PvXagA6WXROqHceT2L6FhUihLZkzbylEKAopVEcEIOYmjc8Ydv1-kueMEXNd4DccTPTuIgDnYujey8lKFP0Fkxf78ysfwv-x-5Jk91yHTRQG-iMjATvtak1IqOo1MODhbPZxuWvrmd4yYjJy8P8WL1OwzugF2y0xRulvhYMPDCQfn1ExrHJIivUjqRVtDeE3YOHXtTFnxn4~BMyqUNUvgNwQXiufl1nbcHZxOGhWLk--oBG1iA8KlgGXdhhepTbIWS8SGNAiMmtKOSwQieVQM2FHp9XgRLue17dCTD-QvnYyy4iPM7bl4EI3kVh09gZQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Rob Reiner",
+    "cast": "Cary Elwes, Robin Wright, Mandy Patinkin, Chris Sarandon, Wallace Shawn",
+    "synopsis": "Després de buscar fortuna durant cinc anys, Westley retorna a la seva terra per a casar-se amb la seva estimada, la bella Buttercup, a la qual havia jurat amor etern. No obstant això, per a recuperar-la haurà d'enfrontar-se a Vizzini i els seus esbirros. Una vegada derrotats aquests, haurà de superar el pitjor dels obstacles: el príncep Humperdinck pretén casar a la desgraciada Buttercup, malgrat que ella no l'estima, ja que segueix enamorada de Westley.",
+    "showtimes": [
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "20.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87041"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "OBSESSION",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/obsession-cartel-13222-1920w.jpg?Expires=1785662139&Signature=bn7hBviu2K4eHw6PGjTDnF7yY44Ma39WD~ObHcOttUsSOL4vfrRG2bCN7Zdj101kiUJhGYcLYiJXwBij1Y0llJmgTav4P51VzncClgauQL2qOMgZg2A-PVoBj5jJEhN1XWoJrl3fwhxizQp8uv9uwb3dF03mVpYy5Pjuq3YJED1PAuYZC-K1shfHlGnn1JpBTdbGJGWFrr0hixZkG83Cqlkpu4JFGFY7wleBEXgCJoZ495GJGiZeXMoORHIO8PmeKvZMOtPP9V8mEBgmgfoebLPGXJHlpzmztKoT3Th0qGDoIoauFvjQv~pXd7u4ddsUO6FTRcDJQAHqnqee83jnnQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Curry Barker",
+    "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
+    "synopsis": "L'anhel romàntic desesperat d'un noi pel seu amor platònic de tota la vida desencadena un sinistre encanteri: Niki es torna irracionalment obsessiva fins a convertir-se en l'ombra de Bear. Una fantasia aparentment inofensiva que es convertirà en un pertorbador malson. Potent metàfora sobre la cosificació de les relacions romàntiques i dels límits als quals estem disposats a arribar moguts pel desig de ser corresposts.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "12.25-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86893"
+          },
+          {
+            "time": "20.20-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86908"
+          },
+          {
+            "time": "22.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86894"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "11.50-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86885"
+          },
+          {
+            "time": "17.10-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86895"
+          },
+          {
+            "time": "22.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86904"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86896"
+          },
+          {
+            "time": "17.10-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86905"
+          },
+          {
+            "time": "20.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86897"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "11.35-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86886"
+          },
+          {
+            "time": "17.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86898"
+          },
+          {
+            "time": "20.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86906"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "12.25-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86887"
+          },
+          {
+            "time": "16.15-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86909"
+          },
+          {
+            "time": "22.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86899"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "10.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86888"
+          },
+          {
+            "time": "17.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86900"
+          },
+          {
+            "time": "22.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86901"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86902"
+          },
+          {
+            "time": "18.55-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86907"
+          },
+          {
+            "time": "22.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86903"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "VIATGE AL PAÍS DELS BLANCS",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/viajealpaisdelosblancos_2026-1920w.jpg?Expires=1785662139&Signature=BcFvek3MnPghw71ryEHldmxWthheB08vzRwR0ltULfXXvXoIt8vv3wP3eFWNLoa6rA2IHEHAQHomfe6HcQvmMA8bMh8eE~l5oAvLc-T~cDJPnUwuYyiowUlcsGJA~iCHLhNP~9hwBG4T-2HDjfGBHQA-mHDAr~YwF4xDrhihq6xvJPCMgmdlwD1sMK08lwp7uR0HioSv5zFxyqqMzTVv63l7iQZuyvjgTPwiCc4de2Ge3Qk45NJP~yCYAU2-qjMr1NaPIYf-EQkQedz7jLKenIrt6SJJe-9KcauM3-eKqeSNppEttv0XS9GkUKxbqRG8LLYbWtuQrcwwR3vLN7sMVA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Dani Sancho",
+    "cast": "Emma Vilarasau, Benkamin Kakraba, Víctor Say, Ousman Umar, Jordi Bosch, Diana Gómez",
+    "synopsis": "Basada en la història real d’Ousman Umar, un jove ghanès que abandona el seu poble atret per la idea del «país dels blancs», un lloc llunyà que alimenta la seva curiositat. Després d’una travessia plena d’obstacles, arriba a Barcelona i descobreix que la vida allà no és com s’imaginava. Fins que coneix la Montse, que l’acull a la seva família i li ofereix, a més d’amor i suport, la possibilitat d’un futur. L’Ousman no només l’aprofita, sinó que la transforma en quelcom molt més gran.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "14.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86936"
+          },
+          {
+            "time": "19.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86939"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "11.55",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86910"
+          },
+          {
+            "time": "18.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86911"
+          },
+          {
+            "time": "22.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86940"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "11.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86937"
+          },
+          {
+            "time": "18.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86912"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "13.35",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86938"
+          },
+          {
+            "time": "20.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86965"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "14.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86935"
+          },
+          {
+            "time": "20.25",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86913"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "10.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86942"
+          },
+          {
+            "time": "18.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86914"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "10.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86943"
+          },
+          {
+            "time": "20.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86915"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "VIVA",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/viva_2025-1920w.jpg?Expires=1785662139&Signature=qUwxr8gI1s1uEjXsU08HdPff0I~xFzUNW7FLm1L8upeLwhCSWqlAt94N8OcHgr9wA3zL1v7ASZEwPf3dcKAxHxGO8bYWqJeSVdC6Ro5qrNfVfosT~cImglPXlbvDGXUTpdShsPc6~CpxaRRCnug85EzxINaQ1hTe6AbWcjlBsHUXNjYLHoBTfrFzQAyH5AAuZYnk137~eonENijybato6rzjAAaL61aX70lTnd1eXnqGD~VuuDL3qGw90l9OS~cmoNpkeII339YrmQz96agsKcgYVxzNhGk2utuiQgwYdgt5kxSf-XbDqGnB3X8qCrNT4e61G1P5WQW4Ra4AWRzLiQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Aina Clotet",
+    "cast": "Aina Clotet, Marc Soler, Naby Dakhli, Zaïra Pérez, Lloll Bertran, Guillermo Toledo, Xavi Daura, Laura Conejero, Josh Zuckerman",
+    "synopsis": "Després de superar un càncer de pit, la Nora experimenta la necessitat de tornar a sentir-se viva i entra en una espiral frenètica d’activitat. Això la du a embrancar-se en reptes professionals que la superen, a dinamitar el projecte de família amb la seva parella de tota la vida i a iniciar una nova relació amb un home més jove.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "11.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87033"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "10.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87034"
+          },
+          {
+            "time": "20.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87105"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "10.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87100"
+          },
+          {
+            "time": "20.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87101"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "15.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87106"
+          },
+          {
+            "time": "22.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87110"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "11.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87102"
+          },
+          {
+            "time": "18.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87107"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "11.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87111"
+          },
+          {
+            "time": "21.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87103"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "11.55",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87104"
+          },
+          {
+            "time": "18.55",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87108"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "TOY STORY 5",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/toystory5_2026-1920w.jpg?Expires=1785662139&Signature=icWJZ~09I1B3xpISv53Ug5Ymk~VWJQPzm5fFJsv5gIPacb-UOqRQQX0j2l-5p7Jti8jxQiabx89obUdOpsbpS~w~AJC5kM8DNLgJbOBWfMLILYUZnI40Vpve~UTmloMURBBFMUhCq9yFpzS7vMXfiT8h3rP-2Yl4DTS-QL7g73Brr-mSSagfkySXfNENUQscZ06AowE1GydiHjWG1zLohn79DblvWeMALG6anA67ShogTY8KMdEKO~ezOcwuD90E3atmPuvZ~zCZ9pH~z1bMe-q2DABaKnjArQDsQwpnSLJnfSLfzM4fNmZ7YJIKgiDH~vi7Oz-OGbut~pm0Xx1PoA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Andrew Stanton",
+    "cast": "",
+    "synopsis": "Un grup de joguines s’enfronta a un nou repte quan la tecnologia moderna amenaça les formes tradicionals de jugar. La convivència amb els dispositius electrònics provoca conflictes inesperats i les joguines han d'intentar adaptar-se a un món en què les pantalles dominen l’atenció infantil.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "15.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86945"
+          },
+          {
+            "time": "17.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86949"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "11.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86946"
+          },
+          {
+            "time": "17.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86952"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "10.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86953"
+          },
+          {
+            "time": "17.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86947"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "11.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86948"
+          },
+          {
+            "time": "18.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86955"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "10.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86956"
+          },
+          {
+            "time": "17.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86957"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "10.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86950"
+          },
+          {
+            "time": "17.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86954"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "12.25",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86951"
+          },
+          {
+            "time": "17.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86958"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LETRAS ROBADAS",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/letras_robadas-cartel-13280-1920w.jpg?Expires=1785662139&Signature=HlLqrAbAACv14LEFlL8vPt6FeOhj0EOtgWAaqFGe3Yh2Tl8tu5qHnitMXw3mCfXeHndaD99cEj45wepOwEI5TNNvVblRlmbU6JWogvCP5iV0OzNmeJwHc5LIn7X-b8ihveN7nGPGk-izdorfOIL63-mWSCgAbudL8575~fem0fToX7xsEDxxHVG3HS4qMu0hPiv5sYnGiu8yB-RXK4wx7Og2zIzI-VAbEWT8CNs0gLRpPlCr6SwqDfDaeHD1HCBTmGuisjYRfm3BHwcpntn7KHC5XODcWBHnBsveASMk8L5P4XKw8Dqr1nlAZBR~eM1M54iOd0jkGAuqD4LX1kW7-Q__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "John Carney",
+    "cast": "Paul Rudd, Nick Jonas, Jack Reynor, Havana Rose Liu, Peter McDonald",
+    "synopsis": "Rick és un cantant i compositor que es guanya la vida com pot actuant en bodes amb el seu grup. Danny, en canvi, és una superestrella del pop en plena expansió. Després de conèixer-se per casualitat, Danny llança un nou single que es converteix en tot un èxit mundial, però Rick l'acusa d'haver-li robat aquesta cançó.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "20.35",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87026"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "15.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87027"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "15.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87028"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "15.25",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87029"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "15.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87030"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "19.05",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87031"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "13.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87032"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "SUPERGIRL",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/supergirl-cartel-13145-1920w.jpg?Expires=1785662139&Signature=sy5nXoshHo4S~iKlujIiS3R1kMoBmseJremQwhhbVoBQ8YZbDfl9MINQi85h-b5xDL-o88AYSt1OX0vJAB2G197eB5tYZO1CoRHeTkivMVvFVc2kRVVy~sKejmKbajMs4TckB~ZIdg1aZqY6fnELBijwq0V7j1vIDwAvBEg8uYPo5SOa-XxjS~hgQAAbXiyDveuEmpjxqAXw29vy6rWH-yGpRfQ6tfqa0DLkhrwL0CK5mxSu6Q15ToBDEq70-ymP8qvwsySLChQZu2wH0~oIVaAycaByIywpW8nxsPnst-FziylLyoxVShNDFZAQhzviK4PeuyisohtEo2EhC90oRA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Craig Gillespie",
+    "cast": "Milly Alcock, Eve Ridley, Jason Momoa, Matthias Schoenaerts, David Krumholtz, Emily Beecham, David Corenswet, Wil Coban",
+    "synopsis": "Kara Zor-El no és l'heroïna típica. Criada en un fragment de Krypton on va veure morir els seus éssers estimats, s'embarca en un viatge de venjança interestel·lar amb una companya poc habitual.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "16.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87079"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "12.05",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87080"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "13.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87081"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "22.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87082"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "12.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87083"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "15.25",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87084"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "11.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87085"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "EL DÍA DE LA REVELACIÓN",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_dia_de_la_revelacion-cartel-13061-1920w.jpg?Expires=1785662139&Signature=fxI7zSUrymamxEOOPY~FdzgN0iseP3yVwqlqfuFYhBLXkuxCJmkczVfDRqVKwSS2Eed-Xa6JVLKJV3GggEEwh49E-aUDyXprVTg4A5tH3kyZvX78ml2ydYcuiP5pEgxir3cAXBd347L8YIYxAOefdNsWnLz48oE2WzpBTriPuHffrCgfcCMSL2iJbvG6IDxY1O6abPxHl-6SP6txqdPBOzDONyZbjgSM6BaidE0QJCUJwLI78khykGy1Z8XTOQ7gxPTDcXpFYT2LaFSotsfzdVCCk3-QqsgpmqGW3VlQdiboMFmblDJI3AxCO4MiUYd477hc1KYivX1ZOhxPmq9YgQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Steven Spielberg",
+    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Colman Domingo, Eve Hewson, Wyatt Russell, Elizabeth Marvel, Henry Lloyd-Hughes",
+    "synopsis": "En un futur no gaire llunyà, la humanitat està a punt de descobrir la veritat sobre l'existència d'extraterrestres, un secret que ha estat ocult durant diverses dècades. Mentre milions de persones es preparen per rebre la revelació, algunes velles creences es veuen qüestionades, i la manera com entenem l'univers comença a canviar.Entre conspiracions, avenços en la tecnologia i trobades inesperades, la revelació promet canviar vides, relacions i la pròpia percepció del nostre lloc a l'univers per sempre.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "13.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87009"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "15.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87010"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "13.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87011"
+          },
+          {
+            "time": "22.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87038"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "15.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87012"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "13.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87013"
+          },
+          {
+            "time": "22.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87039"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "11.45",
+            "link": "https://screenbox.koobin.cat/?idioma=CA&act=1"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "10.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87040"
+          },
+          {
+            "time": "15.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87015"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LA MUJER SIN NOMBRE",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_mujer_sin_nombre-cartel-13300-9af6fd56-1920w.jpg?Expires=1785662139&Signature=G4lyLiX2CXN0dCB8l1xTHF1hWJmS3rdDP6rV-4EQxbUavdr2OySYXTdrfRwKblL4N6OCKmQAQXaA3uVnP485cH~cci6p0o6f9b3MZCvbmIRf~XBr0uRNl12PvrVzfvQMX-CPFxVBbqC1BXeMRK-OA1SXJ1dvS7lzRnhNBh3OlZBVBvq8DcdvV5tHA~0skDrC6i2yGRYMFHouK4a0NR7PMF5fkV9SZ4fIs1l4xmVvdLJtQMvX7Z6-~PPW8c9wD8zxa-3zwdBN7IB4E9px8FbrN9NePvCWKF49zqPoBj62Jpq6jmoAm1oQZQLVuPsV7~goWfo1wFffX4GZ5xYgn~Q6TQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Haifaa Al-Mansour",
+    "cast": "Mila Al Zahrani, Shafi Al Harthi, Abdullah Al-Qahtani, Aziz Gharbawi, Outhoub Sharar, Adwa Alasiri",
+    "synopsis": "El cos sense vida d'una adolescent és descobert en el desert. Quan ningú la reclama per por de la vergonya que pugui suposar per a la seva família, una investigadora novençana apassionada dels crims reals anomenada Noelle s'involucra obsessivament. Malgrat el desig dels seus superiors de tancar el cas i de la resistència d'una societat on les dones han après a amagar-se per a garantir la seva seguretat, Noelle està decidida a identificar el cos i descobrir la veritat.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "13.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87064"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "13.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87153"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "11.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87134"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "15.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87135"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "13.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87065"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LOS ÚLTIMOS DÍAS DE MARÍA ANTONIETA",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/los_ultimos_dias_de_maria_antonieta-cartel-13204-0006a993-1920w.jpg?Expires=1785662139&Signature=sDJmPkOxtcmD75O1CtB4VnO01BPTw~tBe64vXoDsRSDT3lS0iEpdImr6kMMGZoid~TvJiKWOAd-YLj6v07OrR7EQZo4jHVVJhZqILOqrOORxFsxpCHXzzJBo1K8ZecY0OMOuyn955jUw~sWW1-krnPPfvczmnrBhmsCSzGivePucqTXPW-uoQzJyJeDJDXr-a-biJPIlnWREh6phqN0I3vt62em3GleMXiKYgBZJFX4lYUU6Mgw6vcLaPjrT~l1XH7mn-cTtBYuhmhyJd6mNY1qD5WaqU91Zey7yQsb4CX0Cxy2MsLLrQVkJ~rs19vm4L7icdW6~9hMYmbzrhej4gw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Gianluca Jodice",
+    "cast": "Guillaume Canet, Mélanie Laurent, Aurore Broutin, Fabrizio Rongione",
+    "synopsis": "París, 1792. La revolució del poble francès ha triomfat i el rei Lluís XVI, al costat de la seva esposa María Antonieta i els seus fills, són arrestats i empresonats en la Tour du Temple, un sinistre castell de París, a l'espera del seu judici. Lluny de l'esplendor, els privilegis i les riqueses, la família es troba aïllada i vulnerable per primera vegada en les seves vides. Aquests seran els turbulents últims dies de tots dos monarques abans de la seva històrica execució en la guillotina.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "13.05",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87136"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "15.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87137"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "15.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87127"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "12.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87131"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "15.10",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87128"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "13.35",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87132"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "15.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87138"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "PÁLIDA LUZ EN LAS COLINAS",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/palida_luz_en_las_colinas-cartel-13277-35eb9295-1920w.jpg?Expires=1785662139&Signature=KS5fBDV2opQhuh5Esiqpypj97e5Zir3B9Wz0wLbJkntFVE1v6PLYmT5y8CWMO1Vzu0E237wAXtfgXJG4EWvrcRIuPItFDtXJqzxlpSzj2tnRkt39JPurrT04pZmJJkMD7d6m5iwKsmli57iuPWCpvxZvu3-VeOYHAELfI50E~7aQMd4d1b6TG5V2WFoWLQarmyYN9GE7TUkWgrug-A0BZLXuRUj0DHJW9HNqThMb6OzMZ~8nczMzsRg-8-ETHqZ2jEusw38zPTAFzmuqXZW8h~2qKClsudYGpqbfB8eeclcnm0PyalVrbVB~eKNWlHQ23N7kgetY2fneZseuBirbIw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Kei Ishikawa",
+    "cast": "Suzu Hirose, Fumi Nikaido, Yoh Yoshida, Camilla Aiko, Kohei Matsushita",
+    "synopsis": "Anglaterra, 1982. Etsuko rememora al costat de la seva filla Nikki la seva joventut a Nagasaki, evocant un passat de relacions i decisions que van marcar per sempre la seva vida i la de les seves filles. No obstant això, com més s'internen en aquesta memòria, més clar resulta que aquests records tanquen secrets capaços d'alterar la vida d'ambdues.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "11.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87142"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "13.25",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87143"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "11.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87149"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "13.25",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87150"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "11.55",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87144"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "22.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87151"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "13.35",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87145"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LA LUZ",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_luz-cartel-13202-1920w.jpg?Expires=1785662139&Signature=A-jLaI4BZADKJpZPtyXrsERLHg3GznFwjJfZeLCJ1QWmvEFleYw9C-eXORGlRkRnaNq~1ztL7xEG6iY0YR1q5FHf-zqMq2x-RWK3P26KI4oiKajws7b74vtxyEd0j-VS3ZH91d1kEETm1-eg6IUDVE85pTjlWn4IKk9NBdfm19GYYnDi6pXoaQi66Ndmvpm6Go4jN20Yb56g1BL-ADoq~fmeAMYMtPQsriTbQGRl4sm1SCvm9g228-w7RzfzxiJ8wqbihaVdwg~kWIzf-Ym668XIIwnZuQTg53wNpwlBjoslvrI-uiS1NR3PgUgYreD3~wqaoFtOel-2ZjxTB0wZWw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Fernando Franco",
+    "cast": "Alberto San Juan, Pedro Casablanc, Miguel Rellán, Luis Callejo, María Galiana, Ramón Barea, Nacho Sánchez, Pablo Gómez-Pando",
+    "synopsis": "Manuel, un sacerdot molt benvolgut en la seva parròquia, està a punt de penjar els hàbits i començar una nova vida. No obstant això, quan la seva passat amenaça amb sortir a la llum, es veurà obligat a afrontar el pes de les seves pròpies accions. Comença, així, un viatge sense retorn en el qual desafiarà obertament a la institució que el va protegir.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "13.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86983"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "13.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86984"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "13.35",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86985"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "13.25",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86986"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "13.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86987"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "13.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86988"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "CORREDORA",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/2026+-+Corredora+-+tt36665220+-+Catal%C3%A1n-1920w.jpg?Expires=1785662139&Signature=e6MPh40gcaHgosZ4~ZPVY1JO~N5kS2NvNGIZ~Pibyvy1~m6b9rhNeNyf4tL45~C3U5u3TGKtAADnbi-CLwtADh-Nj1DZyqzyGGmcE4C2VYSdMqhl81kyuU~8ksHa4nBZBnXvhhBHtaol3W1GdslF2Ai08-b1bXE4~HBC6MAzkE0MvH8d6flTT6ZDKTLInylbMRIoHsPBeye7cUXDBU-nCOYHnC~QaeAXwCyQoUaBu0lwEXohv0nq7TwxPvasUuSc2JaXZp8XhTSOnjEUpuMALpYJEPK4ZUVHRdPyOozPivldwyjp1WUW0R8znESgqbe2l~wCHs7TigCx9cWBfBO6~A__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Laura García Alonso",
+    "cast": "Alba Sáez, Marina Salas, Àlex Brendemühl, Marta Bessa, Claudia Gallego",
+    "synopsis": "La Cris, una corredora d’elit, pateix un brot psicòtic que l’obliga a allunyar-se de l’alta competició. No tothom al seu voltant podrà o sabrà com ajudar-la, però la Natalia, la seva germana, serà el seu refugi per acceptar la seva condició i redefinir el seu ritme de vida.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "13.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87157"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "13.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87156"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "19.30 (Cinefòrum COPC)",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86991"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "PIONERAS: SOLO QUERÍAN JUGAR",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/pioneras_solo_querian_jugar-cartel-13123-1920w.jpg?Expires=1785662139&Signature=oldY86gWnzWKaL~0lGh58OmQPfieQ2BlYNuJjAUuDUA73lg3VhzfLrxG6hWRPn22LqRvQdWCOAnOjd1LWOjbxTQFbl4x3x8u-gkhtr~c0DW19p3g4mrEE-AMv8r6t-crsrtsvoMyt7ekgcytU3nNf57qQIG4aXxgmsGgeWc7xOnpx9NGUCxlNGSVuyolk7XtUb1dlRf4-gg-oeT4ZwZmguQ2DKo7AH-alXnMr~uIPcaYo7wjaHPpStjc~BDsnYQ0OWPFVmDHclSGLNt04MxS8LVtwOKKUKPFPeca4mCGp8-uZD9fEfAkn-qTZ5BXdqeyuDN5afKK1d3c-FdQjdiSLw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Marta Díaz de Lope Díaz",
+    "cast": "Sofía de Iznájar, Daniel Ibañez, Aixa Villagrán, José Troncoso, Elena Irureta, Jordi Sánchez, Nora Otxoteko, Leire Aguilar, Miriam Rubio",
+    "synopsis": "A l'Espanya de principis dels anys 70, amb el franquisme encara fermament arrelat en la societat, un grup de noies molt joves decideix jugar al futbol en un país que no contempla el seu lloc en l'esport. En el camí troben a un aliat inesperat: un promotor esportiu tan audaç com visionari. Junts, i contra tot pronòstic, desafiaran al sistema i posaran la primera pedra d'una lluita que canviarà per sempre la història del futbol femení a Espanya.",
+    "showtimes": [
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "11.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87161"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "10.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87152"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "13.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87162"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "19.00 (+Cinefòrum)",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86989"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "10.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87163"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MALLORCA CONFIDENCIAL",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/mallorca_confidencial-cartel-13041-1920w.jpg?Expires=1785662139&Signature=VmjmhQ8qAFm34yTMXlozn7UO9-nCbSRJK5U1QXH~fDjqqT7Pdkte7IUnMeoYT18oEKMsFaDJN0nnlhPHTaSB5qeaeCAESQOVn44OTweaR3xvsu0lnEuzyXABxSMUIaA7aTLgroOP~MeoMbfdjPLb3N-FD3yRsV8jf0Sc06lA9dPB0k9jkUeC0q67SnVUQnuCWm7ZEVCIh0w5y7hN5zXassyiNEX29IFABYl5JiSAlq0-YN3r8hVstafQrnvfdJSXcHA9S63wT-ZHfoIU5NxbrOst5WxBjaWyI7gZJKkBqmyrgEJQuItS3BVRqyi5PX44Fw40nKbvs1qmjBeflNe-mQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "David Illundain",
+    "cast": "Lolita Flores, Asia Ortega, Jordi Sánchez, Amin Hamada, Moreno Borja",
+    "synopsis": "Mallorca, 2007. Chusa és la poderosa matriarca de Son Canal, un poblat epicentre del narcotràfic a l'illa. Un projecte immobiliari amenaça la seva poder i el seu imperi. La seva neboda, Nela, acabada de sortir de presó, descobreix un fosc secret de Chusa que posa en perill la seva lleialtat. A mesura que la violència s'intensifica, Nela només té dues opcions: la fidelitat o la llibertat.",
+    "showtimes": [
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "15.30",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87139"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "13.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87117"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "13.35",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87140"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "14.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87133"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "14.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87141"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "NINO",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/70x100_POSTER_NINO-scaled-e1780986909114-718x1024-55d876cf-1920w.jpg?Expires=1785662139&Signature=H3DJ2EileNuFVWc485uoeDTfKOPxqPFt2M8O8Z3tajrdRrSOnPzXVgHoUV-G3yg3gkK~2A29DZwxX1lBsw4hXI552DFRjeKp463mOaGgpSL15z~kHA4rjsGAqTR5mkOyPcZu6WcvLAPSYQEHT-PUTtyyTmLo9w3y3jzEfndKH0rAHGStNgUusbLMS~-IyJVPKpzJusL8P4Wq31-158Ew9bbZliN43YpOPbxs352OkRjAxnrfX-2Aqtcl7tCFOwR7-0VwO8fhmcaeHbddw3V3Su-Izlf4YHGzG3iay0TNnm-8dcFXF6g15tiR3TuKSUeIQP42duKvVUecn~A3JmEs-A__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Pauline Loquès",
+    "cast": "Théodore Pellerin, William Lebghil, Salomé Dewaels, Jeanne Balibar, Camille Rutherford, Mathieu Amalric, Balthazar Billaud, Estelle Meyer",
+    "synopsis": "En tres dies, Nino haurà d'enfrontar-se a una gran prova. Fins llavors, el jove explora els carrers de París per a reconnectar amb el món i amb si mateix.",
+    "showtimes": [
+      {
+        "day": "Dv. 3",
+        "sessions": [
+          {
+            "time": "11.25",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87154"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "13.45",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87147"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "13.35",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87148"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 9",
+        "sessions": [
+          {
+            "time": "13.20",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87155"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MORIR NO SIEMPRE SALE BIEN",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/morir_no_siempre_sale_bien-cartel-13281-71440b11-1920w.jpg?Expires=1785662139&Signature=JbtMmPpe9TwDN6jQW70maY-5lVIUo5U2W9AikM8kaaYTiBV~LEaT2DbixcyJSy3rqn5l71qFy4TjEdjN-Zjoq2GxEmZesERLsuD6NwGKGSwbZMPpkJ7jdvsMLRnqdwX1RxS7K21RsKq4U5Oj102tnz5-Uwaljp~69NfUAqPwoiSCK-v4qLUlU5igNO0FUz-QHxmp3dqjmZVw3SttXG5coLEtgoWWT9mMq~Zi9k5nICg7j6i3B6b9qXtkv9vGUBwd6T3ML73nhNDh3O0FeZNUSbky3I1N4Hs2lVkn2RKkdsyCYa1CMP6MgP7NUK8z3Z3JdPviSfBc1R~kJKJgP29Z6A__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Claudia Pinto Emperador",
+    "cast": "Ana Wagener, Tamara Casellas, Juan Carlos Vellido, Paula Muñoz, Raúl Prieto, Daniel Pérez Prada, Carmen Arrufat, Pau Durà, Jorge Motos",
+    "synopsis": "El marit i el germà de Rosario s'han quedat sense feina després d'un acomiadament improcedent. Per a pagar els seus deutes decideixen segrestar el cadàver del seu cap i demanar un rescat. Però Inés, l'adinerada dona del mort, i els seus fills tenen altres plans. Malgrat pertànyer a mons totalment diferents, totes dues famílies es veuran obligades a intercanviar molt més que un cos. Perquè… qui va dir que la felicitat era gratis? i quin preu estem disposats a pagar per ella?",
+    "showtimes": [
+      {
+        "day": "Ds. 4",
+        "sessions": [
+          {
+            "time": "13.40",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87159"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 6",
+        "sessions": [
+          {
+            "time": "13.50",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87158"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 7",
+        "sessions": [
+          {
+            "time": "16.55",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87073"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 8",
+        "sessions": [
+          {
+            "time": "13.35",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87160"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "EL PLACER ES MÍO",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_placer_es_mio-cartel-13258-1920w.jpg?Expires=1785662139&Signature=tMF1v4eFotY0ujZfy058zJAmW~cs7zdnkmcwruBnqjQyuw2m2Umsd02HcdPSpFlsjqJkwkLsfTnsi-BgRqYOM5T7rrxDpQe4UrR3IIIVz1-trZP010BHxKDeABJ3zULmFMZtSgXEnXT76oMjE8xW7VIOeF6MtPEKldjN7bTMf-WthhbX7NVzJQGwqCHzDRZHiXgYHboavzAHPW-E07uLZaqavLqvqnaGSsIivGG73AcPP60j4CocipYGgnfCS9~WhIcT6b4ym~7mSeWee7TTeYZ-u5rpQs3BGGvkncbFrc1RW2H8WnDfZ70KnkvHmBScJf2gWTo4Z7ULg1Svxo33wQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Reem Kherici",
+    "cast": "Alexandra Lamy, François Cluzet, Reem Kherici, Mitty Hazanavicius, Kyan Khojandi, Delphine Baril, François-Xabier Demaison",
+    "synopsis": "Fanny i Tom porten 20 anys feliçment casats. No obstant això, un dia surt a la llum un secret revelador: Fanny mai ha tingut un orgasme. Tom, enginyer de professió, decideix posar-se a la feina per a crear l'invent que revolucioni el plaer femení. Tot un desafiament. La parella s'embarcarà llavors en una aventura que transformarà la seva relació per sempre.",
+    "showtimes": [
+      {
+        "day": "Dg. 5",
+        "sessions": [
+          {
+            "time": "19.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87047"
           }
         ]
       }
