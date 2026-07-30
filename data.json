@@ -1,154 +1,190 @@
 [
   {
+    "title": "SPIDER-MAN: BRAND NEW DAY",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/spider_man_brand_new_day-cartel-13327-49f890ed-1920w.jpg?Expires=1787995678&Signature=koGC0bZeHmenKV37ie9nSCJt3Ki7UerNnETqdD7HhXhie8ml-WEO42MXNRlD5ZaRb2V6P7LcDZNCFo3WYNiQ-~n4Xfxjwugl~wVvgcaJQlgpulZdfMY7y5uigekjgMueRIdH2wk~VRS41~MHlCEAjCDEbbF~XNQ-gePVxFCHFX1j0rArr7k1kinCD4c~TfZTtMHYCLbL45k1XEh9D6TbI8uoiEjbcW680hF8IhduHrQHyEAjOl-hQeao8Qv20jkh9ws4MEN4vubAZSUw1nVokZPka02btL4kQrYvuHZwRiT7G8buVLC3vCMvTktRebpQxvJagGmuOWCFlvlO8TX9FA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Destin Daniel Cretton",
+    "cast": "Tom Holland, Zendaya, Jon Bernthal, Mark Ruffalo, Jacob Batalon, Sadie Sink",
+    "synopsis": "Han passat quatre anys des dels esdeveniments de \"No Way Home\", i Peter Parker ara és un adult que viu completament només, ha desaparegut voluntàriament de les vides i records dels qui estima. Combatent el crim en una Nova York que ja no coneix el seu nom, s'ha dedicat per complet a protegir la seva ciutat—un Spider-Man a temps complet—, però a mesura que augmenten les exigències sobre ell, la pressió desencadena una evolució física que amenaça la seva existència, al mateix temps que un estrany nou patró de crims dona lloc a una de les amenaces més poderoses a les quals s'ha enfrontat.",
+    "showtimes": [
+      {
+        "day": "Dj. 30",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88070"
+          },
+          {
+            "time": "15.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88071"
+          },
+          {
+            "time": "19.45-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88067"
+          },
+          {
+            "time": "22.20-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88068"
+          }
+        ]
+      },
+      {
+        "day": "Dv. 31",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88382"
+          },
+          {
+            "time": "17.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88383"
+          },
+          {
+            "time": "20.00-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88402"
+          },
+          {
+            "time": "22.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88396"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 1",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88397"
+          },
+          {
+            "time": "15.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88378"
+          },
+          {
+            "time": "19.50-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88384"
+          },
+          {
+            "time": "22.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88398"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 2",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88399"
+          },
+          {
+            "time": "17.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88385"
+          },
+          {
+            "time": "20.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88386"
+          },
+          {
+            "time": "22.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88375"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 3",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88387"
+          },
+          {
+            "time": "17.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88388"
+          },
+          {
+            "time": "20.00-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88379"
+          },
+          {
+            "time": "22.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88400"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 4",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88389"
+          },
+          {
+            "time": "17.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88390"
+          },
+          {
+            "time": "20.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88391"
+          },
+          {
+            "time": "22.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88376"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 5",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88392"
+          },
+          {
+            "time": "15.40-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88380"
+          },
+          {
+            "time": "20.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88393"
+          },
+          {
+            "time": "22.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88401"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 6",
+        "sessions": [
+          {
+            "time": "11.45-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88381"
+          },
+          {
+            "time": "15.40-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88394"
+          },
+          {
+            "time": "20.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88395"
+          },
+          {
+            "time": "22.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88402"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "LA ODISEA (THE ODYSSEY)",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_odisea-cartel-13307-1920w.jpg?Expires=1787831198&Signature=HoeQihfQlUBM-AkEHbkPSx7JyyV2NKiQYbpO8oatm-bA6~BxR04iBiHrvjEGfSxv7AkgugUVN1XOFy~7uyfBy3epVvglxYMTO3KVfxfrnIB3rW8XByg8rQwVygTGAg68a9uPnA1YYH3phAtAZBl5LcD4neHx~wqSnaS0YL4iOmpw8ZIqJgiplJaJ~93Ktv4Bj7cGU9YQgLW9nRnQSw8YsfTjqxPK~K2kV-e8Z9dT5iUYuhi3j98F-hyhTA4XDN9HiI9SDjpkljuy6lqhIiFgtjyJr4xxw2SCqq~6CoOXFMX695TeZP1UIfnKsbT6w~AMy-OgTLpAyMFviaTrVsGz6w__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_odisea-cartel-13307-1920w.jpg?Expires=1787995678&Signature=Xqo-tvEC4Hsb3W80DLYv2FR-nn1xTTnxMRiar6vfULnXrdw6KVbSWQtrCdhneIboFVHcnhL0G~3jtoocSZCL5vrw8xVQdJDoafdWPdTZRvuUfFiaOET4kQbUsqoybsjRIyoa0dsKY8OhQ38IegzwddRWk9kCgAjD2d6xcAHg6kPSbIXSOEV~AjI87Vy7WUxYd7NWoBUmaaZ03RAFeYwuH90~vOgOFiNddIOUxuyVgvUc6~qX6NHNBLrT7MAmq33loO-U6R2mD0L3F~~NT8gyc~2lmS8Eu46Djv8O05PtndHFURTz-RUwQ9m50o0D34CQ5pHKqkxIz~yx0tB-2Z5fkQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Christopher Nolan",
     "cast": "Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Zendaya, Jon Bernthal, Charlize Theron, Lupita Nyong'o, Ben Safdie, Elliot Page, Himesh Patel",
     "synopsis": "El llegendari Odisseu enfronta perills èpics en el seu viatge de retorn a casa després de la Guerra de Troia. Es topa amb criatures mítiques i déus capritxosos, superant obstacles increïbles.",
     "showtimes": [
-      {
-        "day": "Dv. 24",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88058"
-          },
-          {
-            "time": "15.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87920"
-          },
-          {
-            "time": "17.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87914"
-          },
-          {
-            "time": "19.30-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87907"
-          },
-          {
-            "time": "22.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87921"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 25",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88059"
-          },
-          {
-            "time": "15.30-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87909"
-          },
-          {
-            "time": "17.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87915"
-          },
-          {
-            "time": "19.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87930"
-          },
-          {
-            "time": "22.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87922"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 26",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88060"
-          },
-          {
-            "time": "15.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87923"
-          },
-          {
-            "time": "17.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87916"
-          },
-          {
-            "time": "19.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87931"
-          },
-          {
-            "time": "22.00-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87910"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 27",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88061"
-          },
-          {
-            "time": "15.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87924"
-          },
-          {
-            "time": "17.45-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87913"
-          },
-          {
-            "time": "19.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87932"
-          },
-          {
-            "time": "22.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87925"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 28",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88062"
-          },
-          {
-            "time": "15.30-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87911"
-          },
-          {
-            "time": "17.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87917"
-          },
-          {
-            "time": "19.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87933"
-          },
-          {
-            "time": "22.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87926"
-          }
-        ]
-      },
-      {
-        "day": "Dc. 29",
-        "sessions": [
-          {
-            "time": "17.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87918"
-          },
-          {
-            "time": "19.30-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87908"
-          },
-          {
-            "time": "22.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87928"
-          }
-        ]
-      },
       {
         "day": "Dj. 30",
         "sessions": [
@@ -169,12 +205,151 @@
             "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88063"
           }
         ]
+      },
+      {
+        "day": "Dv. 31",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88418"
+          },
+          {
+            "time": "17.10-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88409"
+          },
+          {
+            "time": "19.40-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88419"
+          },
+          {
+            "time": "22.00-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88403"
+          }
+        ]
+      },
+      {
+        "day": "Ds. 1",
+        "sessions": [
+          {
+            "time": "12.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88420"
+          },
+          {
+            "time": "17.20-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88404"
+          },
+          {
+            "time": "19.40-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88421"
+          },
+          {
+            "time": "22.10-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88410"
+          }
+        ]
+      },
+      {
+        "day": "Dg. 2",
+        "sessions": [
+          {
+            "time": "17.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88411"
+          },
+          {
+            "time": "19.40-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88422"
+          },
+          {
+            "time": "22.10-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88412"
+          }
+        ]
+      },
+      {
+        "day": "Dll. 3",
+        "sessions": [
+          {
+            "time": "10.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88423"
+          },
+          {
+            "time": "15.30-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88405"
+          },
+          {
+            "time": "19.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88424"
+          },
+          {
+            "time": "22.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88413"
+          }
+        ]
+      },
+      {
+        "day": "Dt. 4",
+        "sessions": [
+          {
+            "time": "11.45-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88408"
+          },
+          {
+            "time": "17.15-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88414"
+          },
+          {
+            "time": "19.40-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88425"
+          },
+          {
+            "time": "22.10-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88415"
+          }
+        ]
+      },
+      {
+        "day": "Dc. 5",
+        "sessions": [
+          {
+            "time": "11.45-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88426"
+          },
+          {
+            "time": "17.15-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88406"
+          },
+          {
+            "time": "19.40-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88427"
+          },
+          {
+            "time": "22.10-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88416"
+          }
+        ]
+      },
+      {
+        "day": "Dj. 6",
+        "sessions": [
+          {
+            "time": "15.30-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88417"
+          },
+          {
+            "time": "19.00-ES",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88428"
+          },
+          {
+            "time": "22.00-VOSE",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88407"
+          }
+        ]
       }
     ]
   },
   {
     "title": "TRES DE MÁS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/tres_de_mas-cartel-13254-21be41bb-1920w.jpg?Expires=1787831198&Signature=B0wqTBsijCWLLesBfgUO-GsGq1XarsLKyCS6uBPIn5iYBeNlwXX7tG-Yr9mS-tDmWkjKIFkqdQQwUvTdIEvk1MNiEpuoLfwbW0I47Hhe~K6tAJHRajMSgJeodi4xBYSg9bR6cifgD4C8iDGMgFFn8mhI4PgE6SjWwMe~TvVty--aWnNN9lrHnrxfz-A7HRq3fe7d-IOZ5FaQ2EGuVdwhM7wSbfKBGcPeUH1gnJvUZe~UG1~M0N5aZCqCBbJzbmc9QHBI3iuNx6yKX~q8A5gs0QUj541NeOEuC7XWHXHnoYqdn4KiCQ2EQvAD5TsJJ7EnPhpo0IfQmdLWYHyIKZEK~w__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/tres_de_mas-cartel-13254-21be41bb-1920w.jpg?Expires=1787995678&Signature=V-U1ll8GznRSyKj8jSlMszX6in7GuD7gJirfUrYAGbajAck0GVGJexAJjWnq~vw1ur2ay5bm6VQRauw2K~gSP6P6AgZMyjh86a~NQrJLo~-PKts-7dlbgAJdF0BF~9fjnAS1ALiLVo2mGjh9wqMicDqVt6hWRRkqhskvI~~ZES7pPZuds55cKyY-89u2DyzYl1n-6HBTUtCimXL6OWcPKZ-4rip-vccoDqkM6fCzdcRuMATkFzTGFn2fyxYs6FvpA3kn1ILw52RLgkEVGyMcTupyS4GY7YSTwANaESo4x8L24xj2paS6QzL97iH242601XIv4lrG1PCAiWZ7b0OJ3w__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Mar Olid",
     "cast": "Salva Reina, Kira Miró, Luna Fulgencio, Ian Cortegoso, Adriana Bidae, Marta Hazas, Antonio Pagudo, Félix Gómez, David Lorente, Carmen Ruiz",
@@ -290,60 +465,8 @@
     ]
   },
   {
-    "title": "SPIDER-MAN: BRAND NEW DAY",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/spider_man_brand_new_day-cartel-13327-49f890ed-1920w.jpg?Expires=1787831198&Signature=aOdxX20asl1slb02pZNGOZDe-6iYxdV7Y1RF5METzseRvSc89qzw8P20vMwH0GS-XoRyq8Jwyt7uNKC~3VwtS4T0orFWnzLnt40hwp3SwTivk4-I~vYul8ypKJ6fDbhiugFR605cKC4OzSy7wDokKWiaM8O3O1E3Nx9j-KIk9ZP4QjmL9KjHD3NvbHo~sNWzJUhXilAjZPp~3DE6y6kpGdpHOn8wyJAVOZRdP7TQebC3tCfpeluZNd8t3waACEUsB0mfkmG5f9nuQhrxMY3pFhNIYAOQ6X~7BNcIck7wgTxVXl0kDDkR9fvCG90fsHs-5uBB9KQ3GIFzGXcdLRBm8A__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Destin Daniel Cretton",
-    "cast": "Tom Holland, Zendaya, Jon Bernthal, Mark Ruffalo, Jacob Batalon, Sadie Sink",
-    "synopsis": "Han passat quatre anys des dels esdeveniments de \"No Way Home\", i Peter Parker ara és un adult que viu completament només, ha desaparegut voluntàriament de les vides i records dels qui estima. Combatent el crim en una Nova York que ja no coneix el seu nom, s'ha dedicat per complet a protegir la seva ciutat—un Spider-Man a temps complet—, però a mesura que augmenten les exigències sobre ell, la pressió desencadena una evolució física que amenaça la seva existència, al mateix temps que un estrany nou patró de crims dona lloc a una de les amenaces més poderoses a les quals s'ha enfrontat.",
-    "showtimes": [
-      {
-        "day": "Dc. 29",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88069"
-          },
-          {
-            "time": "15.10-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88064"
-          },
-          {
-            "time": "19.30-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88066"
-          },
-          {
-            "time": "22.20-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88065"
-          }
-        ]
-      },
-      {
-        "day": "Dj. 30",
-        "sessions": [
-          {
-            "time": "10.00-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88070"
-          },
-          {
-            "time": "15.30-VOSE",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88071"
-          },
-          {
-            "time": "19.45-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88067"
-          },
-          {
-            "time": "22.20-ES",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88068"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "EL ANFITRIÓN",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_anfitrion-cartel-13341-1920w.jpg?Expires=1787831198&Signature=QEvX~gCAAJAnXGFAZuAs6kVz~268gAksfY~siDZbKCNow2lSqxYP6iWPLviMO73nK6ruANOgcxckfyfNb~6njw4rr3yiJwm4DOi~YuCLn-631ApngqK~ESTcDAiQKxOI5A5p2~Ht30Mxk3y5QTdmvRNkSyrjiHtZo82acS-ny62freATm8g8Q-rfpUwe9tE6CosoLpJMByjWUCVjGMdXawIfwPdrzs2NoW113UspX2Uxyk4rUt3f2sDU8zepJjCr2kvH85UL9HCmACJ2jKUxQv8LLqCZZ~Fzm5Hv0fi4V-56cSrpHT62-sOro02P5xcZAMx~cRjZS24R8UmlLuTbRw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_anfitrion-cartel-13341-1920w.jpg?Expires=1787995678&Signature=HmscAlEWb-BxTDHouRqF-PUjmCc5-Op4jBcZ66eQSkjManFonJfj6STjzWypHICr0GWrAa1E1hPFh4MO0wG88vy5lji8q6451O7cQPvqpUOizz0kFvuiaAOBa7SCUAFY4ZYP64J06nB4e68DRXO0n4SlTo5TWBUhZNjN7qub7eqowstIYKIrm~7ySEolDtDdPrX5dnA2Lx7VDmy-c2jBwrqo-qGY3xxkPwX6OWIvKOvQGa5R59xwBWhC4ROFb24-jRih3XYNQlYcyeVOZ~~a3hhdS8qBpyRkaqc1u~SWKhTGwxx87L1JInOwxzKMgf9Z9BofkHHcLC8PWUNt-s3Zhg__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Miguel Ángel Jiménez",
     "cast": "Willem Dafoe, Vic Carmen Sonne, Joe Cole, Emma Suárez, Carlos Cuevas",
@@ -456,7 +579,7 @@
   },
   {
     "title": "LA ÚLTIMA TRAVESÍA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_ultima_travesia-cartel-13345-1920w.jpg?Expires=1787831198&Signature=VdDB6CF3kabbl4clnsNN1Yt-cc7xffSRQ9eBDTBrmezFXYAQczai27UBas4VA-kIMjnsL80AbPRizguMK3GnY0ZT3-zhhK6F5Ny5xKmpK0APKh70C7M2nqzV7B7xCt6TfZBLlK8mLxGJB6JTSOefbIBiiPnczU6An5IovAy1PBOj7jx94E3lrHH-5AvYSSTnz6LnCBF7dy0LYbs5skd89G4WLaMIokT27GdfMlqNIZGOPgo2BG-oZDzpuTxk7277a~tRIjfI8jYXiekZt1Ry7SRpO4ZZN-TTY4MAk0ssvaAQVLV7en7I6-5Mb7NN~yOskmYgcJnmxJIsgnSCpECn2Q__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_ultima_travesia-cartel-13345-1920w.jpg?Expires=1787995678&Signature=LmpCEn3DfcMQo6lpDlFAI6vL72pQN5Ani5Nw4wNEsvOT4Waqoz5WgjsUB4~IZxWrdN8uLK-Cgc6qlySELdZfqRU31RADQHIlqXP1ln2YOkg1pucVRh589BqdKHrgaYgmfgGFQ0S7E7kOB-ZcRjHkBCKObanQffMlalak0x6a9s45Zloed0er-9a29Ho84zLJMbbjADvWRLTHiFayw9vk4IoQadJNUauadH63SWN89zPFPIyC5n5qvQU79e8Upp~DKTxN1HKru5veczG3jr3pzLpFQS-ELnuDGJ4UyYbI40TuY3CTsjx-un4DWgUHg9bOJUrq9d1OaJEXjaQdA7LpKw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Brandt Andersen",
     "cast": "Yassmine Al Massari, Yahya Mahayni, Omar Sy, Ziad Bakri, Jason Beghe",
@@ -573,7 +696,7 @@
   },
   {
     "title": "EL MENSAJE",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_mensaje-cartel-13342-1920w.jpg?Expires=1787831198&Signature=Fp4qC-0wtVh31D6p8ohY8vjcyIlUY8Fy2j3zfcF6htEaBfUI--0LwJZf2daKbap423JmvG-q56nNOA0~-VMO-K6q8GpjyNULYYjYhhAFsTdbIeyzknOCtvUwjvy7Mc79gccOPA7XTIbFDv-7n9LxJl0CcZssV6IODpvTbjDxMakaNhGvg~Pq5RZEimJQD2sZ6r7sx87yfosmzChFuh82bcAE1gJKW43Km5yYVkSata-Iz~Rvt3BaXzFHx5rNs1nJ64T07PP4abov1evRjbEDjkN70IjqdJuE2jJ0K5ZsssWKgtEwTl41Jch4zEGo5NR-8CadDA86CGqxjo-tHbNbVA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_mensaje-cartel-13342-1920w.jpg?Expires=1787995678&Signature=SjPPkeCu~PJgV8LIb~81rRvoZVyg9cNKKZUbUP2JwYqBiRoIEfo71TUIr240dDgjl6L0XHpiims-mChAzQVC1B6Erkenmyc~olSnDeO3KitCBqNk-3E4HboEzkz1pP9P4o3KDRvtJN9c0XvWUiOUXqmOdvArmYN4U5JtSbwXe-ETkpJWCGCOn1RkT6ac8NUkoOc9WoEZzZaBuovltsqSvPcuO-qQBAahu3Kmc0UKKv4q3r2oeo4R473B2K321Hprpf-YTsmmd441DdMdIIala382N9byQO5fHqNcek5Hh5Aqr3xHeJzWj8P0JrQvGNI-pJ8ehy2rcV6gFu3kJUYgwQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Iván Fund",
     "cast": "Anika Bootz, Mara Bestelli, Marcelo Subiotto, Betania Cappato",
@@ -674,7 +797,7 @@
   },
   {
     "title": "NICKY, LA APRENDIZ DE BRUJA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/majo_no_takkyubin-875611115-large-1920w.jpg?Expires=1787831198&Signature=GnXUurGWiRQqcm7GCnrVHRHMZ9zDR92w9QzZvgLwfvmdbDciTbGq-~TK8v7i20VlcpApClHYwsLk6USV0RQMsGNxqGAerhGSPz5Fq1RLxKJw0GWcCXSr1QAdSG440F1tfNGC1lgGP8lcT4lnMz8pQc5gmm1pK8aC88jrYWDmByV~cIp2BxFWhEmClLtoiDTdYSUEX-vwhxjqDp2KRGHGymPETAe5436zFBoZKsG4bgjd2uF5QKctZdrfQNJBo2NMBS1GUPQGFd50rTZFQNP~5Cx8Iphz5WZ~I2YzRkYXHQAcVpPhUlKXEb2lxo9d87AU6Jw~uNCBvxRMrkR-XdUgLg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/majo_no_takkyubin-875611115-large-1920w.jpg?Expires=1787995678&Signature=pw6rnhMHZwFbPvHXNuvVuAc9noXcB-wEdkvtBaLqd4uKK0RA94rVuzF1IS~GHjzjfIVgGLVr6QjWGLdcz9V8I8VgvvS0bjFZdEloof51U~1FAbOTIQbtO-CleRIz4LFDpQiRF8Qezdx3C58aBEE0U9iZwFKuui4rTwltnnRNky8B1awhhouPPydah~LHJfxOTnlU0ApkzAW7l6orne-UEQ2xAvcTGnClHzI8HlRCyKYiuQ23hqqeLsW9tvbT7TzLIFUEULHCnKH515aWJjF2-w-w2XvtYdcXq23syvy7Bti4YtnoEkRYwLPYBDLSsOaRS6lBmRhk2Ap4ThrXNsgUCA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Hayao Miyazaki",
     "cast": "Animació",
@@ -747,7 +870,7 @@
   },
   {
     "title": "MOTOR CITY",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/motor_city-cartel-13312-1920w.jpg?Expires=1787831198&Signature=nYi8KZRQ7k29QXaNhYsFvOFYtDbB-mjms0fjFWvlKsdrn2Brwsymvz1ut8JnLZBVVTXGJk2gqFHEXJJqTAkTUKZ~pUUeG~zdZ3Scgg8KDkxsNgKL29Hy~x5BPLGdpd-6On2kSTCPTDuilWiUIRLuuamEcfg4kRtHfA4Ql1U7bPwhJUll~UP7dOEdyBT74Vz-YWyXQ6r9k910IeZeqFfZaroSP9yujAtYnC58uP6O~jGmNX0tUgDaWeEBZ24omfh81eVJG8BfUJxhZZuvQJgRUVtNuX4JymLCG8I~mm0qGWMj7xjDgavcy~FnZjvvNpXyHpqGRn3BVCLAJSINnUP-HQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/motor_city-cartel-13312-1920w.jpg?Expires=1787995678&Signature=s9DziuZpIfSiWecf~Rggr7cPtBhGP8np9vURn0U9-fxqGw-urNfk5Ex-Rn5owR8EKtHpzz8k-6H000SHFJxgs3nIA-lF8eOh5k7Uunp4EGnhhccjMz3q6cBXtL3gmUc5Rw9cL9UCStT9L8GOoTgSZ2gNWHbequnXRFDLia4JnfAK72GdGv8VLqyxmlzLwO-9QRMQx7E~Tp6zRQiuVhKu2M96EdLgEPbxiAklEC3HrdR49YngvXUS8v4JBUpX2WzGJkJuCYtFnAKFaRAFSGn7dlIAmIWFDftsmWk0Y1koPr3-3vzjnwQFZ~Momt4u8M3yXsUzmKRaNjFxz7FNWS-oWA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Potsy Ponciroli",
     "cast": "Alan Ritchson, Ben Foster, Pablo Schreiber, Shailene Woodley, Lionel Boyce",
@@ -820,7 +943,7 @@
   },
   {
     "title": "RUFUS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/rufus_2025-1920w.jpg?Expires=1787831198&Signature=ei3uxmSBTu4skOPXggCPyE7aTCNy-Xc5CBEAnVVzT9OhXKGHOEEKYZRA2C0cRiyD0w-W-Bse~~0k-ZvL8MnQn22NCWD4M~W5-cw4ykyHQHGR6jZiGCYJKFiBJg2DVV8sSMbAiORrSSJjfAoxxSyuWQhOJM7SSXr0SnVtJBNNb2fq7~ivEdiUlunN3FUUPifr9IG6jMVQ1XDLtiwDK9yDZwu~l0u3vK8uKtb9fivCe6WC~Z-to0q9PSzgt0iI6RZ2~riO4K6y5x2fmjFxKvrSYI3f6v77xcm13i9NEjOGq31vi~vW4T11OXfhCTpMHyEjmJZNZarByVUqfCLqs7Lciw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/rufus_2025-1920w.jpg?Expires=1787995678&Signature=dwib1CzcVBA1qwsh2RX5p8-dSOkZ8Owd4Ba4IVQ5qcfkwMs45ev-qzL9FYH86rFxMCCqxa6tvptPbSugzEXsSxrdX7p8CHA2layc~PKoBWhxdfrHHqIBNg64Dl2mZk93ZqiNfMLvpFywv8kFdITx7Wzolu~yR2oid7PPMtgkexfvTdkMVc-o0aENVSebNvlTrKxjiMMs~eF4b~ua8fa0JEM4njy9r~g9c1miT84hj2vMIVjlTByMKpD0tSheY0s00GdW99DeVGWcP52z-b~l-V86Cl0~OFMGxc8KvAKEv~TH4wR5KoZg46reF4cdK49GHjB~zIHg5vOhoEykokfbEw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Endre Skandfer",
     "cast": "Animació",
@@ -901,7 +1024,7 @@
   },
   {
     "title": "ATRAPA EL MILLÓN",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/atrapa_el_millon-cartel-13349-1920w.jpg?Expires=1787831198&Signature=lgYMDO4vRSKhzw0GXCUpeSt4k2SKlIkPOO4FzWHLho0ePlAYheEeIeTJQlVGQ8T9qj5gmy0XblfB8MDY9rw~W5962q5N9KM8NNmYS2FXS8f7UnhQxFKVwgXvMaisn5jzkpaAAvqmdwykqBuEMBC4zcRSIPpL692R7rrSdSG50e2SCiy7ta2I1je6Hfw-wMDDAKIDTFiXVKBGBg2S5zc6qxb0IrbwAKwPCpH6pQNM66S1SfmERDtG3FxcFnC-089uAPu6SZiWgjJI9HUaCcjlaFtUhSZQkmnEMzm4PMhFApnUPC6Nz5hZH~Ors8w8UoMMMLbVWLbkro7G4OSuIf2MiA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/atrapa_el_millon-cartel-13349-1920w.jpg?Expires=1787995678&Signature=QvsaWZUyXgnaIDSKqrXxQq9~kTF7ZuQnyLYk3o48cD78bYradrPBvnRMS230g0mFZqCQmkVSYyZrVUvXha28IRuNKZmkcdgkM93RiGUlLJ-TDIb0zYS6wavpScIQ~4DD-KBEFJGb~19Hb~dPjPt8JWk65Vh89DomnwgRuScVbN9Nqi9No3dXEaw4kf9mGu4ZMfo93JvQc4K8~Ka~vvkFa0oHCSRfLLnyd0uoBe6WpAOcJOpWGkwM-wHnvU8kWSnOpSqp2OWb-EmLA8zXGDLxDldxIbThVfRtJEybvn45TUgWnl4QJj6CFHTJTnN~pGxbW~Ev5S9uKIXQlXHWOAOmfA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Grégoire Vigneron",
     "cast": "Christian Clavier, Rayane Bensetti, Gilles Cohen, Claire Chust, Julie Ferrier",
@@ -948,27 +1071,8 @@
     ]
   },
   {
-    "title": "DIRTY DANCING",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/dirty_dancing_wilder-cartel-1920w.jpg?Expires=1787831198&Signature=XccEnFFTapYx9enQoX9RQcWa4DJ0By6aLImwrAzbb8p9qS9qdLe4zRZ~70i6y8RvXfqfPG-gfvPHCfZ-c87MXz3ddOjZZbI8rGPQ9BuzXDjOgzSc-YIR9EFXJ6zXIqVDbWt68wJLX2KhpvscN7C0OA40bwSTcif8J3NfXjEfNTh6F39Ksd24Mdv30y-GLcpFq-jcmXDQxJY1NJMi1aAmxAffFg~iepz4QKmlHRFsSoI59VzDLMcjlX6ae0gSl-iXGah8Sl2zGGzwBF3B2QRdk2~ZdaBGaUhUc0Ad3PXv1ysCvrIpTUI57GKIjuSq9M69R2LuJroOqIzdRv6UhqxtIA__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Emile Ardolino",
-    "cast": "Jennifer Grey, Patrick Swayze, Jerry Orbach, Cynthia Rhodes, Jane Brucker, Jack Weston",
-    "synopsis": "Anys 60. Johnny Castle és un expert professor de ball i un amant consumat. Per part seva, Baby Houseman és una avorrida i innocent adolescent de 17 anys. Un estiu es coneixen en el balneari on ell treballa. Encara que pertanyen a classes socials molt diferents, quan la música sona i ballen al ritme del dirty dancing, les diferències que els separen desapareixen.",
-    "showtimes": [
-      {
-        "day": "Dll. 27",
-        "sessions": [
-          {
-            "time": "18.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88086"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "PARÍS, TEXAS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/paris_texas-Wilder-cartel-1920w.jpg?Expires=1787831198&Signature=dQbQBExIXTrY~hprNhpdesLGQm0yuoFy~6YE0O0nKxWBWfJWldipvLikWypiF1bSlAn7TGHQWApnk0oWH1op-OMYEl43QaIFN2KRd3LXaXjgP7UKy1pUEX7K96PCXCjH05LCdak3TW7~DR33uotgls1JMyWGVfbrV4lKN6J6x4U8T9lU05b6bx4R-zXR582OqlZTeZjgztjMKOGjgueyb-RhSovOwIMKA6mofwc3lgFHAPPfKtVuVeuDoWfTbHQrRxdQ6M2YA4TOV2WYWJ2wswsZ1uhKKTMNgkgFcnZX0eN9Tv~CpbqfP4s7yilVYF-FCuyyLt492iAeT0iXzCi5Bw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/paris_texas-Wilder-cartel-1920w.jpg?Expires=1787995678&Signature=FXpvwLAZNInGJVxmB18sUY32H4Y13I9Ua-uJxYpMv1ZbgohIePOtWHEOTN~cJiRzw9eqSMBIiaGg-tuOzKC4xfb1tOk3yOJN~8T8YFB~kuoRwvxQmMDAUx-gbSvTm1tZWzVO82nj4uFl7WxCDxT7DXG1hL4f8M3zdXGwejMmSC1oEH1DJxm~VV1E3znHjv3x5rw3hGvO4nHs9EH9pjcgiwM337FTUHLqoqZi8FjATkfCYuDiGLUWzO1kxkybWqlE7MzV2pZKDiXtrkAme~h8s0c47vEfDfEoLRsYW4rCT3J6Ws74LQKJQMjJ8FpiAEQruCY39joKZ3IxYxPO-rCiMA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Wim Wenders",
     "cast": "Harry Dean Stanton, Nastassja Kinski, Dean Stockwell, Aurore Clément, Hunter Carson",
@@ -986,8 +1090,46 @@
     ]
   },
   {
+    "title": "AMERICAN PSYCHO",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/american_psycho_wilder-cartel-1920w.jpg?Expires=1787995678&Signature=APhx9H2ZS1na7ceCc9dE2328GHE9fNUXV4NsCdaCzPgW4-ab~pcArGmVJCfP6M2xzbcwlQ6rJTbRbxdu4dFRaL7OEpwE8jF5z0XRPXTXKPUOxfyx3WzQaErwtOXQ5d8hWAOtcy9eB1Ct81YJ5E3TvocAJrneqNhkwhcduXJHqm0lCL9Udz23KInaHNxMBbdufi9~GIowTEC6u2leV-GQQR2zNdX6-TdccGDYNlZAnJIqgM93UD-hHt~kYli1mzRxY7nRW2wp5f7P4djJ19ktkJYzlqcu6OM0M5kFo6MHkY5nVg943R241h9aKLvJJs~N1vLQNHARM44nVuDQc-0Gdg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Mary Harron",
+    "cast": "Christian Bale, Willem Dafoe, Jared Leto, Samantha Mathis, Josh Lucas, Chloë Sevigny, Bill Sage, Matt Ross, Cara Seymour",
+    "synopsis": "En un món moralment pla en el qual la roba té més sentit que la pell, Patrick Bateman és un espècimen superbament elaborat que compleix tots els requisits de Màster de l'Univers, des del disseny del seu vestuari fins al dels seus productes químics. És pràcticament perfecte, com gairebé tots en el seu món i intenta desesperadament encaixar en ell. Quan més intenta ser com qualsevol altre home adinerat de Wall Street, més anònim es torna i menys control té sobre els seus terribles instints i la seva insaciable set de sang, que ho arrossega a una voràgine en la qual els objectes valen més que el cos i l'ànima d'una persona.",
+    "showtimes": [
+      {
+        "day": "Dj. 6",
+        "sessions": [
+          {
+            "time": "20.15",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88432"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "RASHOMON",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/rashomon_wilder-cartel-1920w.jpg?Expires=1787995678&Signature=rug2RgobNbXIClET1yPEiJi62cItoFATYQKfL6zqIAiqDgxtil7fPnqOAUbBd55aRoursoTCDGDWAnW8dOoOXehlf00hjvAZ4QuAEB57zLEUQceGp2f5jIBZjyl18jmbaB-O5XgjHWbWNIwKjuMjDJuYnZEMBaiKKcGrgl8yFTzxzwuhqHirx~V8okThBPRqWj-PRqTC24U9JFE5V~cOfTX4QGcBKJQOFdJKgGDlQqjwl-OkVqrH-RL6B9mC5dFNQ8KqBTMSgckwouiP2ingB7Ns6CvTJDVnPr5VQhcmMTI0O6jj-4S84xgazy2o5tK0s4NBHgWN1X5v-eXumC-ySA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "duration": "",
+    "director": "Akira Kurosawa",
+    "cast": "Toshiro Mifune, Machiko Kyo, Masayuki Mori, Takashi Shimura, Minoru Chiaki",
+    "synopsis": "El Japó, segle XII. A Kyoto, sota les portes del derruït temple de Rashomon, s'aixopluguen de la torrencial pluja un llenyataire, un sacerdot budista i un pelegrí. Els tres discuteixen sobre el judici a un bandit, acusat d'haver donat mort a un senyor feudal i violat a la seva esposa. Els detalls del crim són narrats des del punt de vista del bandit, de la dona, del senyor feudal -amb l'ajuda d'un mèdium- i del llenyataire, únic testimoni dels fets.",
+    "showtimes": [
+      {
+        "day": "Dll. 3",
+        "sessions": [
+          {
+            "time": "18.00",
+            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88430"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "VAIANA (2026)",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/VAIANA_Payoff_1Sht_SPA-1920w.jpg?Expires=1787831198&Signature=DoTd2QwfJ4IYz9KqMH98GAXMJ-UQI8MibBlgNvSuS6ILFh-xhKAiZC7DP39eAM~-0Bfk2G~3Bqw03KBzJ~SYxIj1Wy4RjCJYsvJuvHu53oByPSRjkvUXpVqN~ciD61AblOdiakQwKLuw~xofFi48uRh2cMVTqbL0mZo~Re3Ei4HgYHKLZpbzHw55gV1Hz~Aua-5U0fzF0O09Pf1zAufklJF1JsbAog01Voxr8u1GM7946o57d11WWych3I5qoTr1l3XPVCLvyjApQCWbCadqkCBFS0POcy23j5mbhttRttI27QM8YIShKrXj6eXPbwkWr6q292SV1UcIKdOfEkHtAA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/VAIANA_Payoff_1Sht_SPA-1920w.jpg?Expires=1787995678&Signature=WG2qU32IklnDcRgOINisThLvbxHPPQxAIKcFmjGJRVja9lVmYVCI8HXkVxA0hjs0zwSPnPsNgpYmk-hVB~vo2w97Ai~RO7BNoQyVnX8HAZTtIiOAL7ZDPwMYncIX04-q8isskH0romDIj2-AArIhoao0~W2L5eosdGlHreZwDlKIXuoicnpRLW6-GwUr4Re-x0TN9YY1I8cp8zVVq4e5uetDy~n2yx6u6UJWcsMEUha75qnfovusa9YYCYWerZ5bWAxd1QY5XI6SLVS9in8l0-JqeLjova4K8EKc9PS5f4AoeVuyLkik5uf7dNY0eYVrR~bOS69lJknrBRkLd9lfMg__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Thomas Khail",
     "cast": "Catherine Laga'aia, Dwayne Johnson, John Tui, Frankie Adams, Rena Owen",
@@ -1084,7 +1226,7 @@
   },
   {
     "title": "MINIONS & MONSTERS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/2026+-+Minions+-+Monsters+-+tt32890033+-+Espa%C3%B1ol+2-1920w.jpg?Expires=1787831198&Signature=oin0Snyei0kEcMreC7izjd6j~Z6FHFErUGMPCdCEfXjh3oRi65~~gqbH1hSJtCFJJMz1SosnqJYdj-eID314mEsGsu4c0ttd7kG2IQOzrURbcrx3ByLeeBp6KsnC~9thXDhKLmwf-1OoveN-xz0PH~R5~nJ5zF6ej5eLUoGQOHLvKYHpPFctKRu9xbhxVwUrIXGKIwnVJhhdrJAYuE9-0X-ACI6icqOubFG~Vj25d9H7Fu8VR8j9PkT6a~1aBYijTeSPgD8o2KO5EcrQSqcr~Mcey206rDysrSQttJ3NIk3fMhdvm0Pi~79RnvDLjZsRDP5idyufwlQ9-tFfsbsQgA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/2026+-+Minions+-+Monsters+-+tt32890033+-+Espa%C3%B1ol+2-1920w.jpg?Expires=1787995678&Signature=YYx3nHh7YEtJvZ5AlrEynRSX3icaOa85SGwZHPPZOw41HrMuQsrs8~ldjoSxb7HjeriYv45Fn85wdWNgFSUNaUZV5dCgdY83Wf-EVIh71VSYhiAk72feyscZG3qa04ItjvJ97OhFHUca8CmMTuyp8P3ekintRqgXfrxywhwb~so66bbCHJP6pOp3pn0JuVXKnL1PeL89YIaIMxghugt7nDS4BLLRPQyPOFemU6aNTT3NBtNJhmwdfS-DS818XuAOTCHBhP1o65tkhXiMJYJiUTlXTk1HUK6SzAu9PFaSeYSR1NFpxTlBNCXLqfyOim-zqtEEqcD8jmgGLHEhFyMGVg__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Pierre Coffin",
     "cast": "",
@@ -1177,7 +1319,7 @@
   },
   {
     "title": "TOY STORY 5",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/toy_story_5-cartel-13304-1920w.jpg?Expires=1787831198&Signature=A-XYrmvJ~b0GXwnvoMWzLV6j4LVLVTzFnxhJ-zXbcYnuNQ3ZHYrJCHasxhFPJQF78QYF6vv8TWLZ0In7AgZmfbujBby~cPtb-4gUFHVXO6-t3s9YAHXxs6ypwIR3kdvtPcwVtscZxseHRNkJXihKqXm348hrxpnVbR-HQteiYqRg2QwHcna1-emMa6rW4np1nDlli53fBYrQGa7M-DC6VdYfx8pYPE9rnYB9d7rxYgK-~vwNTk3o1oKrc-WyH3yOHSYhOUnsVhNvnth6RWSmZ6vWnZD4fH11onkE20dOlDmQ5iFhthOMlsuHndEbt~fZ7cBpgldqZPdzKM~BaAsGsg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/toy_story_5-cartel-13304-1920w.jpg?Expires=1787995678&Signature=jgOmoxud5t1lXQGuUzu4mZmCnGk4EzAiT-JSKy7B-a6uweDseLlyHHkLM30o5JLHiQ7Z8xNPemf9Mzkd9uuypoCUiAoSkKLrs0O27VpC6eJJ9GQ3MdEe8wtRL6ufScNRfjtgXwHrbOn2M~S5PK2PWEKEK4MFqhIr2OauhKjrdk2BXo6istrgbK~~AWOh1A5xyuKmusDlhG8n6ZoNO-gBd0SAN1uQiCTJmodX4CIthMscX2MmjNi-oSbku9QSjkrt0vM~XrFt8Elvc2fAnTlt~EJJjmhmwgHjHm51D1TiPTaxUaVjnOwF4rfQ1uTWoOf-FoylzF6-iZQncQKbXeIs6A__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Andrew Stanton",
     "cast": "",
@@ -1266,7 +1408,7 @@
   },
   {
     "title": "HACIENDO AMIGOS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/haciendo_amigos-cartel-13273-1920w.jpg?Expires=1787831198&Signature=TiqANZUypePJphN18bEG3NmDKRc8hzd5G2qTerVZyN3sfPJPGBdqCA99P~jrVK2Cw9OuhxDViOZtbYPFzdjZZqxC~cxfU-NNqfpDL~95ig6Wnh1wU4AVJJut9tvQssxCgWTGrU15H5tGZTaLZq5Hz-gLMHwSM2DJqAffIlE-1gPfU0hbmCrXcwmC-pokmR1tD5vrMXkAzQq3DjL1sWIh86ggFY0UUxw-50X-s3sKMu~zuRtH869rPNb8L7bDPPSbFG1mbXFC5PkkDsL9P7D1C4YbSi8v-yNdu6G5L-Rep2-3yBIy0NpC1EclutGPvVIe-EPK62RilaJaoR9J2OI7ww__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/haciendo_amigos-cartel-13273-1920w.jpg?Expires=1787995678&Signature=cmYiCXMb92jKsygWcB~63eHlKwAMj05Lt~WeUB5gUVRpjgFvpjBXiP4vES64NryklE705CbY-VI4pfCV6LTqNPHYTVG7W7i~FP9xKuYObaKtfnMRxrZzvfn5k1AQTbnaGIhsi88Q7ApyZwsxY-aTMiteLwAFI7WJ90QhFc4ajbVH~4xjkEmUsyNLA486jJOMTtA0Cc0NSXL88dfKJ0UXfpEnuFcwkEvan~OJHNENoJx4UY2RJIayGmcgEs3HbRjsh7qBTBI6cYM8ZGo29Ohtcm0tQ~nQHftJxPYzo4VjY2yvTZ2gvrFPf0WDd2RZNMYg~uBJ7g3j84f0ECvoSrr2LA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "David Marqués",
     "cast": "Antonio Resines, Quim Gutiérrez, Megan Montaner, Marta González de Vega",
@@ -1339,7 +1481,7 @@
         ]
       },
       {
-        "day": "Dj. 10",
+        "day": "Dj. 30",
         "sessions": [
           {
             "time": "10.15",
@@ -1351,7 +1493,7 @@
   },
   {
     "title": "OMAHA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/omaha-cartel-13334-1920w.jpg?Expires=1787831198&Signature=k2ggzSMcEgp2RPkovAmlQ0FPlp89jJHlpGHeWNKdmLr2WSvPO8-4YdQYyaTbGIQTA4pPK54t5tmOb-PElKAiHjgL4PFumv9RFlZro7NhLQa69MrEogXIbCUjM--zAUXjZdFwcWSOfEsdgZCDeAWBgUpvRKa-06e7GgMGwobrBLwvD7GtVtzeBAbOxWD55no7CyAm969iqqzIeXlC8wZiAN1qd08m1uU3Shl5DXuRn~kgqKLhEJx8WoZ86HpcRz5Jk8zHAojCVhLb5xLFKRPrJ6IklDfp1iO1iw9HsAfm-brVIsNMYKVEwUHk5o-PF79bW1eMCgXsq~Fax3IArAPY6A__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/omaha-cartel-13334-1920w.jpg?Expires=1787995678&Signature=OD3piaZaVXhCXUlrBgiiHBVOrjP~Yg0WYioKjYoes4kJFqjYq3MTQN2~xdut~ImPCzldcj1cP5~ZFt7jfKT7gANwbkRCMfYS-WftgUEqcovqKlV0gHD-nO5nmW4IhSBU-E-cJ4lCqqhXTilZUV~R9xATuMi7OQo22nwNsx~~6NzMuXztf8c82p0Dt99mApNxcp-rJurdzkmrmpj8dab7-YH~PfXG~sP3FsShKbdfGXPA2lwQNz96v~8aTsL74bwvU0Se9IOU1VSoMrBaNBO-zykRcpU7GCuYdTbhpXe8qnZyeyAkDgCYOrRq7tDZmZr~JtYjDg-GPoOcU5fyKpGI6A__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Cole Webley",
     "cast": "John Magaro, Molly Belle Wright, Wyatt Solis, Talia Balsam, Christina Cooper",
@@ -1444,7 +1586,7 @@
   },
   {
     "title": "VIATGE AL PAÍS DELS BLANCS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/viajealpaisdelosblancos_2026-1920w.jpg?Expires=1787831198&Signature=MaE63q8gJwIPhpljpNnb4T9RbCB99LGSfiT-oMzEJwe1kA9U3rBv4MivXv8RT1gN5y2dPsIZn764kSX2EGEujnsdSn2vB-6F3wePYQ0rKA62fxL~PTnDXjYWubAApS8J3EMEJ9Jrbrvt3ET4wO2NITqScI-uANz9E15KM501RZU9t-ZLPkN4qaIHpKn2VqV9RvsxFPOZqPcv2VF2ew~PHyzITYHbm7seLbEUYKN9X43kFMvVkrnBO0~6fw96v8HP4f9uJG6hAfBAYnsj7agSs7utntpuW2v0jmcAWteQRZtk00HPJmhIgUNJmSt1s8Y1m64rp~qc90RmdRDoJmSmNw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/viajealpaisdelosblancos_2026-1920w.jpg?Expires=1787995678&Signature=jyZMLGgYfEHDwVXyC9IT3vdJuDUsLMTL~TnCNMixrKkajSIcEvFc43YQm2W9YaNU82dNMevVF1lP5KuPYqonvJvGaRV0YhQkCmCr~JVkSEHUAWHNlXWLz~kpr8D1pADpoaEKanVbGTI56IXi8D2yiR2OE8zgnfJ1slEX3fjuEEHtbXQVeITjA4voIE1hAvn2Zox1BrfKGrHWmE7KlrkdORQpulTc536y6pw6NfN2ZsJhWaemZwFu~z650UuFbXxQMSN-crxNWoa32BGNFgE2M1Uz-Crk1xf62amtVnWhpk3yDhwesserci7I~6-VlK0LlKfMTpqKh2ysAvd3qkx1EA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Dani Sancho",
     "cast": "Emma Vilarasau, Benkamin Kakraba, Víctor Say, Ousman Umar, Jordi Bosch, Diana Gómez",
@@ -1553,7 +1695,7 @@
   },
   {
     "title": "UN TAXI EN TOKIO",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/un_taxi_en_tokio-cartel-13322-1920w.jpg?Expires=1787831198&Signature=VjTqm80h0oHVWO4bj0fuG5FsbYyNRhLehjxRC~~RmYEI1vqO56SSN1--zp66HUj9Mcq2shtOHwZCXs-pkK5NmAgG7qiBsw7qW37C8jLgLp5kpxzANoBzU2JOrZRSAf-ghU6cOi1nNBm2Jl5n46J1Ksmqftw-Gj2EWDxKbmjKWolQIru6Hn58OVdADBYy-ElSaRN3M2weuhDvpv8Q5yR4YaL5UNcTIEewci70x6woTbVUwoQ9qpuuo35efBGpBN8diLVciwbhcHdu4mD18QEUuhzBFYH1vjhMfxQspAnBkSZY5thU6dFtj93J0iK-rk3bUkjemQ077YnIuocf2icAaw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/un_taxi_en_tokio-cartel-13322-1920w.jpg?Expires=1787995678&Signature=W7G-U8iM-K2JWpB9NM0oMF2daON~nsY9bitNcvAN474NxJgXyxBQlcjU2SORdU7DOae~5XbmBGjcshD9tsDL3dDt5xnZJJUJ1A~o5qB92ikBVkBWANF8GqkXYvM2VpwbTaXXYDWjWQaLuKnJTewrfyFkBfRMEn1t59zv-4b8g7NRlTkVqkQYbmwTiO3jIdN5JmxeETZIxxkquLWPTkJ-hD0eAzzsOaNiiPchgwaAK9OClXzvgtNPt5wK7Ker6K4NcVZ61IWc1g~mcLgEfLrFsYn5hyLUVyJmzXsN4z65eI0jU~73Ko9vKkieU~DgRoqbcSwX9lTRB6W8pz9m86eR5A__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Yoji Yamada",
     "cast": "Chieko Baisho, Takuya Kimura, Yû Aoi, Jun, Takaya Sakoda",
@@ -1654,7 +1796,7 @@
   },
   {
     "title": "POSESIÓN INFERNAL: EN LLAMAS",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/posesion_infernal_en_llamas-cartel-13225-1920w.jpg?Expires=1787831198&Signature=booC-SDeeSjyK8Ci5nvHKeoFE5gAABhwFn6-gWIZD3p3MrpgTLmsQv7snimN8nK0n1a3fS0fi7OoWhCOCtUNUTaiaJKsNfMmItLyq4O82XIkNlRgdCQf5UfbLwKMRv4If-R5VzPSRv6X-6xhBZ8izmBPlDwXhbuG0xllalisvskBn0ZFDNqqlINTujbB1ZPTu5PXF~7j7ORNOyYFiorO6Ts6uRzOIpJ8ZtPxtucW3HRXi6DQTWP03e9pd1w9vPwit3Npef6yoeKDjDhOnJLfMgp7SBKBXUAIqZUef2zvQrqzEbDvSgFfcX-hfC82J6lbuYerH8WZzSU17C4vHoq1xA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/posesion_infernal_en_llamas-cartel-13225-1920w.jpg?Expires=1787995678&Signature=MC4d~ZSlSTT7o364ukHzzgSHiIrwaZBuau71AzXlw5KJ8gXNZImB2yUhsna0iTBcu9GYmxv6liEjhTw0aJtaOlyBOSOpRztny1A0CEOADzWbR5yERZ~34JxFUnILM6JKrvJ4AZWGOsaXsQFaygrpJGDWJGakKE5bVmKjMeWKsOvWCzSv6sVkT-px2EYL9a254ZnpaIhN-F6BRoIinYHedoggzH~J7ODLB52xvUcXqAUUyvfIQ4HheqCTy~k3gLx57gMv40QvVGZKCjFb5clptvgJ89p2oNuVsSS0vK9BnIh2PFvUKTTZ3CzOw00a~JV0t35uz5sPxDVYAWEOQ-FdlQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Sébastien Vanicek",
     "cast": "Souheila Yacoub, Tandi Wright, Hunter Doohan, Luciane Buchanan",
@@ -1727,7 +1869,7 @@
   },
   {
     "title": "HOMBRES DE ACERO",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/hombres_de_acero-cartel-13332-1920w.jpg?Expires=1787831198&Signature=BfoucHF1tfJGZ4Ql01x9VwZDNl2drVy69vi5aFW1NrgMWhTbQgyTWY1PD~Fay2hlMTNOgxs9NiFA2fh~z2ziinbBIc7J8G9IjFCRcy4NzxJ4IWD0Rh2ptCARFR8sXo5pe1jW4R485LiimRQRyVLZ-jEkbeZcSBjY52RzFcRnGwWDJZ8nkjEyblAlZh1KyCDmVIqrUxBzV~uH14Lh7VkYEP76pdtB5I-dq5ujt3zUEvw-t8tHvLS7qnHpiSvKFMbvazZIUTJ5zwZkn6NBuQSWS934ZQLDGMcTRJ6oOXjqj9fntqcTw542UlCp1Ll06sZvjFD15PQrDXjnVIT9534czQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/hombres_de_acero-cartel-13332-1920w.jpg?Expires=1787995678&Signature=NUad287Eu9zWt0BdLod8Mq2ndLRVMwygCPrSUj17GGt~YRPGkA5ies4OxBQEtaGChkXsPqDJJXMnLVNR93mUajfifnB0PrskBKyUtbHKzYfPoG1V0N4Vattg0fcOeWMKGXc9gR~PT4-h2xDOuK2ayNPZmuyHc8DB6afnnMcOTVncInLh8a4dF64261r7zKGs1BwSq3fpfwkgHWe6UyDkMP4XBD8bghpBfTOh4sNFM3Z3qvvEDbtoD8ERaM4w46WwolO59mxE7rdR8xlIPR5iunp3nLKuAzK7wJreVQaUuqwJLHXjNDNUcVZN8t6PNwegbvRVmzdtrSOlNIICPFy6Cg__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Cal McMau",
     "cast": "Tom Blyth, David Jonsson, Neil Limpow, Robert Rhodes",
@@ -1800,7 +1942,7 @@
   },
   {
     "title": "NI CONTIGO NI SIN MÍ",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/ni_contigo_ni_sin_mi-cartel-13319-1920w.jpg?Expires=1787831198&Signature=MnzBlpIfyug~A~X5YrMRYQ2fwyZGxLBrF7NgWyP9iJ4wQSDaBZWzcYSOaMwyDJUGktOWIwXXnBE-AhNPDpCvnadepxfj7rDc3DeQX389r04AoackdTghWhYbyWXbTrX-REbwgGcT3QMpTnjgULZBgYBqqyVXz9dEnyRx2Otd8WWZnA23IjcwIn09bWU7q6GhoocHq5BrF0vGoCnrmUHEevhGuekuqt9mJRYHqFxmtD~g~7P8NesORj-WztGnMJHjtIfQpKmSX4A4Gza1KceSx~b-9ILufxypKiid209uC6jFlpi4ZGL6rY4wrsFqndUbBz8D6CSmxM2nDzvKqJ0Mug__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/ni_contigo_ni_sin_mi-cartel-13319-1920w.jpg?Expires=1787995678&Signature=IgX7d~KcqEpFpnnKWr1K~DCKcJQ8dPIdxfsK6nPOx-JHK-ONohNfGjzZvfX1K8Rp~7n2bMWDgLeJzq3t3FnDYuf4w-3rBJNt~MnMdMab5Cnyscqv9-EPx27bGUlKe2ZIaHRn43dSgnKARo6f~SyHvt0drvBek6OxBRUyF4BIWJfaj3L3w-Sy5gA2vplbKtQwGWWUI9lZmKbCPtuvPmiZSYwFX8a~t~IhXFmjK~VCutXbjrHDnaUccoA0OoWvdf4n6jSAVblQ-sIi6HHbUp~vmXMiGTnTgxbcvfGhEsolgaRTozf1QZ6qX0DkpLeDCKbX8oWFP3w2aWJFoF-bWv1apw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "María Ruiz",
     "cast": "Gorka Otxoa, Adrián Lastra, Manuela Vellés, Cristina Maisonnave",
@@ -1873,7 +2015,7 @@
   },
   {
     "title": "VIVA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/viva_2025-1920w.jpg?Expires=1787831198&Signature=CI6gXXYSqb2bfWj5eEKwY6hegwxWRHCtm2oyG4n3~rOsLLlU9JQjMzkQVLCCKnu9o1ozV2qVzFm62kNwXKFtxWxGrl42YMM5KRb7ERVx-K-FNyVcYU5ODAWI9KkPbCZz93NTuymhoQeHlsqOk-pbx7qrotUyNZDyqju8GR6CMM2Tqb-6NECmVE6Pa5hZqLKKx6KgzMrxIxFCjzfJZMgRAY-MaLoPC-h0Iaw-HDHxNrYpSE-OtlYdr8VDZt43b3ZSP2C6YZlnDPHog8pbuW-i46nDYEsZEqnn-kdENoNrd3~lc31DKA6CE5sNjd1tXMXpnE2ZXomADNw278CleaGPyA__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/viva_2025-1920w.jpg?Expires=1787995678&Signature=QwEikrHPoUgiYgBjA3~2B-0XkqKb93dGBwhQ5ueO~Hv8Z~MCrthtOZsqpcJUA2UjFdQv2-32moXLmrbrA0uX2FE483dydCtnwM8U6hlaAZBD4xW47FFrFD8tPAQyPltuUmTQCRGiK2gKRb2oMtqu156KASfJb5nDkxlY8HQkTSsAU3CFrZIsdlU1L0C-MQ2ViFqM0a-bp-dIg2GYIr1wvAcUfJM7jw9O35HBXt~03dXYCkBlU7y2JEwORwf4blj1LzmPauQ6ZDkDDxDm5g~aoGagnxIy8lw1id2tp5xnS5SG8jCbmrYImHy6Vp90WzGgTaX6VRRJAfZD0pxz2GIcwg__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Aina Clotet",
     "cast": "Aina Clotet, Marc Soler, Naby Dakhli, Zaïra Pérez, Lloll Bertran, Guillermo Toledo, Xavi Daura, Laura Conejero, Josh Zuckerman",
@@ -1946,7 +2088,7 @@
   },
   {
     "title": "LA COPIA PERFECTA",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_copia_perfecta-cartel-13201-1920w.jpg?Expires=1787831198&Signature=JahZGUKByuR6xkoHTobgcF1TrFYSbKs6cdN4YHr3g2EfSCA4pI6J1zrsEzrktGgAxnSt5j6rpa8QdKPKROn4j27FVw1VM3BOAQdgz5WSY8~D0PHepOzUpqu7WtZtLIzhqIWXIfcrZMnOxyIUKl87WR-5-f5HgWw2N755rtAmDuXk1QNfSd9ZrtEz8Kg7pLpCKW4oRySt3uEIJMliwetyreL7tmkdUJ5tG6Y18CupuqRwMfxRulFROvt4LrAPmtlpI7NoYxZLjxQeAZq3gyY4PovLMAomJ5sE8Jvb6HF1~RRAJVylVMb6HGnGToy2Ue405NJz81BdoYdn41rsiqwy0Q__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/la_copia_perfecta-cartel-13201-1920w.jpg?Expires=1787995678&Signature=IqFdj-A4nXNNfvlzOMPoSMdVY-bOgCHnQiHLWNyWPkRn~U0LfNxvhnOWsBHrqzhlTm0QcBWoS7~vhjINzG1ml2RBguixBNsX~I5N4cY7iugw~zGMWvxcZBdZBTy-~8~XFGkIq4HUMlodZLViDZ7WPxeovO8FpaNmCMwEMZvviOOhK~bwelw-OY3CIZonpMCM01Nj7YEpcvBBkgXcGxHvdmAbARLllGnL1x79TXlBmw71-MOVhXEgIkKGzM98itpgOXcNP8JFsngXCV4coQcZWyZS30oFxtc3LQ4gjDI1JKiA8ihLE5kQitI5W8NO-1RE2KHQreoNQFOm5G~Vji8fLA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Jean-Paul Salomé",
     "cast": "Reda Kateb, Sara Giraudeau, Bastien Bouillon, Pierre Lottin, Camille Japy",
@@ -2019,7 +2161,7 @@
   },
   {
     "title": "TAL VEZ",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/tal_vez-cartel-13229-1920w.jpg?Expires=1787831198&Signature=LzY1WrC47Z8U1ffGU7s5lPV6R~j9hSR-ShRt5tWf8olqJSGiwnGkG5fQZYnoZRHVmzeV5ebP3PW2Q53GT9QPrC01cwCt3pv1TGlGklhpZoqH8fzdWN-mkfnBrOW99A6RiSvGlVBr2Qi-O4txDyjqwIpiVEmb60afz3tLFF8eO91hgSVlwbdbTQTmGn5ySpwn9UyW-XJPifqDWalXdaNW7qTpmKNh8JemXePO5DDXNu3iRwj07aUHaLHMHHDlSmxRN2pyT9hYX6X6pGFgcxwRpnkSrRiJnXjk7ym1-UpkcmQrJZc5-GWLkV79eylaLtERHrB1cvZTg2hIJl2mzdZ-zQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/tal_vez-cartel-13229-1920w.jpg?Expires=1787995678&Signature=sLR4wexmfaCksaFVVR6XRyacYLrXQFeJaEoIs1LlpwcOlYGpWjB~Bk5KBAKQTzg89xU8kj9nWXVczpLfcJiyJy7p1nChJhTe3-wRSVfkcTCQLFRQBCQIT28NiwkB9Lzt10kHZWvM5863LHCpd79qKbB0ytO7bCMcNkyZEUdzZ2RHybX-FTQ~o1hPKs1aSVYsmlHJfZrvpXXcmGAKjO3St5PY4SuieV4j-9Pp4Z~QBjuZJ8~iJ1qfBcUKoYn~Sh2yY8mWMKBb5CE9KgwyO23Eef1jbGIikXCVJMICRSzig9tRtkuNmufbsE-TdlQyR4KzcevMADWUmfS~nC1EYbTFDQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Arima León",
     "cast": "Tania Santana, Adriana Ugarte, Salva Reina, Aitor Luna, Antonia San Juan",
@@ -2091,173 +2233,8 @@
     ]
   },
   {
-    "title": "EL GUARDIÁN",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_guardian-cartel-13331-1920w.jpg?Expires=1787831198&Signature=LtrrWnZ5AeA-HKNnX4O7yKJ7mhuK8ksSDOY0yhHuAOlC~lVATj9dvyCaSWeOng8p0CCTkIAhq0hZvSA~UNNVmizqVrebkpPzsbm3V~FG24fmXjiXP~4kBI69NcXHMATSu6VkKQuREwEdYQ1T9CjlPCPOX9-oQmGBIFjEgxyBy9qT1NhwwjyeQj~3Y15GPSlYirbPJ-cL07JZK5b8V9e8wvs4wTQOwiqGVirC~Los6A3bqjzMPmzg8jhi81zXxKygMqmXsMoZj6ZU0KlIIDhgYxz9NYQfbCvQ95gOKVDYpSoWV8Dns~hFWMm8Qho--NvgfLp~UiQRlk77YkSfU1ysTg__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Nuria Ibáñez Castañeda",
-    "cast": "Basilio Moncada, Gerardo Trejoluna, Blake Webb, Martin Peralta, Ernesto Rocha",
-    "synopsis": "Basilio és contractat per a netejar una platja a Badia dels Àngels, Mèxic, recollint escombraries de turistes, en la seva majoria estatunidenques. Malgrat la bellesa del lloc i de l'amabilitat dels vilatans, el seu ocupador no li ha pagat en dos mesos. Necessita diners per a tornar amb la seva família als Estats Units, d'on va ser deportat fa tres anys, però es nega a renunciar. En aquest paradís prolifera la pesca il·legal de totoaba, l'anomenada “cocaïna de la mar”. Quan Basilio denuncia a un pescador, el seu somni es converteix en malson.",
-    "showtimes": [
-      {
-        "day": "Dv. 24",
-        "sessions": [
-          {
-            "time": "10.15",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88292"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 25",
-        "sessions": [
-          {
-            "time": "15.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88287"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 26",
-        "sessions": [
-          {
-            "time": "13.50",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88288"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 27",
-        "sessions": [
-          {
-            "time": "12.00",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88293"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 28",
-        "sessions": [
-          {
-            "time": "13.35",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88289"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "OBSESSION",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/obsession-cartel-13222-1920w.jpg?Expires=1787831198&Signature=om0O24Fwc0Jf-9DS8w2elVDYEkfeLW4EXrPE-06jQY~s7Ls~o~zTQ7rxK4KL9k6l0ODw6MZVus3TOQpwc01QK70WPiBxx3AHsw2Z1L3yHBJRmGNbdjZaqLYJcjL3c0dozdU6NRnr-VBSVKDjyH5bxQ6ftT-TG4ncY5m-fEoFv1UibDEGzIW9w6NX0brqX9oYS-HlLS4Q-2hNim0yWintIsk4z1PZXNX1-M25lYbJNsizftOAsjbwh9oOh7sfHLULy4iWPd55ijOds42eLu3xX3uM1GrkEFfU5GaqwObdLGLGZw6WiEKT6DlEs1m-SiOaA2lTAfyhPxqJuE1Uj13f0Q__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Curry Barker",
-    "cast": "Michael Johnston, Inde Navarrette, Cooper Tomlinson, Megan Lawless, Andy Richter",
-    "synopsis": "L'anhel romàntic desesperat d'un noi pel seu amor platònic de tota la vida desencadena un sinistre encanteri: Niki es torna irracionalment obsessiva fins a convertir-se en l'ombra de Bear. Una fantasia aparentment inofensiva que es convertirà en un pertorbador malson. Potent metàfora sobre la cosificació de les relacions romàntiques i dels límits als quals estem disposats a arribar moguts pel desig de ser corresposts.",
-    "showtimes": [
-      {
-        "day": "Dv. 24",
-        "sessions": [
-          {
-            "time": "13.35",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88188"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 25",
-        "sessions": [
-          {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88189"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 26",
-        "sessions": [
-          {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88190"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 27",
-        "sessions": [
-          {
-            "time": "13.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88191"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 28",
-        "sessions": [
-          {
-            "time": "13.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88192"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "title": "EL DÍA DE LA REVELACIÓN",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/el_dia_de_la_revelacion-cartel-13061-1920w.jpg?Expires=1787831198&Signature=GAA0YVDDzYgbFg632fmROfVW84LjSDWwbacY3832MY4f7ArcIS6s3YX6k-N08UHKKNkS8z2fXWUhW2py~4-YVXzO8EL2farZCB64P4i~y2JeGGnnX1feLNCRZkV06Hycp-iVi0KC9tL3QaZQ3gYNZufhwC6IEv55ZjENHDFpEkrjA4LWIHOkNxm9BQ0fRpZk2KzkmBkN9IO3-5Q5chLVWbLg63R7icwT416M2PDQSBsxb07YGYJWqV4PFWFFfB-VOlQgRSEswhmHIuV8NFzX93jJG8ErFT6COrdfa6qZFSUOp~K3~Z7Ah2Ws8AqHE0obxMxNV0Klg9oVh5R-a4l~Kw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Steven Spielberg",
-    "cast": "Emily Blunt, Josh O'Connor, Colin Firth, Colman Domingo, Eve Hewson, Wyatt Russell, Elizabeth Marvel, Henry Lloyd-Hughes",
-    "synopsis": "En un futur no gaire llunyà, la humanitat està a punt de descobrir la veritat sobre l'existència d'extraterrestres, un secret que ha estat ocult durant diverses dècades. Mentre milions de persones es preparen per rebre la revelació, algunes velles creences es veuen qüestionades, i la manera com entenem l'univers comença a canviar.Entre conspiracions, avenços en la tecnologia i trobades inesperades, la revelació promet canviar vides, relacions i la pròpia percepció del nostre lloc a l'univers per sempre.",
-    "showtimes": [
-      {
-        "day": "Dv. 24",
-        "sessions": [
-          {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88213"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 25",
-        "sessions": [
-          {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88214"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 26",
-        "sessions": [
-          {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88215"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 27",
-        "sessions": [
-          {
-            "time": "13.30",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88216"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 28",
-        "sessions": [
-          {
-            "time": "11.45",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88217"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "EN EL CAMINO",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/EN-EL-CAMINO-1920w.jpg?Expires=1787831198&Signature=bS8s-4px9FguWiD-WPTIv-YbnpzmjXpm2i32utB0NZMf2obr1HLgNBhPMPvjRS7ibHK44Topfznd4Wi4zLMa0ymNY161EAdxi7vlXymOOq3F50dj2GCFbenpI8ns15K0wN55c-PUSW32lgCuNZthwrtZnJ9fkbSfNwNDNI7~Agx4PWdWfXhEjJTPgAq4HcJCS1-AkupZnxUIPiae~BJYdb4MYWcPOvp4kENGTrTrdoeYX5UhbmKG4pu1kKMY0P5Q3WTJLfxwi812zC9TI9AM2CXmS2mDtDxECPwnaEXEBKAXwaBct5PePS4awrPodxFu~bsOtEk7bdDqRcGfo3VODg__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/EN-EL-CAMINO-1920w.jpg?Expires=1787995678&Signature=YziWf5xSqfjhwNSSCqQhfn5CUUmYc63-bRO-sFNthqTTEVhn3S~UIES4gjQdzbq~RUqcwVQbqAiV~0sJggBCRQhbQAkbPyxZ3-NGWi1W2tR~agPhfv0KjlLFA7A0hEuRrn21t4wIFcvIJb3RQS-yBESlFE30AgYvU3zZYCcIo7ZZp8T5Cq5tIAWCm8M1cX90EqdBtRZUKcFc2ksBsu~BUCz6rY1Xv20B2I8X~ZCAnAnMIjwG~rJszBe-4FWKN2-QO8Z2vODPoDhCiaKTQSffMFLIWgG4py6ro4~SsyfUDpdEF0hXqtcHjqKdG-AFdn3JcJAJqMFPkAh-1BQDSZsszw__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "David Pablos",
     "cast": "Víctor Prieto, Osvaldo Sánchez, Víctor Manuel Aguirre, Mariano López Sosa, Giovanni Ontiveros, Obdulia Morales, Juana Ramirez",
@@ -2320,63 +2297,8 @@
     ]
   },
   {
-    "title": "MARIELLE LO SABE TODO",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/marielle_lo_sabe_todo-cartel-13190-1920w.jpg?Expires=1787831198&Signature=AxxKVhZI-C7ETRS0ivCYxxbg4HtsFFyxf2bdsQP3AxSplvMkbtt4Tp9VN6soPRdfWAQXi4MpeIrWK6V7wW8GTd5QNoR5yQ7XzAnX~ViB5s2IcIaZKBP2fW-rUtsVWc85czeqEG1T4q0PSTrEHWBx8v1znbgGR1wvZoAfGhX8x4UjUul4g3TeAOaaKoMqRYAJJi8-SFD4l4hLnjY7yhWiobjv8yE1YVa-Dxfv-QDZ7-d9AERUqtBOuRwHehKrM7ZbkaA-rtKeQjEkF5rF1muOqVVNteGyOjnM6ZgQPYFxgkJXrkBXSsJUE-wrq6L1SEYzyhDvoxsov~PEGs6Fb5OOtw__&Key-Pair-Id=K2NXBXLF010TJW",
-    "duration": "",
-    "director": "Frédéric Hambalek",
-    "cast": "Julia Jentsch, Felix Kramer, Laeni Geiseler, Mehmet Atesci",
-    "synopsis": "Julia i Tobías semblen la parella perfecta. Però darrere de la façana i la cuina de disseny, s'endevinen problemes. El fràgil equilibri entre tots dos es trenca quan la seva filla Marielle desenvolupa sobtadament habilitats telepatiques que li atorguen el poder de veure i sentir tot el que fan els seus pares, de dia i de nit. La parella aviat s'adona que les mentides que s'han estat comptant ja no poden ocultar-les-hi a la nena. Quan els seus secrets més incòmodes surten a la llum, Julia i Tobias s'enreden en un joc de manipulació que desemboca en situacions cada vegada més incòmodes i absurdes que agreugen el conflicte i les seves conseqüències.",
-    "showtimes": [
-      {
-        "day": "Dv. 24",
-        "sessions": [
-          {
-            "time": "13.35",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88323"
-          }
-        ]
-      },
-      {
-        "day": "Ds. 25",
-        "sessions": [
-          {
-            "time": "13.40",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88324"
-          }
-        ]
-      },
-      {
-        "day": "Dg. 26",
-        "sessions": [
-          {
-            "time": "13.25",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88325"
-          }
-        ]
-      },
-      {
-        "day": "Dll. 27",
-        "sessions": [
-          {
-            "time": "13.35",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88326"
-          }
-        ]
-      },
-      {
-        "day": "Dt. 28",
-        "sessions": [
-          {
-            "time": "15.20",
-            "link": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88327"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "title": "LAS CORRIENTES",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/las_corrientes-cartel-13292-1920w.jpg?Expires=1787831198&Signature=Qffld53pW0wI6KpCyXnhKAQjcAmJaH7q4GE0ciqs3u6vtuTc~6huu0CQh5wsU77gkpdRlihwTYy4PyrvjuEStjSEZiGjGL8Ntpdb04NtHMao60cs-hY71om8e57~PBfjWDZeuuZaeGYbWNO4lyiQ3k~wfD~ZzjOCE07uMDU03UWH-1Q~Ciw~mitNBUcf1SSk2rj3vqNFae6hAhbNd~0vO4pU0JdzH4tOwTBvBbeQsBTimrywJ~wcpqr7jUYPQaNXDFf315RPCEumjzmkcakTBkXRdXSAtZD7wqbHWQKXwgVc~LZdHSAEdit~UnsidQaJ9-5XIVMLxJ4UJNCik92HRQ__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/las_corrientes-cartel-13292-1920w.jpg?Expires=1787995678&Signature=G3qdsyXp0EYiPHVfrwBJFT81G20bSs6VSQ7UbDSGLBdRc2ma6u8KRz1JbhzvNpguouWamNi173BWIX3rOzLe492kvsgj2TPsP-VG-LGEBK602bXolH6i3Yb4owMT6fC5kOC301Uf2wtGoyspBYku9WQGCBNUC9FiLMTH8~jLOME3sNd6mml-DIFfSjMCftpTnKWUHoUXo6oMGljwv9qaqoMCSCZqtmFQh8DfxLkMmILs2SizYmCIxvyHpFCNC1pfJ1kUb4KVGfPXLB4~EAxiYtXoVB5jyM1P6yggMGKcDeuZh-xFCkY0s3qgJDIGfEOt84~G76XweuxEZDXvs~mt9Q__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Milagros Mumenthaler",
     "cast": "Isabel Aimé González Sola, Esteban Bigliardi, Jazmin Carballo, Claudia Sánchez, Ernestina Gatti, Sara Bessio",
@@ -2431,7 +2353,7 @@
   },
   {
     "title": "COSAS QUE NO OLVIDARÉ",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/cosas_que_no_olvidare-cartel-13266-1920w.jpg?Expires=1787831198&Signature=FLKHHzI~51tzyb~8EbmS0Y77O9cM3I5uDqcsTtiVus7cfrGWt4LgYeDYcIa8xheItyy4Kgu1qzq8ZPwLUvUBuUX7QP8dL0wefGFfbS8GW6A~jeJhwkYi5SMakfi5Akanqoc6KRFZijxQ5niGUr~U8pwKo-Df3Hb5RTiYZHU0r5uah0c9FKAOct62iJtS2yHyuS1osG14JjKceidVHIDXeyIQ2Y7L07Tk0Ug15Avur7d8UXxUe3aSWuJoK6RTx6e7IbyQRO9xT9~qu3fh~yLUBlU6tN5z7HsBlEUtiFJY8Bk6tLmlU-g91VDSwjIeWqrJuyRvdD1~-WteWgIZOEdrXw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/cosas_que_no_olvidare-cartel-13266-1920w.jpg?Expires=1787995678&Signature=BEhF0UKHzyHJgmWs2iZbdoy4eWzBQ31P2l5APxWy4iCS6PSIkGvLfovdh6EBWBkF9L9HSFhX2Mxm1w7sKRy9RCsE2psQgkH9yQD-EMgpV7HZoYelYZVxkRzDJdNCQZLxX1dTZRjzGXBlL4GxsjTX42mRXO4L49FH754tfv2UevUAZEQfuwhExL6zOL9~Zz-Bxcd1jMUptPUIMlCpp8nDp0Ms9eQKY7vENi0QRC9Ek6EzTi43hDSw6~ZQ8KrhxXXeVWkdA2kyg7L53TChxrEI4cR7wENDhpDIlSSw8bVaaFGzsUFdJSX2KjJ7UVxByyBUcWqjcJaUJfpp~M5A2hY~yQ__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Alessandro Aronadio",
     "cast": "Edoardo Leo, Javier Francesco Leoni, Teresa Saponangelo, Eleonora Giovanardi, Giorgio Montanini, Daniele Parisi",
@@ -2495,7 +2417,7 @@
   },
   {
     "title": "PIONERAS: SOLO QUERÍAN JUGAR",
-    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/pioneras_solo_querian_jugar-cartel-13123-1920w.jpg?Expires=1787831198&Signature=P55YP09XJ-CKiqA26JY~3-oeQX0DGCLBWBeybHB5qpNiea9Ihp7GnA5qJhKNb-tDLPP2Hr9MESOySpkahFD8Tv85AN2LfH-PZnWXF3-CBhBcyjg9VWBYXERxqDT1xNTqj6i1wK-WL3P7TQloq9w4o4GckaZojpkXavrahnQe~j0cBl5u-caW7fwMPRkcT2erO~ICjzSwuft~5ac4WKZC4MY4L3-9hXwBJxyUtSHwa2GsqETOV0-svPqMg3Rkk3m1Nf99OeIshsbL8cq4e5kDewMlAPmLdAQJeI76FLIw64yG8JgXBTnKXaIYa-Cnh17xiSAJzUlOvuKLX9xzbH6Vqw__&Key-Pair-Id=K2NXBXLF010TJW",
+    "image": "https://le-cdn.website-editor.net/s/99fc1b625bcf4d27974532eb5603b5d2/dms3rep/multi/opt/pioneras_solo_querian_jugar-cartel-13123-1920w.jpg?Expires=1787995678&Signature=WC7n3cw5N56of1xSU5TjCZkAO2Rsj8zll2nt47dH8PYu0zMege5jpaNHx~CdKVinLW2CXCBVNmtClfVIe1yhF-0Cn80OLkX8tnk-3EX74QY5cGyDd7rrRBsEM3Rw8nKb-RtIT6YE8PvxuyRZBuW5UNT1mNn8RGqGs-Rc~1fsR3~dFDRMCTjTb76TuyIGuMCJhzw4XrHu2HHZGVJt55GRqr9wWyF-wEa3eweDNBNNils7jvcmswc9rxSXiNvo0TVuw3ATFLEmRFpcAwU1Sz~itUhW~PINTLRhC1OxMejYrGBYusulL9pnOtNczRjMp5QpllTrKomuyWjFI5WM2bUQTA__&Key-Pair-Id=K2NXBXLF010TJW",
     "duration": "",
     "director": "Marta Díaz de Lope Díaz",
     "cast": "Sofía de Iznájar, Daniel Ibañez, Aixa Villagrán, José Troncoso, Elena Irureta, Jordi Sánchez, Nora Otxoteko, Leire Aguilar, Miriam Rubio",
